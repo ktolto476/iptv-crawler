@@ -5,7 +5,6 @@ import json
 from pathlib import Path
 from urllib.parse import urlparse
 
-
 ROOT = Path(__file__).parent
 OUT_M3U = ROOT / "playlist.m3u"
 OUT_JSON = ROOT / "channels.json"
@@ -15,11 +14,13 @@ USER_AGENT = "Mozilla/5.0 (compatible; IPTV-Crawler/1.1)"
 TIMEOUT = 12
 MAX_TOTAL = 200       
 MAX_CANDIDATES = 800  
-SLEEP = 0.6
+SLEEP = 0.6           
+
+ALLOWED_COUNTRIES = ["ru"]          
+ALLOWED_TZ = ["UTC+5", "GMT+5"]     
 
 
-ALLOWED_COUNTRIES = ["ru"]
-ALLOWED_TZ = ["UTC+5", "GMT+5"]  
+BAD_WORDS = ["geo-blocked", "not 24/7", "iframe", "player"]
 
 session = requests.Session()
 session.headers.update({"User-Agent": USER_AGENT})
@@ -27,8 +28,8 @@ session.headers.update({"User-Agent": USER_AGENT})
 M3U8_RE = re.compile(r"https?://[^\s'\"<>]+\.m3u8(?:\?[^\s'\"<>]*)?", re.I)
 
 
-def safe_get(url):
-    
+def safe_get(url: str):
+  
     try:
         with session.get(url, timeout=TIMEOUT, allow_redirects=True, stream=True) as r:
             chunk = b""
@@ -45,7 +46,7 @@ def safe_get(url):
         return None
 
 
-def is_m3u8_url_ok(url):
+def is_m3u8_url_ok(url: str) -> bool:
     
     r = safe_get(url)
     if not r or r._status != 200:
@@ -59,45 +60,36 @@ def is_m3u8_url_ok(url):
     return False
 
 
-def parse_m3u(text):
-    
-    urls = []
+def parse_m3u(text: str):
+  
+    channels = []
     current_name = None
     current_tvgid = None
-    current_group = None
     current_tz = None
-
-    channels = []
 
     for line in text.splitlines():
         line = line.strip()
         if line.startswith("#EXTINF"):
-            
             current_name = None
             current_tvgid = None
-            current_group = None
             current_tz = None
 
-            
             if 'tvg-country=' in line:
                 m = re.search(r'tvg-country="([^"]+)"', line)
                 if m:
                     current_tvgid = m.group(1).lower()
 
-            
             if 'tvg-timezone=' in line:
                 m = re.search(r'tvg-timezone="([^"]+)"', line)
                 if m:
                     current_tz = m.group(1)
 
-            
             if "," in line:
                 current_name = line.split(",")[-1].strip()
 
         elif line and line.startswith("http"):
-            url = line
             channels.append({
-                "url": url,
+                "url": line,
                 "name": current_name or "Unknown",
                 "country": current_tvgid,
                 "tz": current_tz
@@ -106,9 +98,15 @@ def parse_m3u(text):
     return channels
 
 
-def normalize_name(url):
+def normalize_name(url: str) -> str:
     parsed = urlparse(url)
     return (parsed.netloc + parsed.path).strip("/").replace("/", "_")[:80]
+
+
+def is_bad_channel(c: dict) -> bool:
+   
+    nm = (c.get("name") or "").lower()
+    return any(bad in nm for bad in BAD_WORDS)
 
 
 def main():
@@ -118,6 +116,7 @@ def main():
         print("Нет sources.txt")
         return
 
+  
     for src in SOURCES.read_text().splitlines():
         src = src.strip()
         if not src or src.startswith("#"):
@@ -140,18 +139,22 @@ def main():
 
     print("[INFO] Найдено кандидатов:", len(candidates))
 
-    
+  
     filtered = []
     for c in candidates:
         if c["country"] and c["country"] not in ALLOWED_COUNTRIES:
             continue
-        if c["tz"] and not any(tz in c["tz"] for tz in ALLOWED_TZ):
+        if c["tz"] and not any(tz in (c["tz"] or "") for tz in ALLOWED_TZ):
+            continue
+        if is_bad_channel(c):
+            continue
+        if not c["url"].lower().endswith(".m3u8"):
             continue
         filtered.append(c)
 
     print("[INFO] После фильтров:", len(filtered))
 
-    
+ 
     good = []
     seen = set()
     for c in filtered:
@@ -183,7 +186,6 @@ def main():
         })
     OUT_JSON.write_text(json.dumps(channels, ensure_ascii=False, indent=2), "utf-8")
 
-    
     lines = ["#EXTM3U"]
     for ch in channels:
         lines.append(f"#EXTINF:-1,{ch['name']}")
