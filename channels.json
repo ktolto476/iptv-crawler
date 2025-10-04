@@ -216,6 +216,14 @@
     "headers": {}
   },
   {
+    "name": "SONGTV Russia (720p)",
+    "tvg-id": "songtv russia (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "START Air",
     "tvg-id": "start air",
     "group": "auto",
@@ -584,14 +592,6 @@
     "headers": {}
   },
   {
-    "name": "Карусель",
-    "tvg-id": "карусель",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/11.m3u8",
-    "headers": {}
-  },
-  {
     "name": "КВН ТВ",
     "tvg-id": "квн тв",
     "group": "auto",
@@ -672,14 +672,6 @@
     "headers": {}
   },
   {
-    "name": "Луганск 24",
-    "tvg-id": "луганск 24",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Луч",
     "tvg-id": "луч",
     "group": "auto",
@@ -741,14 +733,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "МузТВ",
-    "tvg-id": "музтв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
     "headers": {}
   },
   {
@@ -828,14 +812,6 @@
     "tvg-id": "нтв",
     "group": "auto",
     "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "НТВ",
-    "tvg-id": "нтв",
-    "group": "auto",
-    "type": "direct",
     "source": "https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8",
     "headers": {}
   },
@@ -893,6 +869,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Победа",
+    "tvg-id": "победа",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.thestream.cyou/live/43.m3u8",
     "headers": {}
   },
   {
@@ -1088,22 +1072,6 @@
     "headers": {}
   },
   {
-    "name": "Спас",
-    "tvg-id": "спас",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "СТС",
-    "tvg-id": "стс",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/16.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Студия Факт",
     "tvg-id": "студия факт",
     "group": "auto",
@@ -1128,27 +1096,11 @@
     "headers": {}
   },
   {
-    "name": "Таврия",
-    "tvg-id": "таврия",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/24.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Тамыр (Уфа)",
     "tvg-id": "тамыр (уфа)",
     "group": "auto",
     "type": "direct",
     "source": "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТВ3",
-    "tvg-id": "тв3",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
     "headers": {}
   },
   {
@@ -1213,14 +1165,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТНТ",
-    "tvg-id": "тнт",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/23.m3u8",
     "headers": {}
   },
   {
@@ -1464,22 +1408,6 @@
     "headers": {}
   },
   {
-    "name": "За!ТВ",
-    "tvg-id": "за!тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/25.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Крым 24",
-    "tvg-id": "крым 24",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/28.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Ланет.TV (486p)",
     "tvg-id": "ланет.tv (486p)",
     "group": "auto",
@@ -1501,14 +1429,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Первый Республиканский",
-    "tvg-id": "первый республиканский",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1517,86 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdn.002radio.com:3909/live/radio002live.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "2GB Sydney (1080p)",
+    "tvg-id": "2gb sydney (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "2M Monde +1 (1080p)",
+    "tvg-id": "2m monde +1 (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "2STV",
+    "tvg-id": "2stv",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://69.64.57.208/2stv/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "2TV (720p)",
+    "tvg-id": "2tv (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "3/24 (1080p)",
+    "tvg-id": "3/24 (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "3ABN Canada",
+    "tvg-id": "3abn canada",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "3ABN Dare To Dream Network",
+    "tvg-id": "3abn dare to dream network",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "3ABN English",
+    "tvg-id": "3abn english",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "3ABN French",
+    "tvg-id": "3abn french",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "3ABN International",
+    "tvg-id": "3abn international",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
     "headers": {}
   }
 ]
