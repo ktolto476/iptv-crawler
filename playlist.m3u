@@ -115,6 +115,8 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1,Дом Кино Премиум HD
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1,Домашний
+https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTINF:-1,Домашний International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1,Дума ТВ
@@ -147,6 +149,8 @@ http://31.148.48.15/Zee_TV_Russia/index.m3u8
 http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1,Кавказ 24 (Ставрополь)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1,Карусель
+https://streaming.televizor-24-tochka.ru/live/11.m3u8
 #EXTINF:-1,КВН ТВ
 http://31.148.48.15/KVN_TV/index.m3u8
 #EXTINF:-1,Кинеко
@@ -167,6 +171,8 @@ https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1,ЛДПР ТВ (1080p)
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1,Луганск 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1,Луч
 https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
 #EXTINF:-1,Магнат ТВ
@@ -183,6 +189,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 #EXTINF:-1,Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1,МузТВ
+https://streaming.televizor-24-tochka.ru/live/20.m3u8
 #EXTINF:-1,Музыка Первого
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1,Мульт
@@ -202,6 +210,8 @@ https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1,Новый Век
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
 #EXTINF:-1,НТВ
+https://streaming.televizor-24-tochka.ru/live/7.m3u8
+#EXTINF:-1,НТВ
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1,о2тв
 http://31.148.48.15/O2_HD/index.m3u8
@@ -211,6 +221,8 @@ https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1,Открытый мир. Здоровье
 https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1,ОТР
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
 #EXTINF:-1,Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1,Первый Музыкальный Канал (576p)
@@ -233,6 +245,8 @@ http://lova.me/hls/hithd.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1,РБК (576p)
 https://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1,Рен ТВ
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
 #EXTINF:-1,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1,Россия К
@@ -267,14 +281,22 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1,Союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1,Спас
+https://streaming.televizor-24-tochka.ru/live/15.m3u8
+#EXTINF:-1,СТС
+https://streaming.televizor-24-tochka.ru/live/16.m3u8
 #EXTINF:-1,Студия Факт
 https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
 #EXTINF:-1,Суббота!
 http://hls2.hd-tv.club/2_super/index.m3u8
 #EXTINF:-1,СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
+#EXTINF:-1,Таврия
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1,Тамыр (Уфа)
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1,ТВ3
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
 #EXTINF:-1,ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1,Твое TV HD
@@ -291,6 +313,8 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8
 https://stream.almaz-media.tv:8080/hls/576.m3u8
 #EXTINF:-1,ТНВ-Планета (Казань)
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+#EXTINF:-1,ТНТ
+https://streaming.televizor-24-tochka.ru/live/23.m3u8
 #EXTINF:-1,Толк HD
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1,Три Ангела (720p)
@@ -351,12 +375,18 @@ https://stream.ztv.zp.ua/hls/live.m3u8
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1,Глас (576p)
 http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1,За!ТВ
+https://streaming.televizor-24-tochka.ru/live/25.m3u8
+#EXTINF:-1,Крым 24
+https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:-1,Ланет.TV (486p)
 https://kiev1-cdn.lanet.tv/live/1008.m3u8
 #EXTINF:-1,Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1,Общественное Независимое Телевидение (576p)
 http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1,Первый Республиканский
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1,Сфера ТВ
 http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
 #EXTINF:-1,ТВА (Чернiвцi) (576p)
@@ -369,33 +399,3 @@ https://ott.columbus.te.ua/ternopil1/index.m3u8
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1,1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1,1Almere TV (720p)
-https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
-#EXTINF:-1,1KZN TV (576p)
-https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
-#EXTINF:-1,1TV (720p)
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1,1Twente TV (1080p)
-https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
-#EXTINF:-1,002 Radio TV (720p)
-https://cdn.002radio.com:3909/live/radio002live.m3u8
-#EXTINF:-1,2GB Sydney (1080p)
-https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
-#EXTINF:-1,2M Monde +1 (1080p)
-https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1,2STV
-http://69.64.57.208/2stv/playlist.m3u8
-#EXTINF:-1,2TV (720p)
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1,3/24 (1080p)
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1,3ABN Canada
-https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-#EXTINF:-1,3ABN Dare To Dream Network
-https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-#EXTINF:-1,3ABN English
-https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
-#EXTINF:-1,3ABN French
-https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-#EXTINF:-1,3ABN International
-https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
