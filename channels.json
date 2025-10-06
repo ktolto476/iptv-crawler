@@ -1,5 +1,13 @@
 [
   {
+    "name": "5 Канал",
+    "tvg-id": "5 канал",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/8.m3u8",
+    "headers": {}
+  },
+  {
     "name": "12 канал (1080p)",
     "tvg-id": "12 канал (1080p)",
     "group": "auto",
@@ -93,6 +101,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://catchup.videoline.ru/cinema/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "DanceHits80",
+    "tvg-id": "dancehits80",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
     "headers": {}
   },
   {
@@ -213,14 +229,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "SONGTV Russia (720p)",
-    "tvg-id": "songtv russia (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
     "headers": {}
   },
   {
@@ -1357,14 +1365,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://avers.pp.ua/hls/efir.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Cherniveckiy promin (720p)",
-    "tvg-id": "cherniveckiy promin (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://langate.tv/promin/live_720/index.m3u8",
     "headers": {}
   },
   {
