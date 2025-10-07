@@ -25,8 +25,6 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1,Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:-1,DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1,FoodTime
@@ -369,8 +367,6 @@ https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
 #EXTINF:-1,TV Rivne 1 (720p)
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:-1,Z (Запорожье) (1080p)
-https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1,Балта ТВ (768p)
 http://194.50.51.34/playlist.m3u8
 #EXTINF:-1,Глас (576p)
@@ -399,3 +395,7 @@ https://ott.columbus.te.ua/ternopil1/index.m3u8
 https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1,1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
+#EXTINF:-1,1Almere TV (720p)
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+#EXTINF:-1,1KZN TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/1kzntv/playlist.m3u8
