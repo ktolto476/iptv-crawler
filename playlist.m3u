@@ -25,6 +25,8 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1,Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1,DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1,FoodTime
@@ -119,8 +121,6 @@ http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTINF:-1,Домашний International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
-#EXTINF:-1,Дума ТВ
-https://dumatv.iptv2022.com/index.m3u8
 #EXTINF:-1,Евразия (Орск) (720p)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1,Еврокино
@@ -333,69 +333,69 @@ http://31.148.48.15/Che/index.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1,Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1,1-2-3 TV (270p)
-https://123tv-mx1.flex-cdn.net/index.m3u8
-#EXTINF:-1,1Almere TV (720p)
-https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
-#EXTINF:-1,1KZN TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/1kzntv/playlist.m3u8
-#EXTINF:-1,1TV (720p)
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1,1Twente TV (1080p)
-https://ms7.mx-cd.net/dtv-11/198-989148/1Twente_TV.smil/chunklist_w954512639_b4292608_slNLD.m3u8
-#EXTINF:-1,2GB Sydney (1080p)
-https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
-#EXTINF:-1,2M Monde +1 (1080p)
-https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1,2STV
-http://69.64.57.208/2stv/playlist.m3u8
-#EXTINF:-1,2TV (720p)
-https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
-#EXTINF:-1,3/24 (1080p)
-https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1,3ABN Canada
-https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
-#EXTINF:-1,3ABN Dare To Dream Network
-https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
-#EXTINF:-1,3ABN English
-https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
-#EXTINF:-1,3ABN French
-https://3abn.bozztv.com/3abn2/Fre_live/smil:Fre_live.smil/playlist.m3u8
-#EXTINF:-1,3ABN International
-https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-#EXTINF:-1,3ABN Kids
-https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
-#EXTINF:-1,3ABN Latino
-https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
-#EXTINF:-1,3ABN Praise Him Music Network
-https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
-#EXTINF:-1,3ABN Proclaim! Network
-https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
-#EXTINF:-1,3AW Melbourne (1080p)
-https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
-#EXTINF:-1,3HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
-#EXTINF:-1,3sat HD (1080p)
-https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-#EXTINF:-1,3TV
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/3tv/playlist.m3u8
-#EXTINF:-1,4 Afghanistan
-https://4afghls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,4E (1080p)
-http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
-#EXTINF:-1,4K Travel TV
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
-#EXTINF:-1,4 Kurd
-https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,4 Music
-https://4muhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1,4U TV (720p)
-https://hls.4utv.live/hls/stream.m3u8
-#EXTINF:-1,5-Minute Craft (1080p)
-https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1,6PR Perth (1080p)
-https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-#EXTINF:-1,6 TV Telugu (720p)
-https://cdn-1.pishow.tv/live/232/master.m3u8
-#EXTINF:-1,7 Info
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/7info/playlist.m3u8
+#EXTINF:-1,360° HD
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
+#EXTINF:-1,RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
+#EXTINF:-1,TV BRICS HD
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1,Беларусь 1 HD
+https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8
+#EXTINF:-1,БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
+#EXTINF:-1,Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Время
+https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8
+#EXTINF:-1,Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,Красная линия
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,НТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
+#EXTINF:-1,ОНТ HD
+https://edge53.dc.beltelecom.by/ont/_definst_/ont/chunklist_w741300442.m3u8
+#EXTINF:-1,ОТР
+http://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
+#EXTINF:-1,ПРНК HD
+https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8
+#EXTINF:-1,Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1,Рен ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1,Рен ТВ Int HD
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1,Россия 1
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
+#EXTINF:-1,CTV.BY HD
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1,ТВ3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1,ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1,360° Новости HD
+https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
+#EXTINF:-1,RTД HD
+http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1,Беларусь 24 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
+#EXTINF:-1,Известия HD
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,Крик ТВ HD
+http://hls-rictv.cdnvideo.ru/rictv/rictv-srt-stream/playlist.m3u8
+#EXTINF:-1,Москва Доверие
+http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
+#EXTINF:-1,Первый информационный HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8
+#EXTINF:-1,Россия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8
+#EXTINF:-1,РБК HD
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:-1,Life TV
+http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
+#EXTINF:-1,МузСоюз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1,Союз HD
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
