@@ -17,8 +17,8 @@ MAX_CANDIDATES = 800
 SLEEP = 0.6           
 
 ALLOWED_COUNTRIES = ["ru"]          
-ALLOWED_LANGUAGES = ["russian"]
-ALLOWED_TZ = ["Asia/Yekaterinburg"]  # Только Екатеринбург
+ALLOWED_TZ = ["UTC+5", "GMT+5"]     
+
 
 BAD_WORDS = ["geo-blocked", "not 24/7", "iframe", "player"]
 
@@ -29,6 +29,7 @@ M3U8_RE = re.compile(r"https?://[^\s'\"<>]+\.m3u8(?:\?[^\s'\"<>]*)?", re.I)
 
 
 def safe_get(url: str):
+  
     try:
         with session.get(url, timeout=TIMEOUT, allow_redirects=True, stream=True) as r:
             chunk = b""
@@ -46,6 +47,7 @@ def safe_get(url: str):
 
 
 def is_m3u8_url_ok(url: str) -> bool:
+    
     r = safe_get(url)
     if not r or r._status != 200:
         return False
@@ -59,11 +61,11 @@ def is_m3u8_url_ok(url: str) -> bool:
 
 
 def parse_m3u(text: str):
+  
     channels = []
     current_name = None
     current_tvgid = None
     current_tz = None
-    current_language = None
 
     for line in text.splitlines():
         line = line.strip()
@@ -71,7 +73,6 @@ def parse_m3u(text: str):
             current_name = None
             current_tvgid = None
             current_tz = None
-            current_language = None
 
             if 'tvg-country=' in line:
                 m = re.search(r'tvg-country="([^"]+)"', line)
@@ -83,11 +84,6 @@ def parse_m3u(text: str):
                 if m:
                     current_tz = m.group(1)
 
-            if 'tvg-language=' in line:
-                m = re.search(r'tvg-language="([^"]+)"', line)
-                if m:
-                    current_language = m.group(1).lower()
-
             if "," in line:
                 current_name = line.split(",")[-1].strip()
 
@@ -96,8 +92,7 @@ def parse_m3u(text: str):
                 "url": line,
                 "name": current_name or "Unknown",
                 "country": current_tvgid,
-                "tz": current_tz,
-                "language": current_language
+                "tz": current_tz
             })
 
     return channels
@@ -109,6 +104,7 @@ def normalize_name(url: str) -> str:
 
 
 def is_bad_channel(c: dict) -> bool:
+   
     nm = (c.get("name") or "").lower()
     return any(bad in nm for bad in BAD_WORDS)
 
@@ -120,7 +116,7 @@ def main():
         print("Нет sources.txt")
         return
 
-    # Используем только российский источник
+  
     for src in SOURCES.read_text().splitlines():
         src = src.strip()
         if not src or src.startswith("#"):
@@ -136,36 +132,29 @@ def main():
             candidates.extend(chans)
         else:
             for url in M3U8_RE.findall(text):
-                candidates.append({"url": url, "name": None, "country": None, "tz": None, "language": None})
+                candidates.append({"url": url, "name": None, "country": None, "tz": None})
 
         if len(candidates) >= MAX_CANDIDATES:
             break
 
     print("[INFO] Найдено кандидатов:", len(candidates))
 
-    # Фильтрация
+  
     filtered = []
     for c in candidates:
-        # Проверка страны
         if c["country"] and c["country"] not in ALLOWED_COUNTRIES:
             continue
-        # Проверка языка
-        if c["language"] and c["language"] not in ALLOWED_LANGUAGES:
-            continue
-        # Проверка часового пояса
         if c["tz"] and not any(tz in (c["tz"] or "") for tz in ALLOWED_TZ):
             continue
-        # Проверка по ключевым словам
         if is_bad_channel(c):
             continue
-        # Проверка на .m3u8
         if not c["url"].lower().endswith(".m3u8"):
             continue
         filtered.append(c)
 
     print("[INFO] После фильтров:", len(filtered))
 
-    # Проверка валидности URL
+ 
     good = []
     seen = set()
     for c in filtered:
@@ -183,7 +172,7 @@ def main():
 
     print("[RESULT] Рабочих ссылок:", len(good))
 
-    # Формирование JSON и M3U
+    
     channels = []
     for c in good:
         nm = c["name"] or normalize_name(c["url"])
