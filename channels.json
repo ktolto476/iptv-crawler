@@ -1,5 +1,13 @@
 [
   {
+    "name": "5 Канал",
+    "tvg-id": "5 канал",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/8.m3u8",
+    "headers": {}
+  },
+  {
     "name": "12 канал (1080p)",
     "tvg-id": "12 канал (1080p)",
     "group": "auto",
@@ -213,14 +221,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "SONGTV Russia (720p)",
-    "tvg-id": "songtv russia (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
     "headers": {}
   },
   {
@@ -464,6 +464,14 @@
     "headers": {}
   },
   {
+    "name": "Домашний",
+    "tvg-id": "домашний",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/17.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Домашний International",
     "tvg-id": "домашний international",
     "group": "auto",
@@ -592,6 +600,14 @@
     "headers": {}
   },
   {
+    "name": "Карусель",
+    "tvg-id": "карусель",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/11.m3u8",
+    "headers": {}
+  },
+  {
     "name": "КВН ТВ",
     "tvg-id": "квн тв",
     "group": "auto",
@@ -672,6 +688,14 @@
     "headers": {}
   },
   {
+    "name": "Луганск 24",
+    "tvg-id": "луганск 24",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Луч",
     "tvg-id": "луч",
     "group": "auto",
@@ -693,6 +717,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Матур ТВ (1080p)",
+    "tvg-id": "матур тв (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8",
     "headers": {}
   },
   {
@@ -725,6 +757,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "МузТВ",
+    "tvg-id": "музтв",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
     "headers": {}
   },
   {
@@ -804,6 +844,14 @@
     "tvg-id": "нтв",
     "group": "auto",
     "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "НТВ",
+    "tvg-id": "нтв",
+    "group": "auto",
+    "type": "direct",
     "source": "https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8",
     "headers": {}
   },
@@ -837,6 +885,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://v4.proofix.ru/0mir/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ОТР",
+    "tvg-id": "отр",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/12.m3u8",
     "headers": {}
   },
   {
@@ -925,6 +981,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Рен ТВ",
+    "tvg-id": "рен тв",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
     "headers": {}
   },
   {
@@ -1064,6 +1128,22 @@
     "headers": {}
   },
   {
+    "name": "Спас",
+    "tvg-id": "спас",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "СТС",
+    "tvg-id": "стс",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/16.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Студия Факт",
     "tvg-id": "студия факт",
     "group": "auto",
@@ -1088,11 +1168,27 @@
     "headers": {}
   },
   {
+    "name": "Таврия",
+    "tvg-id": "таврия",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/24.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Тамыр (Уфа)",
     "tvg-id": "тамыр (уфа)",
     "group": "auto",
     "type": "direct",
     "source": "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ТВ3",
+    "tvg-id": "тв3",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
     "headers": {}
   },
   {
@@ -1157,6 +1253,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ТНТ",
+    "tvg-id": "тнт",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/23.m3u8",
     "headers": {}
   },
   {
@@ -1229,222 +1333,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "24 Канал (1080p)",
-    "tvg-id": "24 канал (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "100% News (576p)",
-    "tvg-id": "100% news (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Avers (480p)",
-    "tvg-id": "avers (480p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://avers.pp.ua/hls/efir.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Cherniveckiy promin (720p)",
-    "tvg-id": "cherniveckiy promin (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://langate.tv/promin/live_720/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "EWTN Ukraine (1080p)",
-    "tvg-id": "ewtn ukraine (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Freedom (FREEДOM) (UATV) (720p)",
-    "tvg-id": "freedom (freeдom) (uatv) (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ITV (480p)",
-    "tvg-id": "itv (480p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Izmail TV (384p)",
-    "tvg-id": "izmail tv (384p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "M2 (540p)",
-    "tvg-id": "m2 (540p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.m2.tv/hls3/stream.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Pershiy XTV Media (576p)",
-    "tvg-id": "pershiy xtv media (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "PTV (720p)",
-    "tvg-id": "ptv (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Renome (576p)",
-    "tvg-id": "renome (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "SK 1 (720p)",
-    "tvg-id": "sk 1 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Telekanal RAI (480p)",
-    "tvg-id": "telekanal rai (480p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.rai.ua/rai/stream.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TIS TV (720p)",
-    "tvg-id": "tis tv (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TRK Krug (576p)",
-    "tvg-id": "trk krug (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TV Rivne 1 (720p)",
-    "tvg-id": "tv rivne 1 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Балта ТВ (768p)",
-    "tvg-id": "балта тв (768p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://194.50.51.34/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Глас (576p)",
-    "tvg-id": "глас (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Ланет.TV (486p)",
-    "tvg-id": "ланет.tv (486p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://kiev1-cdn.lanet.tv/live/1008.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Легендарный 24",
-    "tvg-id": "легендарный 24",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Общественное Независимое Телевидение (576p)",
-    "tvg-id": "общественное независимое телевидение (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Сфера ТВ",
-    "tvg-id": "сфера тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТВА (Чернiвцi) (576p)",
-    "tvg-id": "тва (чернiвцi) (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Телеканал Репортер Одесса (720p)",
-    "tvg-id": "телеканал репортер одесса (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Тернопіль 1 (720p)",
-    "tvg-id": "тернопіль 1 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://ott.columbus.te.ua/ternopil1/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Тюсо (720p)",
-    "tvg-id": "тюсо (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1485,118 @@
     "group": "auto",
     "type": "direct",
     "source": "https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "3AW Melbourne (1080p)",
+    "tvg-id": "3aw melbourne (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "3HD",
+    "tvg-id": "3hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "3sat HD (1080p)",
+    "tvg-id": "3sat hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "3TV",
+    "tvg-id": "3tv",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/3tv/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "4 Afghanistan",
+    "tvg-id": "4 afghanistan",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://4afghls.persiana.live/hls/stream.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "4E (1080p)",
+    "tvg-id": "4e (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "4K Travel TV",
+    "tvg-id": "4k travel tv",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "4 Kurd",
+    "tvg-id": "4 kurd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://4kuhls.persiana.live/hls/stream.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "4 Music",
+    "tvg-id": "4 music",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://4muhls.persiana.live/hls/stream.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "4U TV (720p)",
+    "tvg-id": "4u tv (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://hls.4utv.live/hls/stream.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "5-Minute Craft (1080p)",
+    "tvg-id": "5-minute craft (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "6PR Perth (1080p)",
+    "tvg-id": "6pr perth (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "6 TV Telugu (720p)",
+    "tvg-id": "6 tv telugu (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn-1.pishow.tv/live/232/master.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "7 Info",
+    "tvg-id": "7 info",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/7info/playlist.m3u8",
     "headers": {}
   }
 ]

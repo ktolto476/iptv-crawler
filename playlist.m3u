@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,5 Канал
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
 #EXTINF:-1,12 канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1,360° (1080p)
@@ -53,8 +55,6 @@ https://hls-03-video.webcaramba.com/rutv/live.m3u8
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1,SGDF24.RU
 https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8
-#EXTINF:-1,SONGTV Russia (720p)
-https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1,START Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1,START World
@@ -115,6 +115,8 @@ https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 https://streaming.thestream.cyou/live/44.m3u8
 #EXTINF:-1,Дом Кино Премиум HD
 http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
+#EXTINF:-1,Домашний
+https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTINF:-1,Домашний International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1,Дума ТВ
@@ -147,6 +149,8 @@ http://31.148.48.15/Zee_TV_Russia/index.m3u8
 http://31.148.48.15/Istoriya/index.m3u8
 #EXTINF:-1,Кавказ 24 (Ставрополь)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
+#EXTINF:-1,Карусель
+https://streaming.televizor-24-tochka.ru/live/11.m3u8
 #EXTINF:-1,КВН ТВ
 http://31.148.48.15/KVN_TV/index.m3u8
 #EXTINF:-1,Кинеко
@@ -167,12 +171,16 @@ https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 http://31.148.48.15/Kuhnya_TV/index.m3u8
 #EXTINF:-1,ЛДПР ТВ (1080p)
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1,Луганск 24
+https://streaming.televizor-24-tochka.ru/live/29.m3u8
 #EXTINF:-1,Луч
 https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
 #EXTINF:-1,Магнат ТВ
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1,Мама
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
+#EXTINF:-1,Матур ТВ (1080p)
+https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1,Матч! Арена
 http://194.143.148.28:8080/MatchArena/index.m3u8
 #EXTINF:-1,Мир 24 (1080p)
@@ -181,6 +189,8 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 #EXTINF:-1,Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1,МузТВ
+https://streaming.televizor-24-tochka.ru/live/20.m3u8
 #EXTINF:-1,Музыка Первого
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1,Мульт
@@ -200,6 +210,8 @@ https://vod.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1,Новый Век
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
 #EXTINF:-1,НТВ
+https://streaming.televizor-24-tochka.ru/live/7.m3u8
+#EXTINF:-1,НТВ
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 #EXTINF:-1,о2тв
 http://31.148.48.15/O2_HD/index.m3u8
@@ -209,6 +221,8 @@ https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1,Открытый мир. Здоровье
 https://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1,ОТР
+https://streaming.televizor-24-tochka.ru/live/12.m3u8
 #EXTINF:-1,Патриот (576i)
 http://catchup.videoline.ru/asvtv/index.m3u8
 #EXTINF:-1,Первый Музыкальный Канал (576p)
@@ -231,6 +245,8 @@ http://lova.me/hls/hithd.m3u8
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 #EXTINF:-1,РБК (576p)
 https://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1,Рен ТВ
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
 #EXTINF:-1,Россия 1
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1,Россия К
@@ -265,14 +281,22 @@ http://tv.mediacdn.ru/live/solntse/playlist.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1,Союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1,Спас
+https://streaming.televizor-24-tochka.ru/live/15.m3u8
+#EXTINF:-1,СТС
+https://streaming.televizor-24-tochka.ru/live/16.m3u8
 #EXTINF:-1,Студия Факт
 https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
 #EXTINF:-1,Суббота!
 http://hls2.hd-tv.club/2_super/index.m3u8
 #EXTINF:-1,СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
+#EXTINF:-1,Таврия
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1,Тамыр (Уфа)
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:-1,ТВ3
+https://streaming.televizor-24-tochka.ru/live/18.m3u8
 #EXTINF:-1,ТВ Центр
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8
 #EXTINF:-1,Твое TV HD
@@ -289,6 +313,8 @@ http://31.148.48.15/Teleputeshestviya/index.m3u8
 https://stream.almaz-media.tv:8080/hls/576.m3u8
 #EXTINF:-1,ТНВ-Планета (Казань)
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
+#EXTINF:-1,ТНТ
+https://streaming.televizor-24-tochka.ru/live/23.m3u8
 #EXTINF:-1,Толк HD
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1,Три Ангела (720p)
@@ -307,60 +333,6 @@ http://31.148.48.15/Che/index.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1,Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1,24 Канал (1080p)
-https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
-#EXTINF:-1,100% News (576p)
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1,Avers (480p)
-https://avers.pp.ua/hls/efir.m3u8
-#EXTINF:-1,Cherniveckiy promin (720p)
-http://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1,EWTN Ukraine (1080p)
-https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8
-#EXTINF:-1,Freedom (FREEДOM) (UATV) (720p)
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
-#EXTINF:-1,ITV (480p)
-https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1,Izmail TV (384p)
-https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
-#EXTINF:-1,M2 (540p)
-https://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1,Pershiy XTV Media (576p)
-https://hls.xtvmedia.pp.ua:8443/hls/trk1tv.m3u8
-#EXTINF:-1,PTV (720p)
-https://cdn10.live-tv.cloud/hrpl/hrpl-abr/playlist.m3u8
-#EXTINF:-1,Renome (576p)
-http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
-#EXTINF:-1,SK 1 (720p)
-http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
-#EXTINF:-1,Telekanal RAI (480p)
-https://stream.rai.ua/rai/stream.m3u8
-#EXTINF:-1,TIS TV (720p)
-https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8
-#EXTINF:-1,TRK Krug (576p)
-http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
-#EXTINF:-1,TV Rivne 1 (720p)
-https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:-1,Балта ТВ (768p)
-http://194.50.51.34/playlist.m3u8
-#EXTINF:-1,Глас (576p)
-http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
-#EXTINF:-1,Ланет.TV (486p)
-https://kiev1-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:-1,Легендарный 24
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
-#EXTINF:-1,Общественное Независимое Телевидение (576p)
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1,Сфера ТВ
-http://cdn10.live-tv.od.ua:8081/sferarv/sferarv-abr/playlist.m3u8
-#EXTINF:-1,ТВА (Чернiвцi) (576p)
-http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
-#EXTINF:-1,Телеканал Репортер Одесса (720p)
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
-#EXTINF:-1,Тернопіль 1 (720p)
-https://ott.columbus.te.ua/ternopil1/index.m3u8
-#EXTINF:-1,Тюсо (720p)
-https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8
 #EXTINF:-1,1-2-3 TV (270p)
 https://123tv-mx1.flex-cdn.net/index.m3u8
 #EXTINF:-1,1Almere TV (720p)
@@ -399,3 +371,31 @@ https://3abn.bozztv.com/3abn2/Lat_live/smil:Lat_live.smil/playlist.m3u8
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1,3ABN Proclaim! Network
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
+#EXTINF:-1,3AW Melbourne (1080p)
+https://3awlive.akamaized.net/hls/live/2032295/3AW/index.m3u8
+#EXTINF:-1,3HD
+https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
+#EXTINF:-1,3sat HD (1080p)
+https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
+#EXTINF:-1,3TV
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120430/3tv/playlist.m3u8
+#EXTINF:-1,4 Afghanistan
+https://4afghls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,4E (1080p)
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1,4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1,4 Kurd
+https://4kuhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,4 Music
+https://4muhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1,4U TV (720p)
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1,5-Minute Craft (1080p)
+https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,6PR Perth (1080p)
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+#EXTINF:-1,6 TV Telugu (720p)
+https://cdn-1.pishow.tv/live/232/master.m3u8
+#EXTINF:-1,7 Info
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/7info/playlist.m3u8
