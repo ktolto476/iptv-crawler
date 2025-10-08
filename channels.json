@@ -1,13 +1,5 @@
 [
   {
-    "name": "5 Канал",
-    "tvg-id": "5 канал",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/8.m3u8",
-    "headers": {}
-  },
-  {
     "name": "12 канал (1080p)",
     "tvg-id": "12 канал (1080p)",
     "group": "auto",
@@ -472,19 +464,19 @@
     "headers": {}
   },
   {
-    "name": "Домашний",
-    "tvg-id": "домашний",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/17.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Домашний International",
     "tvg-id": "домашний international",
     "group": "auto",
     "type": "direct",
     "source": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Дума ТВ",
+    "tvg-id": "дума тв",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://dumatv.iptv2022.com/index.m3u8",
     "headers": {}
   },
   {
@@ -600,14 +592,6 @@
     "headers": {}
   },
   {
-    "name": "Карусель",
-    "tvg-id": "карусель",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/11.m3u8",
-    "headers": {}
-  },
-  {
     "name": "КВН ТВ",
     "tvg-id": "квн тв",
     "group": "auto",
@@ -688,14 +672,6 @@
     "headers": {}
   },
   {
-    "name": "Луганск 24",
-    "tvg-id": "луганск 24",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Луч",
     "tvg-id": "луч",
     "group": "auto",
@@ -757,14 +733,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "МузТВ",
-    "tvg-id": "музтв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/20.m3u8",
     "headers": {}
   },
   {
@@ -844,14 +812,6 @@
     "tvg-id": "нтв",
     "group": "auto",
     "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/7.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "НТВ",
-    "tvg-id": "нтв",
-    "group": "auto",
-    "type": "direct",
     "source": "https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8",
     "headers": {}
   },
@@ -885,14 +845,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://v4.proofix.ru/0mir/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ОТР",
-    "tvg-id": "отр",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/12.m3u8",
     "headers": {}
   },
   {
@@ -981,14 +933,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Рен ТВ",
-    "tvg-id": "рен тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/14.m3u8",
     "headers": {}
   },
   {
@@ -1128,22 +1072,6 @@
     "headers": {}
   },
   {
-    "name": "Спас",
-    "tvg-id": "спас",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/15.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "СТС",
-    "tvg-id": "стс",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/16.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Студия Факт",
     "tvg-id": "студия факт",
     "group": "auto",
@@ -1168,27 +1096,11 @@
     "headers": {}
   },
   {
-    "name": "Таврия",
-    "tvg-id": "таврия",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/24.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Тамыр (Уфа)",
     "tvg-id": "тамыр (уфа)",
     "group": "auto",
     "type": "direct",
     "source": "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТВ3",
-    "tvg-id": "тв3",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/18.m3u8",
     "headers": {}
   },
   {
@@ -1253,14 +1165,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТНТ",
-    "tvg-id": "тнт",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/23.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1501,102 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Спас",
+    "tvg-id": "спас",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Ani",
+    "tvg-id": "ani",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Da Vinci",
+    "tvg-id": "da vinci",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TiJi",
+    "tvg-id": "tiji",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://188.190.222.53/TiJi/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Детское кино Int.",
+    "tvg-id": "детское кино int.",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://v2.catcast.tv/content/38720/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Детский мир",
+    "tvg-id": "детский мир",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://217.21.34.160:38007/detmir/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Карусель",
+    "tvg-id": "карусель",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Карусель Int.",
+    "tvg-id": "карусель int.",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://217.21.34.160:38005/karusel/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Мама",
+    "tvg-id": "мама",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stv.mediacdn.ru/live/cdn/mama/tracks-v1a1/mono.ts.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Мульт HD",
+    "tvg-id": "мульт hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "МУЛЬТиМУЗЫКА",
+    "tvg-id": "мультимузыка",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Мультиландия",
+    "tvg-id": "мультиландия",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://91.194.191.241:8081/chid62/tracks-v1a1/mono.m3u8",
     "headers": {}
   }
 ]
