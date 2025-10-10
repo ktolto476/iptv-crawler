@@ -55,6 +55,8 @@ https://hls-03-video.webcaramba.com/rutv/live.m3u8
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1,SGDF24.RU
 https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8
+#EXTINF:-1,SONGTV Russia (720p)
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1,START Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1,START World
@@ -383,8 +385,6 @@ http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TiJi
 http://188.190.222.53/TiJi/index.m3u8
-#EXTINF:-1,Детское кино Int.
-https://v2.catcast.tv/content/38720/index.m3u8
 #EXTINF:-1,Детский мир
 http://217.21.34.160:38007/detmir/index.m3u8
 #EXTINF:-1,Карусель

@@ -224,6 +224,14 @@
     "headers": {}
   },
   {
+    "name": "SONGTV Russia (720p)",
+    "tvg-id": "songtv russia (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "START Air",
     "tvg-id": "start air",
     "group": "auto",
@@ -1533,14 +1541,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://188.190.222.53/TiJi/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Детское кино Int.",
-    "tvg-id": "детское кино int.",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://v2.catcast.tv/content/38720/index.m3u8",
     "headers": {}
   },
   {
