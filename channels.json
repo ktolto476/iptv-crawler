@@ -136,14 +136,6 @@
     "headers": {}
   },
   {
-    "name": "Kino 24",
-    "tvg-id": "kino 24",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Kulinar TV",
     "tvg-id": "kulinar tv",
     "group": "auto",
@@ -181,14 +173,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://46.8.46.14/Nickelodeon/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Pro100TV",
-    "tvg-id": "pro100tv",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
     "headers": {}
   },
   {
@@ -277,14 +261,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://rtmp.tvpro-online.ru/hls/ch1.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Univer TV (1080p)",
-    "tvg-id": "univer tv (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
     "headers": {}
   },
   {
@@ -477,6 +453,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Дума ТВ",
+    "tvg-id": "дума тв",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://dumatv.iptv2022.com/index.m3u8",
     "headers": {}
   },
   {
@@ -781,14 +765,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Мультимания (576p)",
-    "tvg-id": "мультимания (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1573,30 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Da Vinci",
+    "tvg-id": "da vinci",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TiJi",
+    "tvg-id": "tiji",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://188.190.222.53/TiJi/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Детское кино Int.",
+    "tvg-id": "детское кино int.",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://v2.catcast.tv/content/38720/index.m3u8",
     "headers": {}
   }
 ]

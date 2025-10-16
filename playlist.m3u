@@ -33,8 +33,6 @@ http://31.148.48.15/Eda_Premium_HD/index.m3u8
 http://31.148.48.15/HD_Life/index.m3u8
 #EXTINF:-1,KHL Prime
 http://194.143.148.28:8080/KHL_HD/index.m3u8
-#EXTINF:-1,Kino 24
-http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1,Kulinar TV
 https://api.alpaca.t62a.com/hls/9110/index.m3u8
 #EXTINF:-1,Leomax 24 (1080p)
@@ -45,8 +43,6 @@ https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Nickelodeon (576p)
 http://46.8.46.14/Nickelodeon/index.m3u8
-#EXTINF:-1,Pro100TV
-https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1,RTG TV
 http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1,RU TV
@@ -69,8 +65,6 @@ https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1,TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1,Univer TV (1080p)
-https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1,Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1,Аист ТВ
@@ -119,6 +113,8 @@ http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTINF:-1,Домашний International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1,Дума ТВ
+https://dumatv.iptv2022.com/index.m3u8
 #EXTINF:-1,Евразия (Орск) (720p)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1,Еврокино
@@ -195,8 +191,6 @@ http://31.148.48.15/Muzika_Pervogo/index.m3u8
 http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8
 #EXTINF:-1,Мульт и музыка
 http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8
-#EXTINF:-1,Мультимания (576p)
-https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Надежда (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1,Нано ТВ HD
@@ -399,3 +393,9 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Ani
 http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Da Vinci
+http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
+#EXTINF:-1,TiJi
+http://188.190.222.53/TiJi/index.m3u8
+#EXTINF:-1,Детское кино Int.
+https://v2.catcast.tv/content/38720/index.m3u8
