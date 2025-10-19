@@ -48,6 +48,14 @@
     "headers": {}
   },
   {
+    "name": "Angel TV Russian (720p)",
+    "tvg-id": "angel tv russian (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Ani",
     "tvg-id": "ani",
     "group": "auto",
@@ -157,14 +165,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "MMA-TV.com",
-    "tvg-id": "mma-tv.com",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
     "headers": {}
   },
   {
@@ -837,14 +837,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ОСН",
-    "tvg-id": "осн",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1589,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://v2.catcast.tv/content/38720/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Детский мир",
+    "tvg-id": "детский мир",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://217.21.34.160:38007/detmir/index.m3u8",
     "headers": {}
   }
 ]
