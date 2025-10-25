@@ -25,8 +25,6 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1,Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:-1,DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1,FoodTime
@@ -45,6 +43,8 @@ https://viamotionhsi.netplus.ch/live/eds/mezzo/browser-HLS8/mezzo.m3u8
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Nickelodeon (576p)
 http://46.8.46.14/Nickelodeon/index.m3u8
+#EXTINF:-1,Nicktoons (576p)
+http://94.232.127.28:8080/nicktoons/index.m3u8
 #EXTINF:-1,RTG TV
 http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1,RU TV
@@ -53,6 +53,8 @@ https://hls-03-video.webcaramba.com/rutv/live.m3u8
 http://31.148.48.15/Russkiy_Detektiv/index.m3u8
 #EXTINF:-1,SGDF24.RU
 https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8
+#EXTINF:-1,SONGTV Russia (720p)
+https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1,START Air
 https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 #EXTINF:-1,START World
@@ -115,6 +117,8 @@ http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/17.m3u8
 #EXTINF:-1,Домашний International
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
+#EXTINF:-1,Дума ТВ
+https://dumatv.iptv2022.com/index.m3u8
 #EXTINF:-1,Евразия (Орск) (720p)
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1,Еврокино
@@ -395,7 +399,3 @@ http://tvspas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.ts.m3u8
 http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Da Vinci
 http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TiJi
-http://188.190.222.53/TiJi/index.m3u8
-#EXTINF:-1,Детское кино Int.
-https://v2.catcast.tv/content/38720/index.m3u8

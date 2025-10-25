@@ -104,14 +104,6 @@
     "headers": {}
   },
   {
-    "name": "DanceHits80",
-    "tvg-id": "dancehits80",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Europa Plus TV",
     "tvg-id": "europa plus tv",
     "group": "auto",
@@ -184,6 +176,14 @@
     "headers": {}
   },
   {
+    "name": "Nicktoons (576p)",
+    "tvg-id": "nicktoons (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://94.232.127.28:8080/nicktoons/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "RTG TV",
     "tvg-id": "rtg tv",
     "group": "auto",
@@ -213,6 +213,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "SONGTV Russia (720p)",
+    "tvg-id": "songtv russia (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
     "headers": {}
   },
   {
@@ -461,6 +469,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Дума ТВ",
+    "tvg-id": "дума тв",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://dumatv.iptv2022.com/index.m3u8",
     "headers": {}
   },
   {
@@ -1581,22 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TiJi",
-    "tvg-id": "tiji",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://188.190.222.53/TiJi/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Детское кино Int.",
-    "tvg-id": "детское кино int.",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://v2.catcast.tv/content/38720/index.m3u8",
     "headers": {}
   }
 ]
