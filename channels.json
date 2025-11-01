@@ -472,6 +472,14 @@
     "headers": {}
   },
   {
+    "name": "Евразия (Орск) (720p)",
+    "tvg-id": "евразия (орск) (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Еврокино",
     "tvg-id": "еврокино",
     "group": "auto",
@@ -1480,6 +1488,14 @@
     "headers": {}
   },
   {
+    "name": "Беларусь 24 HD",
+    "tvg-id": "беларусь 24 hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Известия HD",
     "tvg-id": "известия hd",
     "group": "auto",
@@ -1581,22 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://188.190.222.53/TiJi/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Детское кино Int.",
-    "tvg-id": "детское кино int.",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://v2.catcast.tv/content/38720/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Детский мир",
-    "tvg-id": "детский мир",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://217.21.34.160:38007/detmir/index.m3u8",
     "headers": {}
   }
 ]

@@ -117,6 +117,8 @@ https://streaming.televizor-24-tochka.ru/live/17.m3u8
 https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 #EXTINF:-1,Дума ТВ
 https://dumatv.iptv2022.com/index.m3u8
+#EXTINF:-1,Евразия (Орск) (720p)
+https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1,Еврокино
 http://31.148.48.15/Evrokino/index.m3u8
 #EXTINF:-1,ЕГЭ ТВ
@@ -369,6 +371,8 @@ http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1,RTД HD
 http://rt-doc.rttv.com/dvr/rtdru/rtdru1080.m3u8
+#EXTINF:-1,Беларусь 24 HD
+https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8
 #EXTINF:-1,Известия HD
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1,Крик ТВ HD
@@ -395,7 +399,3 @@ http://stv.mediacdn.ru/live/cdn/ani/tracks-v1a1/mono.ts.m3u8
 http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TiJi
 http://188.190.222.53/TiJi/index.m3u8
-#EXTINF:-1,Детское кино Int.
-https://v2.catcast.tv/content/38720/index.m3u8
-#EXTINF:-1,Детский мир
-http://217.21.34.160:38007/detmir/index.m3u8
