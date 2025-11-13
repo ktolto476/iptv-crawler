@@ -128,14 +128,6 @@
     "headers": {}
   },
   {
-    "name": "Leomax 24 (1080p)",
-    "tvg-id": "leomax 24 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "MMA-TV.com",
     "tvg-id": "mma-tv.com",
     "group": "auto",
@@ -181,14 +173,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdnfs.teonvi.com/sgdf/index.fmp4.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "SONGTV Russia (720p)",
-    "tvg-id": "songtv russia (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
     "headers": {}
   },
   {
@@ -392,14 +376,6 @@
     "headers": {}
   },
   {
-    "name": "Дагестан (1080p)",
-    "tvg-id": "дагестан (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Дом Кино",
     "tvg-id": "дом кино",
     "group": "auto",
@@ -568,14 +544,6 @@
     "headers": {}
   },
   {
-    "name": "Курай (Уфа) (576p)",
-    "tvg-id": "курай (уфа) (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Кухня ТВ",
     "tvg-id": "кухня тв",
     "group": "auto",
@@ -725,14 +693,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hz1.teleport.cc/HLS/SD.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Первый Ярославский",
-    "tvg-id": "первый ярославский",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1096,14 +1056,6 @@
     "headers": {}
   },
   {
-    "name": "Беларусь 1 HD",
-    "tvg-id": "беларусь 1 hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://edge55.dc.beltelecom.by/ngtrk/_definst_/smil:belarus1.smil/chunklist_w_b1460000_sleng.m3u8",
-    "headers": {}
-  },
-  {
     "name": "БелРос",
     "tvg-id": "белрос",
     "group": "auto",
@@ -1248,14 +1200,6 @@
     "headers": {}
   },
   {
-    "name": "Беларусь 24 HD",
-    "tvg-id": "беларусь 24 hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:belarus24.smil/chunklist_w1008231497_b5160000_sleng.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Известия HD",
     "tvg-id": "известия hd",
     "group": "auto",
@@ -1277,14 +1221,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Первый информационный HD",
-    "tvg-id": "первый информационный hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8",
     "headers": {}
   },
   {
@@ -1421,14 +1357,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://v4.proofix.ru:80/7tv-live/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Беларусь 2 HD",
-    "tvg-id": "беларусь 2 hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1525,78 @@
     "group": "auto",
     "type": "direct",
     "source": "http://178.212.71.253:8000/play/134/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Bridge Rock",
+    "tvg-id": "bridge rock",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://91.194.191.241:8081/chid475/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Bridge Шлягер",
+    "tvg-id": "bridge шлягер",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://91.194.191.241:8081/chid98/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Mezzo",
+    "tvg-id": "mezzo",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://178.212.71.253:8000/play/31/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Retro Music",
+    "tvg-id": "retro music",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Trace Urban HD",
+    "tvg-id": "trace urban hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "RU TV",
+    "tvg-id": "ru tv",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "RU TV HD",
+    "tvg-id": "ru tv hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Жара",
+    "tvg-id": "жара",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.8.46.14/Zhara/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Страна FM HD",
+    "tvg-id": "страна fm hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8",
     "headers": {}
   }
 ]
