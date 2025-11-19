@@ -352,14 +352,6 @@
     "headers": {}
   },
   {
-    "name": "Вера 24",
-    "tvg-id": "вера 24",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Вместе РФ",
     "tvg-id": "вместе рф",
     "group": "auto",
@@ -800,6 +792,14 @@
     "headers": {}
   },
   {
+    "name": "ОСН",
+    "tvg-id": "осн",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Открытый мир. Здоровье",
     "tvg-id": "открытый мир. здоровье",
     "group": "auto",
@@ -904,14 +904,6 @@
     "headers": {}
   },
   {
-    "name": "Россия К",
-    "tvg-id": "россия к",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Русский Бестселлер",
     "tvg-id": "русский бестселлер",
     "group": "auto",
@@ -989,14 +981,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Смайл ТВ",
-    "tvg-id": "смайл тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1328,8 +1312,8 @@
     "headers": {}
   },
   {
-    "name": "Рен ТВ Int HD",
-    "tvg-id": "рен тв int hd",
+    "name": "Рен ТВ Int",
+    "tvg-id": "рен тв int",
     "group": "auto",
     "type": "direct",
     "source": "http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8",
@@ -1480,14 +1464,6 @@
     "headers": {}
   },
   {
-    "name": "Da Vinci",
-    "tvg-id": "da vinci",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://91.194.191.241:8081/chid426/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
     "name": "TiJi",
     "tvg-id": "tiji",
     "group": "auto",
@@ -1597,6 +1573,30 @@
     "group": "auto",
     "type": "direct",
     "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "7 TV",
+    "tvg-id": "7 tv",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://v4.proofix.ru:80/7tv-live/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Беларусь 2 HD",
+    "tvg-id": "беларусь 2 hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Вопросы и ответы",
+    "tvg-id": "вопросы и ответы",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://178.212.71.253:8000/play/97/index.m3u8",
     "headers": {}
   }
 ]
