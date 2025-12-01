@@ -8,6 +8,14 @@
     "headers": {}
   },
   {
+    "name": "15+ Music (1080p)",
+    "tvg-id": "15+ music (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "360° (1080p)",
     "tvg-id": "360° (1080p)",
     "group": "auto",
@@ -21,6 +29,22 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "alpha Cinema (1080p)",
+    "tvg-id": "alpha cinema (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "alpha Moretime (1080p)",
+    "tvg-id": "alpha moretime (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8",
     "headers": {}
   },
   {
@@ -144,27 +168,11 @@
     "headers": {}
   },
   {
-    "name": "MMA-TV.com",
-    "tvg-id": "mma-tv.com",
+    "name": "Novyi Russkii (720p)",
+    "tvg-id": "novyi russkii (720p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Nickelodeon (576p)",
-    "tvg-id": "nickelodeon (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.8.46.14/Nickelodeon/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Nicktoons (576p)",
-    "tvg-id": "nicktoons (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://94.232.127.28:8080/nicktoons/index.m3u8",
+    "source": "https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8",
     "headers": {}
   },
   {
@@ -189,14 +197,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Russkiy_Detektiv/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "SONGTV Russia (720p)",
-    "tvg-id": "songtv russia (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8",
     "headers": {}
   },
   {
@@ -237,6 +237,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TV4 (1080p)",
+    "tvg-id": "tv4 (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8",
     "headers": {}
   },
   {
@@ -437,14 +445,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Дума ТВ",
-    "tvg-id": "дума тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dumatv.iptv2022.com/index.m3u8",
     "headers": {}
   },
   {
@@ -909,6 +909,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Россия К",
+    "tvg-id": "россия к",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
     "headers": {}
   },
   {
@@ -1541,14 +1549,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://95.66.188.74:80/O/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Рыжий",
-    "tvg-id": "рыжий",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.8.46.14/Ryzhiy/index.m3u8",
     "headers": {}
   },
   {
