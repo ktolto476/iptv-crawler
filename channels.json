@@ -488,14 +488,6 @@
     "headers": {}
   },
   {
-    "name": "Дума ТВ",
-    "tvg-id": "дума тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dumatv.iptv2022.com/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Евразия (Орск) (720p)",
     "tvg-id": "евразия (орск) (720p)",
     "group": "auto",
@@ -1272,11 +1264,27 @@
     "headers": {}
   },
   {
+    "name": "CGTN",
+    "tvg-id": "cgtn",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "RTVi",
     "tvg-id": "rtvi",
     "group": "auto",
     "type": "direct",
     "source": "http://178.134.1.158:8081/rtvi/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TV BRICS HD",
+    "tvg-id": "tv brics hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
@@ -1320,11 +1328,27 @@
     "headers": {}
   },
   {
+    "name": "Конгресс ТВ",
+    "tvg-id": "конгресс тв",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://live-3.otcnet.ru/congresstv/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Красная линия",
     "tvg-id": "красная линия",
     "group": "auto",
     "type": "direct",
     "source": "https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Мир",
+    "tvg-id": "мир",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1472,6 +1496,14 @@
     "headers": {}
   },
   {
+    "name": "Про бизнес",
+    "tvg-id": "про бизнес",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://176.107.219.20:9000/play/a003/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Россия 24",
     "tvg-id": "россия 24",
     "group": "auto",
@@ -1528,11 +1560,19 @@
     "headers": {}
   },
   {
+    "name": "RADIOKIDS.FM",
+    "tvg-id": "radiokids.fm",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Детское кино Int.",
     "tvg-id": "детское кино int.",
     "group": "auto",
     "type": "direct",
-    "source": "https://v2.catcast.tv/content/38720/index.m3u8",
+    "source": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8",
     "headers": {}
   },
   {
@@ -1557,46 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "МУЛЬТиМУЗЫКА",
-    "tvg-id": "мультимузыка",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stv.mediacdn.ru/live/cdn/multimuzika/tracks-v1a1/mono.ts.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Мультимания",
-    "tvg-id": "мультимания",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://sirius.greenhosting.ru/MultimaniaRu/video.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "О!",
-    "tvg-id": "о!",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://95.66.188.74:80/O/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Пингвин",
-    "tvg-id": "пингвин",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Радость моя",
-    "tvg-id": "радость моя",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8",
     "headers": {}
   }
 ]
