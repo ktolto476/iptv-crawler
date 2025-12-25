@@ -8,14 +8,6 @@
     "headers": {}
   },
   {
-    "name": "15+ Music (1080p)",
-    "tvg-id": "15+ music (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dvr3.vokkavideo.xyz/CRINGETVHD/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "360° (1080p)",
     "tvg-id": "360° (1080p)",
     "group": "auto",
@@ -29,30 +21,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "alpha Cinema (1080p)",
-    "tvg-id": "alpha cinema (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dvr3.vokkavideo.xyz/ALPHACINEMAHD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "alpha Funny (1080p)",
-    "tvg-id": "alpha funny (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dvr3.vokkavideo.xyz/ALPHAFUNNYHD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "alpha Moretime (1080p)",
-    "tvg-id": "alpha moretime (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dvr3.vokkavideo.xyz/ALPHAMORETIMEHD/index.m3u8",
     "headers": {}
   },
   {
@@ -128,6 +96,14 @@
     "headers": {}
   },
   {
+    "name": "Current Time TV",
+    "tvg-id": "current time tv",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Europa Plus TV",
     "tvg-id": "europa plus tv",
     "group": "auto",
@@ -184,11 +160,11 @@
     "headers": {}
   },
   {
-    "name": "Novyi Russkii (720p)",
-    "tvg-id": "novyi russkii (720p)",
+    "name": "MMA-TV.com",
+    "tvg-id": "mma-tv.com",
     "group": "auto",
     "type": "direct",
-    "source": "https://dvr3.vokkavideo.xyz/NEWRUSSIAHD/index.m3u8",
+    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
     "headers": {}
   },
   {
@@ -261,22 +237,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TV4 (1080p)",
-    "tvg-id": "tv4 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dvr3.vokkavideo.xyz/TV4HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TV4 Russkoe Kino (1080p)",
-    "tvg-id": "tv4 russkoe kino (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dvr3.vokkavideo.xyz/TV4RUKINO/index.m3u8",
     "headers": {}
   },
   {
@@ -789,14 +749,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://s1.tv-nano.com/Nano_rec/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Настоящее Время",
-    "tvg-id": "настоящее время",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
     "headers": {}
   },
   {
@@ -1336,6 +1288,14 @@
     "headers": {}
   },
   {
+    "name": "Мир",
+    "tvg-id": "мир",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "НТВ",
     "tvg-id": "нтв",
     "group": "auto",
@@ -1597,6 +1557,46 @@
     "group": "auto",
     "type": "direct",
     "source": "http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Пингвин",
+    "tvg-id": "пингвин",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://sirius.greenhosting.ru/PingvinRu/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Радость моя",
+    "tvg-id": "радость моя",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Солнце",
+    "tvg-id": "солнце",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "2x2",
+    "tvg-id": "2x2",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "7 TV",
+    "tvg-id": "7 tv",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://v4.proofix.ru:80/7tv-live/index.m3u8",
     "headers": {}
   }
 ]
