@@ -200,6 +200,14 @@
     "headers": {}
   },
   {
+    "name": "MMA-TV.com",
+    "tvg-id": "mma-tv.com",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Novyi Russkii (720p)",
     "tvg-id": "novyi russkii (720p)",
     "group": "auto",
@@ -781,14 +789,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Мультимания (576p)",
-    "tvg-id": "мультимания (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
