@@ -416,14 +416,6 @@
     "headers": {}
   },
   {
-    "name": "Дагестан (1080p)",
-    "tvg-id": "дагестан (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Дом Кино",
     "tvg-id": "дом кино",
     "group": "auto",
@@ -437,14 +429,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Домашний International",
-    "tvg-id": "домашний international",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
     "headers": {}
   },
   {
@@ -872,14 +856,6 @@
     "headers": {}
   },
   {
-    "name": "Пятница! International",
-    "tvg-id": "пятница! international",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Радио Хит (Орск) (720p)",
     "tvg-id": "радио хит (орск) (720p)",
     "group": "auto",
@@ -1264,14 +1240,6 @@
     "headers": {}
   },
   {
-    "name": "Время",
-    "tvg-id": "время",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn4.skygo.mn/live/disk1/Vremya/HLSv3-FTA/Vremya.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Звезда HD",
     "tvg-id": "звезда hd",
     "group": "auto",
@@ -1349,14 +1317,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Рен ТВ Int",
-    "tvg-id": "рен тв int",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8",
     "headers": {}
   },
   {
@@ -1520,14 +1480,6 @@
     "headers": {}
   },
   {
-    "name": "Детское кино Int.",
-    "tvg-id": "детское кино int.",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Карусель",
     "tvg-id": "карусель",
     "group": "auto",
@@ -1597,6 +1549,54 @@
     "group": "auto",
     "type": "direct",
     "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "7 TV",
+    "tvg-id": "7 tv",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://v4.proofix.ru:80/7tv-live/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Беларусь 2 HD",
+    "tvg-id": "беларусь 2 hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Домашний",
+    "tvg-id": "домашний",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Калейдоскоп ТВ",
+    "tvg-id": "калейдоскоп тв",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Китай ТВ HD",
+    "tvg-id": "китай тв hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Продвижение",
+    "tvg-id": "продвижение",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8",
     "headers": {}
   }
 ]
