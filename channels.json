@@ -744,14 +744,6 @@
     "headers": {}
   },
   {
-    "name": "Мультимания (576p)",
-    "tvg-id": "мультимания (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Надежда (720p)",
     "tvg-id": "надежда (720p)",
     "group": "auto",
@@ -1568,14 +1560,6 @@
     "headers": {}
   },
   {
-    "name": "Мультимания",
-    "tvg-id": "мультимания",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Пингвин",
     "tvg-id": "пингвин",
     "group": "auto",
@@ -1597,6 +1581,22 @@
     "group": "auto",
     "type": "direct",
     "source": "https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "2x2",
+    "tvg-id": "2x2",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "7 TV",
+    "tvg-id": "7 tv",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://v4.proofix.ru:80/7tv-live/index.m3u8",
     "headers": {}
   }
 ]
