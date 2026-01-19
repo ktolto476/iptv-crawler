@@ -33,8 +33,6 @@ http://31.148.48.15/Europa_Plus_HD/index.m3u8
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 #EXTINF:-1,HDL
 http://31.148.48.15/HD_Life/index.m3u8
-#EXTINF:-1,KHL Prime
-http://194.143.148.28:8080/KHL_HD/index.m3u8
 #EXTINF:-1,Kino 24
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1,Kulinar TV
@@ -45,8 +43,6 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Pro100TV
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1,RTG TV
-http://194.143.148.28:8080/RTG_HD/index.m3u8
 #EXTINF:-1,RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:-1,Russkiy Detektiv
@@ -61,8 +57,6 @@ https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8
 https://livetv.mylifeisgood.net.ru/channels/strvf.m3u8
 #EXTINF:-1,STS kids
 http://31.148.48.15/STS_Kids_HD/index.m3u8
-#EXTINF:-1,STS Love
-http://194.143.148.28:8080/CTC_LOVE/index.m3u8
 #EXTINF:-1,TERRA
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 #EXTINF:-1,TV BRICS Russian (1080p)
@@ -145,8 +139,6 @@ http://31.148.48.15/Istoriya/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 #EXTINF:-1,КВН ТВ
 http://31.148.48.15/KVN_TV/index.m3u8
-#EXTINF:-1,Кинеко
-http://194.143.148.28:8080/KINEKO/index.m3u8
 #EXTINF:-1,Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1,КИНОТВ
@@ -173,12 +165,8 @@ https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8
 #EXTINF:-1,Матур ТВ (1080p)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
-#EXTINF:-1,Матч! Арена
-http://194.143.148.28:8080/MatchArena/index.m3u8
 #EXTINF:-1,Мир 24 (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1,Моя Планета
-http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8
 #EXTINF:-1,Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1,Музыка Первого
@@ -311,8 +299,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/play
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1,CTV.BY HD
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1,RTVi
-http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:-1,TV BRICS
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1,БелРос
@@ -399,3 +385,17 @@ https://radm.mediacdn.ru/cdn/radost/playlist_sdhigh.m3u8
 https://tv.mediacdn.ru/live/solntse/playlist_3000k.m3u8
 #EXTINF:-1,2x2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+#EXTINF:-1,7 TV
+http://v4.proofix.ru:80/7tv-live/index.m3u8
+#EXTINF:-1,TV1 KG HD (Кыргызстан)
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1,Беларусь 2 HD
+https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8
+#EXTINF:-1,Девятка
+http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_9TVHD.m3u8
+#EXTINF:-1,Домашний
+https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
+#EXTINF:-1,Калейдоскоп ТВ
+http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8
+#EXTINF:-1,Китай ТВ HD
+https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8

@@ -136,14 +136,6 @@
     "headers": {}
   },
   {
-    "name": "KHL Prime",
-    "tvg-id": "khl prime",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://194.143.148.28:8080/KHL_HD/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Kino 24",
     "tvg-id": "kino 24",
     "group": "auto",
@@ -181,14 +173,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "RTG TV",
-    "tvg-id": "rtg tv",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://194.143.148.28:8080/RTG_HD/index.m3u8",
     "headers": {}
   },
   {
@@ -245,14 +229,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "STS Love",
-    "tvg-id": "sts love",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://194.143.148.28:8080/CTC_LOVE/index.m3u8",
     "headers": {}
   },
   {
@@ -584,14 +560,6 @@
     "headers": {}
   },
   {
-    "name": "Кинеко",
-    "tvg-id": "кинеко",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://194.143.148.28:8080/KINEKO/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Кинопоказ",
     "tvg-id": "кинопоказ",
     "group": "auto",
@@ -696,27 +664,11 @@
     "headers": {}
   },
   {
-    "name": "Матч! Арена",
-    "tvg-id": "матч! арена",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://194.143.148.28:8080/MatchArena/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Мир 24 (1080p)",
     "tvg-id": "мир 24 (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Моя Планета",
-    "tvg-id": "моя планета",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8",
     "headers": {}
   },
   {
@@ -1248,14 +1200,6 @@
     "headers": {}
   },
   {
-    "name": "RTVi",
-    "tvg-id": "rtvi",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://178.134.1.158:8081/rtvi/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "TV BRICS",
     "tvg-id": "tv brics",
     "group": "auto",
@@ -1597,6 +1541,62 @@
     "group": "auto",
     "type": "direct",
     "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "7 TV",
+    "tvg-id": "7 tv",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://v4.proofix.ru:80/7tv-live/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TV1 KG HD (Кыргызстан)",
+    "tvg-id": "tv1 kg hd (кыргызстан)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Беларусь 2 HD",
+    "tvg-id": "беларусь 2 hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://edge50.dc.beltelecom.by/ngtrk/smil:belarus2.smil/chunklist_b5160000_sleng.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Девятка",
+    "tvg-id": "девятка",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://dmi3y-tv6.ru/hls/zabava/region/KIROV/CH_9TVHD.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Домашний",
+    "tvg-id": "домашний",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Калейдоскоп ТВ",
+    "tvg-id": "калейдоскоп тв",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Китай ТВ HD",
+    "tvg-id": "китай тв hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8",
     "headers": {}
   }
 ]
