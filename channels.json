@@ -256,6 +256,14 @@
     "headers": {}
   },
   {
+    "name": "VIVA Russia (1080p)",
+    "tvg-id": "viva russia (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Авто Плюс",
     "tvg-id": "авто плюс",
     "group": "auto",
@@ -1200,6 +1208,14 @@
     "headers": {}
   },
   {
+    "name": "RTVi",
+    "tvg-id": "rtvi",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://178.134.1.158:8081/rtvi/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "TV BRICS",
     "tvg-id": "tv brics",
     "group": "auto",
@@ -1581,22 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Калейдоскоп ТВ",
-    "tvg-id": "калейдоскоп тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Китай ТВ HD",
-    "tvg-id": "китай тв hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8",
     "headers": {}
   }
 ]
