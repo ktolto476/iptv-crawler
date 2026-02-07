@@ -88,22 +88,6 @@
     "headers": {}
   },
   {
-    "name": "Current Time TV",
-    "tvg-id": "current time tv",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DanceHits80",
-    "tvg-id": "dancehits80",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Europa Plus TV",
     "tvg-id": "europa plus tv",
     "group": "auto",
@@ -168,14 +152,6 @@
     "headers": {}
   },
   {
-    "name": "Russkiy Detektiv",
-    "tvg-id": "russkiy detektiv",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Russkiy_Detektiv/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "SGDF24.RU",
     "tvg-id": "sgdf24.ru",
     "group": "auto",
@@ -189,6 +165,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "START Air",
+    "tvg-id": "start air",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://livetv.mylifeisgood.net.ru/channels/strwc.m3u8",
     "headers": {}
   },
   {
@@ -229,6 +213,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://rtmp.tvpro-online.ru/hls/ch1.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "VIVA Russia (1080p)",
+    "tvg-id": "viva russia (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
     "headers": {}
   },
   {
@@ -600,11 +592,27 @@
     "headers": {}
   },
   {
+    "name": "Легендарный 24",
+    "tvg-id": "легендарный 24",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://sevas.1tvcrimea.ru/legendarniy24.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Луганск 24",
     "tvg-id": "луганск 24",
     "group": "auto",
     "type": "direct",
     "source": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Луч",
+    "tvg-id": "луч",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8",
     "headers": {}
   },
   {
@@ -672,6 +680,14 @@
     "headers": {}
   },
   {
+    "name": "Настоящее время",
+    "tvg-id": "настоящее время",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Наука",
     "tvg-id": "наука",
     "group": "auto",
@@ -720,6 +736,14 @@
     "headers": {}
   },
   {
+    "name": "ОТВ Приморье",
+    "tvg-id": "отв приморье",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Открытый мир. Здоровье",
     "tvg-id": "открытый мир. здоровье",
     "group": "auto",
@@ -736,11 +760,27 @@
     "headers": {}
   },
   {
+    "name": "Первый Крымский (720p)",
+    "tvg-id": "первый крымский (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live1.1tvcrimea.ru/1tvcrimea.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Первый Музыкальный Канал (576p)",
     "tvg-id": "первый музыкальный канал (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://hz1.teleport.cc/HLS/SD.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Первый Республиканский",
+    "tvg-id": "первый республиканский",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
     "headers": {}
   },
   {
@@ -824,6 +864,14 @@
     "headers": {}
   },
   {
+    "name": "Россия 1 HD (Архангельск)",
+    "tvg-id": "россия 1 hd (архангельск)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Россия К",
     "tvg-id": "россия к",
     "group": "auto",
@@ -840,7 +888,15 @@
     "headers": {}
   },
   {
-    "name": "Русский роман",
+    "name": "Русский Детектив",
+    "tvg-id": "русский детектив",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Russkiy_Detektiv/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Русский Роман",
     "tvg-id": "русский роман",
     "group": "auto",
     "type": "direct",
@@ -872,22 +928,6 @@
     "headers": {}
   },
   {
-    "name": "Санкт-Петербург HD",
-    "tvg-id": "санкт-петербург hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Своё HD",
-    "tvg-id": "своё hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://live.stv24.tv:8080/svoetv/HQ_video.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Север (Нарьян-Мар) (1080p)",
     "tvg-id": "север (нарьян-мар) (1080p)",
     "group": "auto",
@@ -909,6 +949,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Симферополь 24",
+    "tvg-id": "симферополь 24",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://simf.1tvcrimea.ru/simferopol24.m3u8",
     "headers": {}
   },
   {
@@ -1272,14 +1320,6 @@
     "headers": {}
   },
   {
-    "name": "ТВ3",
-    "tvg-id": "тв3",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vod.splay.uz/live_splay/original/TV3/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
     "name": "360° Новости HD",
     "tvg-id": "360° новости hd",
     "group": "auto",
@@ -1557,46 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Суббота",
-    "tvg-id": "суббота",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Теледом HD",
-    "tvg-id": "теледом hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТНТ",
-    "tvg-id": "тнт",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТНТ4",
-    "tvg-id": "тнт4",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Толк",
-    "tvg-id": "толк",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8",
     "headers": {}
   }
 ]
