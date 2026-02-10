@@ -21,6 +21,8 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1,Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1,DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,Europa Plus TV
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1,FoodTime
@@ -53,8 +55,6 @@ https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1,TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1,VIVA Russia (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1,Авто Плюс
 http://31.148.48.15/Avto_Plus/index.m3u8
 #EXTINF:-1,Аист ТВ
@@ -105,8 +105,6 @@ https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8
 https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1,Еврокино
 http://31.148.48.15/Evrokino/index.m3u8
-#EXTINF:-1,ЕГЭ ТВ
-http://194.143.148.28:8080/RT_DOC/index.m3u8
 #EXTINF:-1,Живая Планета
 http://31.148.48.15/Zhivaya_Planeta/index.m3u8
 #EXTINF:-1,ЖИВИ!
@@ -399,3 +397,5 @@ http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 http://sochinskayatrk.ru/hdtv/hls/CTPK_HD/playlist.m3u8
 #EXTINF:-1,СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
+#EXTINF:-1,Суббота
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8

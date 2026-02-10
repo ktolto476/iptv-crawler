@@ -88,6 +88,14 @@
     "headers": {}
   },
   {
+    "name": "DanceHits80",
+    "tvg-id": "dancehits80",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Europa Plus TV",
     "tvg-id": "europa plus tv",
     "group": "auto",
@@ -213,14 +221,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://rtmp.tvpro-online.ru/hls/ch1.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "VIVA Russia (1080p)",
-    "tvg-id": "viva russia (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
     "headers": {}
   },
   {
@@ -421,14 +421,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Evrokino/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ЕГЭ ТВ",
-    "tvg-id": "егэ тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://194.143.148.28:8080/RT_DOC/index.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1589,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Суббота",
+    "tvg-id": "суббота",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8",
     "headers": {}
   }
 ]
