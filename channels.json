@@ -16,14 +16,6 @@
     "headers": {}
   },
   {
-    "name": "360° (1080p)",
-    "tvg-id": "360° (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "360° Новости",
     "tvg-id": "360° новости",
     "group": "auto",
@@ -253,6 +245,22 @@
     "group": "auto",
     "type": "direct",
     "source": "http://rtmp.tvpro-online.ru/hls/ch1.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "VITAL Drive",
+    "tvg-id": "vital drive",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://autopilot.catcast.tv/content/37909/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "VIVA Russia (1080p)",
+    "tvg-id": "viva russia (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
     "headers": {}
   },
   {
@@ -640,14 +648,6 @@
     "headers": {}
   },
   {
-    "name": "Луч",
-    "tvg-id": "луч",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Магнат ТВ",
     "tvg-id": "магнат тв",
     "group": "auto",
@@ -741,14 +741,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Новый Русский (720p)",
-    "tvg-id": "новый русский (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
     "headers": {}
   },
   {
@@ -1136,14 +1128,6 @@
     "headers": {}
   },
   {
-    "name": "ТК Алмазный край (576p)",
-    "tvg-id": "тк алмазный край (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.almaz-media.tv:8080/hls/576.m3u8",
-    "headers": {}
-  },
-  {
     "name": "ТНВ-Планета (Казань)",
     "tvg-id": "тнв-планета (казань)",
     "group": "auto",
@@ -1384,14 +1368,6 @@
     "headers": {}
   },
   {
-    "name": "360° Новости HD",
-    "tvg-id": "360° новости hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8",
-    "headers": {}
-  },
-  {
     "name": "RTД HD",
     "tvg-id": "rtд hd",
     "group": "auto",
@@ -1597,6 +1573,30 @@
     "group": "auto",
     "type": "direct",
     "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Калейдоскоп ТВ",
+    "tvg-id": "калейдоскоп тв",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Китай ТВ HD",
+    "tvg-id": "китай тв hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Продвижение",
+    "tvg-id": "продвижение",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8",
     "headers": {}
   }
 ]
