@@ -16,6 +16,14 @@
     "headers": {}
   },
   {
+    "name": "360° (1080p)",
+    "tvg-id": "360° (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "360° Новости",
     "tvg-id": "360° новости",
     "group": "auto",
@@ -168,14 +176,6 @@
     "headers": {}
   },
   {
-    "name": "MMA-TV.com",
-    "tvg-id": "mma-tv.com",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "NSC+ (720p)",
     "tvg-id": "nsc+ (720p)",
     "group": "auto",
@@ -221,6 +221,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "STS Love (576i)",
+    "tvg-id": "sts love (576i)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8",
     "headers": {}
   },
   {
@@ -744,6 +752,14 @@
     "headers": {}
   },
   {
+    "name": "Новый Русский (720p)",
+    "tvg-id": "новый русский (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
+    "headers": {}
+  },
+  {
     "name": "НТВ",
     "tvg-id": "нтв",
     "group": "auto",
@@ -1048,14 +1064,6 @@
     "headers": {}
   },
   {
-    "name": "СТС Love",
-    "tvg-id": "стс love",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/STS_Love/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Студия Факт",
     "tvg-id": "студия факт",
     "group": "auto",
@@ -1125,6 +1133,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Teleputeshestviya/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ТК Алмазный край (576p)",
+    "tvg-id": "тк алмазный край (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream.almaz-media.tv:8080/hls/576.m3u8",
     "headers": {}
   },
   {
@@ -1368,6 +1384,14 @@
     "headers": {}
   },
   {
+    "name": "360° Новости HD",
+    "tvg-id": "360° новости hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8",
+    "headers": {}
+  },
+  {
     "name": "RTД HD",
     "tvg-id": "rtд hd",
     "group": "auto",
@@ -1573,30 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Калейдоскоп ТВ",
-    "tvg-id": "калейдоскоп тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://serv25.vintera.tv:8081/kaleidoscop/kaleidoscop_sd/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Китай ТВ HD",
-    "tvg-id": "китай тв hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn.nexttvnet.ru/hlsl/provide/61394/ChinaTV2/china-tv_1920x1080/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Продвижение",
-    "tvg-id": "продвижение",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8",
     "headers": {}
   }
 ]
