@@ -200,6 +200,14 @@
     "headers": {}
   },
   {
+    "name": "Match! Strana",
+    "tvg-id": "match! strana",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Match_Strana/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "MMA-TV.com",
     "tvg-id": "mma-tv.com",
     "group": "auto",
@@ -648,14 +656,6 @@
     "headers": {}
   },
   {
-    "name": "Крым 24",
-    "tvg-id": "крым 24",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Курай (Уфа) (576p)",
     "tvg-id": "курай (уфа) (576p)",
     "group": "auto",
@@ -784,11 +784,11 @@
     "headers": {}
   },
   {
-    "name": "Настоящее время",
+    "name": "Настоящее Время",
     "tvg-id": "настоящее время",
     "group": "auto",
     "type": "direct",
-    "source": "https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8",
+    "source": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
     "headers": {}
   },
   {
@@ -1304,14 +1304,6 @@
     "headers": {}
   },
   {
-    "name": "RTVi",
-    "tvg-id": "rtvi",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://178.134.1.158:8081/rtvi/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "TV BRICS",
     "tvg-id": "tv brics",
     "group": "auto",
@@ -1573,6 +1565,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Детское кино Int",
+    "tvg-id": "детское кино int",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://v2.catcast.tv/content/38720/index.m3u8",
     "headers": {}
   },
   {
