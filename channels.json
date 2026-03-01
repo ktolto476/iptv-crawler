@@ -40,14 +40,6 @@
     "headers": {}
   },
   {
-    "name": "alpha Funny (1080p)",
-    "tvg-id": "alpha funny (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8",
-    "headers": {}
-  },
-  {
     "name": "alpha Moretime (1080p)",
     "tvg-id": "alpha moretime (1080p)",
     "group": "auto",
@@ -128,14 +120,6 @@
     "headers": {}
   },
   {
-    "name": "DanceHits80",
-    "tvg-id": "dancehits80",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "DTR Music 1 (720p)",
     "tvg-id": "dtr music 1 (720p)",
     "group": "auto",
@@ -208,14 +192,6 @@
     "headers": {}
   },
   {
-    "name": "MMA-TV.com",
-    "tvg-id": "mma-tv.com",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "NSC+ (720p)",
     "tvg-id": "nsc+ (720p)",
     "group": "auto",
@@ -277,14 +253,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TV BRICS Russian (1080p)",
-    "tvg-id": "tv brics russian (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
     "headers": {}
   },
   {
@@ -653,6 +621,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Крым 24",
+    "tvg-id": "крым 24",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn.1tvcrimea.ru/24tvcrimea.m3u8",
     "headers": {}
   },
   {
@@ -1304,11 +1280,11 @@
     "headers": {}
   },
   {
-    "name": "TV BRICS",
-    "tvg-id": "tv brics",
+    "name": "RTVi",
+    "tvg-id": "rtvi",
     "group": "auto",
     "type": "direct",
-    "source": "http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8",
+    "source": "http://178.134.1.158:8081/rtvi/index.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1573,30 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Мама",
+    "tvg-id": "мама",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://176.118.197.125/Mama/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Мультиландия",
+    "tvg-id": "мультиландия",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Мультимания",
+    "tvg-id": "мультимания",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
     "headers": {}
   }
 ]

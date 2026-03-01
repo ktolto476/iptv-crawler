@@ -9,8 +9,6 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1,alpha Cinema (1080p)
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1,alpha Funny (1080p)
-https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1,alpha Moretime (1080p)
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1,Amedia 1
@@ -31,8 +29,6 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1,Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
-#EXTINF:-1,DanceHits80
-http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,DTR Music 1 (720p)
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1,DTR Zona 1 (720p)
@@ -51,8 +47,6 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1,Match! Strana
 http://31.148.48.15/Match_Strana/index.m3u8
-#EXTINF:-1,MMA-TV.com
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,NSC+ (720p)
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1,Pro100TV
@@ -69,8 +63,6 @@ http://31.148.48.15/STS_Kids_HD/index.m3u8
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
 #EXTINF:-1,TERRA
 https://livetv.mylifeisgood.net.ru/channels/terra.m3u8
-#EXTINF:-1,TV BRICS Russian (1080p)
-https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1,TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1,VITAL Drive
@@ -163,6 +155,8 @@ https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 #EXTINF:-1,КРИК-ТВ (Екатеринбург)
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
+#EXTINF:-1,Крым 24
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1,Курай (Уфа) (576p)
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1,Кухня ТВ
@@ -325,8 +319,8 @@ https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1,CTV.BY HD
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1,TV BRICS
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTVi
+http://178.134.1.158:8081/rtvi/index.m3u8
 #EXTINF:-1,БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:-1,Большая Азия HD
@@ -399,3 +393,9 @@ https://stream8.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1,Карусель Int.
 https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8
+#EXTINF:-1,Мама
+http://176.118.197.125/Mama/index.m3u8
+#EXTINF:-1,Мультиландия
+https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Мультимания
+http://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
