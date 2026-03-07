@@ -320,6 +320,14 @@
     "headers": {}
   },
   {
+    "name": "Pro100TV",
+    "tvg-id": "pro100tv",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
+    "headers": {}
+  },
+  {
     "name": "RT Documentary Russian (1080p)",
     "tvg-id": "rt documentary russian (1080p)",
     "group": "auto",
@@ -1008,6 +1016,14 @@
     "headers": {}
   },
   {
+    "name": "Мультимания (576p)",
+    "tvg-id": "мультимания (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Надежда (720p)",
     "tvg-id": "надежда (720p)",
     "group": "auto",
@@ -1581,22 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "CTV.BY HD",
-    "tvg-id": "ctv.by hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "RTVi",
-    "tvg-id": "rtvi",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://178.134.1.158:8081/rtvi/index.m3u8",
     "headers": {}
   }
 ]

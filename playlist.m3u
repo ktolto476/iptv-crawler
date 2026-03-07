@@ -79,6 +79,8 @@ http://31.148.48.15/Match_Strana/index.m3u8
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,NSC+ (720p)
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
+#EXTINF:-1,Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1,RT Documentary Russian (1080p)
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1,RTG TV
@@ -251,6 +253,8 @@ http://31.148.48.15/Muzika_Pervogo/index.m3u8
 http://31.148.48.15/Mult/index.m3u8
 #EXTINF:-1,Мульт и Музыка
 http://31.148.48.15/Multimuzika/index.m3u8
+#EXTINF:-1,Мультимания (576p)
+https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Надежда (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1,Нано ТВ HD
@@ -395,7 +399,3 @@ https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:-1,CGTN Русский HD
 http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1,CTV.BY HD
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1,RTVi
-http://178.134.1.158:8081/rtvi/index.m3u8
