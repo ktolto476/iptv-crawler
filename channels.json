@@ -448,14 +448,6 @@
     "headers": {}
   },
   {
-    "name": "VIVA Russia (1080p)",
-    "tvg-id": "viva russia (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Авто Плюс",
     "tvg-id": "авто плюс",
     "group": "auto",
@@ -1597,6 +1589,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "CTV.BY HD",
+    "tvg-id": "ctv.by hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
     "headers": {}
   }
 ]
