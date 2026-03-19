@@ -24,6 +24,14 @@
     "headers": {}
   },
   {
+    "name": "15+ Music (1080p)",
+    "tvg-id": "15+ music (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
+    "headers": {}
+  },
+  {
     "name": "360° (1080p)",
     "tvg-id": "360° (1080p)",
     "group": "auto",
@@ -165,14 +173,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://catchup.videoline.ru/cinema/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DanceHits80",
-    "tvg-id": "dancehits80",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
     "headers": {}
   },
   {
@@ -341,6 +341,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/RU_TV/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "SONGTV Russia",
+    "tvg-id": "songtv russia",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -696,6 +704,14 @@
     "headers": {}
   },
   {
+    "name": "Звезда Плюс",
+    "tvg-id": "звезда плюс",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Здоровое ТВ",
     "tvg-id": "здоровое тв",
     "group": "auto",
@@ -1016,11 +1032,11 @@
     "headers": {}
   },
   {
-    "name": "Новый Век",
-    "tvg-id": "новый век",
+    "name": "Новый Русский (720p)",
+    "tvg-id": "новый русский (720p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8",
+    "source": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
     "headers": {}
   },
   {
@@ -1133,6 +1149,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://lova.me/hls/hithd.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Радость моя",
+    "tvg-id": "радость моя",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1256,6 +1280,14 @@
     "headers": {}
   },
   {
+    "name": "Своё ТВ (Ставрополь)",
+    "tvg-id": "своё тв (ставрополь)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Север (Нарьян-Мар)",
     "tvg-id": "север (нарьян-мар)",
     "group": "auto",
@@ -1285,6 +1317,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Смотрим Честный Детектив",
+    "tvg-id": "смотрим честный детектив",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1520,6 +1560,14 @@
     "headers": {}
   },
   {
+    "name": "TV BRICS",
+    "tvg-id": "tv brics",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "БелРос",
     "tvg-id": "белрос",
     "group": "auto",
@@ -1528,11 +1576,11 @@
     "headers": {}
   },
   {
-    "name": "Большая Азия HD",
-    "tvg-id": "большая азия hd",
+    "name": "Звезда HD",
+    "tvg-id": "звезда hd",
     "group": "auto",
     "type": "direct",
-    "source": "https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8",
+    "source": "http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
     "headers": {}
   },
   {
@@ -1549,54 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.131.141.195:8000/play/1090/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ПРНК HD",
-    "tvg-id": "прнк hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Пятый канал",
-    "tvg-id": "пятый канал",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Рен ТВ",
-    "tvg-id": "рен тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Рен ТВ Int.",
-    "tvg-id": "рен тв int.",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТВ Центр",
-    "tvg-id": "тв центр",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "360° Новости HD",
-    "tvg-id": "360° новости hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://dmi3y-tv6.ru/hls/smotrim/CH_360TV_NEWSHD.m3u8",
     "headers": {}
   }
 ]
