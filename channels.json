@@ -176,6 +176,14 @@
     "headers": {}
   },
   {
+    "name": "DanceHits80",
+    "tvg-id": "dancehits80",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "DTR Music 1 (720p)",
     "tvg-id": "dtr music 1 (720p)",
     "group": "auto",
@@ -1032,6 +1040,14 @@
     "headers": {}
   },
   {
+    "name": "Новый Век",
+    "tvg-id": "новый век",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Новый Русский (720p)",
     "tvg-id": "новый русский (720p)",
     "group": "auto",
@@ -1069,6 +1085,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ОСН",
+    "tvg-id": "осн",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1573,30 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://live2.mediacdn.ru/sr1/tro/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Звезда HD",
-    "tvg-id": "звезда hd",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Конгресс ТВ",
-    "tvg-id": "конгресс тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://live-3.otcnet.ru/congresstv/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ОТР",
-    "tvg-id": "отр",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.131.141.195:8000/play/1090/index.m3u8",
     "headers": {}
   }
 ]

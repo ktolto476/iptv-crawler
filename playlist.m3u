@@ -43,6 +43,8 @@ http://31.148.48.15/Bridge_TV_HD/index.m3u8
 http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1,Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1,DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,DTR Music 1 (720p)
 https://kino-stream.online/hls/DTRMUSIC1.m3u8
 #EXTINF:-1,DTR Zona 1 (720p)
@@ -257,6 +259,8 @@ http://s1.tv-nano.com/Nano_rec/index.m3u8
 https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 #EXTINF:-1,Наука
 https://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1,Новый Век
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
 #EXTINF:-1,Новый Русский (720p)
 https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1,Ностальгия
@@ -267,6 +271,8 @@ https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
 http://31.148.48.15/O2_HD/index.m3u8
 #EXTINF:-1,Осетия Ирыстон
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
+#EXTINF:-1,ОСН
+http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1,ОТВ Приморье
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1,Открытый мир. Здоровье
@@ -393,9 +399,3 @@ http://178.134.1.158:8081/rtvi/index.m3u8
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 #EXTINF:-1,БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1,Звезда HD
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1,Конгресс ТВ
-http://live-3.otcnet.ru/congresstv/index.m3u8
-#EXTINF:-1,ОТР
-http://31.131.141.195:8000/play/1090/index.m3u8
