@@ -440,14 +440,6 @@
     "headers": {}
   },
   {
-    "name": "VITAL Drive",
-    "tvg-id": "vital drive",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://autopilot.catcast.tv/content/37909/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "VIVA Russia (1080p)",
     "tvg-id": "viva russia (1080p)",
     "group": "auto",
@@ -957,14 +949,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Moya_Planeta_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Муз союз (576p)",
-    "tvg-id": "муз союз (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1560,43 +1544,59 @@
     "headers": {}
   },
   {
-    "name": "CGTN Русский HD",
-    "tvg-id": "cgtn русский hd",
+    "name": "ОТР",
+    "tvg-id": "отр",
     "group": "auto",
     "type": "direct",
-    "source": "http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
+    "source": "http://31.131.141.195:8000/play/1090/index.m3u8",
     "headers": {}
   },
   {
-    "name": "CTV.BY HD",
-    "tvg-id": "ctv.by hd",
+    "name": "Пятый канал",
+    "tvg-id": "пятый канал",
     "group": "auto",
     "type": "direct",
-    "source": "http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
+    "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8",
     "headers": {}
   },
   {
-    "name": "RTVi",
-    "tvg-id": "rtvi",
+    "name": "ТВ Центр",
+    "tvg-id": "тв центр",
     "group": "auto",
     "type": "direct",
-    "source": "http://178.134.1.158:8081/rtvi/index.m3u8",
+    "source": "http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8",
     "headers": {}
   },
   {
-    "name": "TV BRICS",
-    "tvg-id": "tv brics",
+    "name": "Рен ТВ",
+    "tvg-id": "рен тв",
     "group": "auto",
     "type": "direct",
-    "source": "http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8",
+    "source": "http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8",
     "headers": {}
   },
   {
-    "name": "БелРос",
-    "tvg-id": "белрос",
+    "name": "Рен ТВ Int.",
+    "tvg-id": "рен тв int.",
     "group": "auto",
     "type": "direct",
-    "source": "http://live2.mediacdn.ru/sr1/tro/playlist.m3u8",
+    "source": "http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ТВ3",
+    "tvg-id": "тв3",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Звезда HD",
+    "tvg-id": "звезда hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
     "headers": {}
   }
 ]

@@ -109,8 +109,6 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1,viju TV1000 Русское
 http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
-#EXTINF:-1,VITAL Drive
-https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1,VIVA Russia (1080p)
 https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1,Авто Плюс
@@ -239,8 +237,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://31.148.48.15/Mir_Seriala/index.m3u8
 #EXTINF:-1,Моя Планета
 http://31.148.48.15/Moya_Planeta_HD/index.m3u8
-#EXTINF:-1,Муз союз (576p)
-https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
 #EXTINF:-1,Музыка Live
 http://31.148.48.15/La-Minor_TV/index.m3u8
 #EXTINF:-1,Музыка Первого
@@ -389,13 +385,17 @@ http://31.148.48.15/Futbol_HD/index.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1,Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1,CGTN Русский HD
-http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1,CTV.BY HD
-http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
-#EXTINF:-1,RTVi
-http://178.134.1.158:8081/rtvi/index.m3u8
-#EXTINF:-1,TV BRICS
-http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
-#EXTINF:-1,БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1,ОТР
+http://31.131.141.195:8000/play/1090/index.m3u8
+#EXTINF:-1,Пятый канал
+http://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1,ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1,Рен ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1,Рен ТВ Int.
+http://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8
+#EXTINF:-1,ТВ3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1,Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
