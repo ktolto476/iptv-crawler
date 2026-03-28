@@ -1,26 +1,18 @@
 [
   {
-    "name": "2x2",
-    "tvg-id": "2x2",
+    "name": "2x2 (576p)",
+    "tvg-id": "2x2 (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/2x2/index.m3u8",
     "headers": {}
   },
   {
-    "name": "7TV",
-    "tvg-id": "7tv",
+    "name": "7TV (576p)",
+    "tvg-id": "7tv (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/7TV/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "12 канал (1080p)",
-    "tvg-id": "12 канал (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8",
     "headers": {}
   },
   {
@@ -40,24 +32,24 @@
     "headers": {}
   },
   {
-    "name": "360° Новости",
-    "tvg-id": "360° новости",
+    "name": "360° Новости (1080p)",
+    "tvg-id": "360° новости (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
     "headers": {}
   },
   {
-    "name": "365 Дней",
-    "tvg-id": "365 дней",
+    "name": "365 Дней (576p)",
+    "tvg-id": "365 дней (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/365_dney/index.m3u8",
     "headers": {}
   },
   {
-    "name": ".sci-fi",
-    "tvg-id": ".sci-fi",
+    "name": ".sci-fi (576p)",
+    "tvg-id": ".sci-fi (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/SONY_SCI_FI/index.m3u8",
@@ -88,32 +80,32 @@
     "headers": {}
   },
   {
-    "name": "Amedia 1",
-    "tvg-id": "amedia 1",
+    "name": "Amedia 1 (576p)",
+    "tvg-id": "amedia 1 (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/A1/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Amedia 2",
-    "tvg-id": "amedia 2",
+    "name": "Amedia 2 (576p)",
+    "tvg-id": "amedia 2 (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/A2/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Amedia Hit",
-    "tvg-id": "amedia hit",
+    "name": "Amedia Hit (720p)",
+    "tvg-id": "amedia hit (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Amedia_HIT_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Amedia Premium",
-    "tvg-id": "amedia premium",
+    "name": "Amedia Premium (720p)",
+    "tvg-id": "amedia premium (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Amedia_Premium_HD/index.m3u8",
@@ -128,43 +120,51 @@
     "headers": {}
   },
   {
-    "name": "Ani",
-    "tvg-id": "ani",
+    "name": "Ani (576p)",
+    "tvg-id": "ani (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Ani/index.m3u8",
     "headers": {}
   },
   {
-    "name": "BRIDGE",
-    "tvg-id": "bridge",
+    "name": "BRIDGE (576p)",
+    "tvg-id": "bridge (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Bridge_TV/index.m3u8",
     "headers": {}
   },
   {
-    "name": "BRIDGE Classic",
-    "tvg-id": "bridge classic",
+    "name": "BRIDGE Classic (576p)",
+    "tvg-id": "bridge classic (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8",
     "headers": {}
   },
   {
-    "name": "BRIDGE Deluxe",
-    "tvg-id": "bridge deluxe",
+    "name": "BRIDGE Deluxe (1080p)",
+    "tvg-id": "bridge deluxe (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Bridge_TV_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "BRIDGE Hits",
-    "tvg-id": "bridge hits",
+    "name": "BRIDGE Hits (576p)",
+    "tvg-id": "bridge hits (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Bridge_TV_Dance/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Carousel (1080p)",
+    "tvg-id": "carousel (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Karusel_HD/index.m3u8",
     "headers": {}
   },
   {
@@ -173,14 +173,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://catchup.videoline.ru/cinema/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DanceHits80",
-    "tvg-id": "dancehits80",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
     "headers": {}
   },
   {
@@ -208,96 +200,88 @@
     "headers": {}
   },
   {
-    "name": "English Class HD",
-    "tvg-id": "english class hd",
+    "name": "English Class HD (1080p)",
+    "tvg-id": "english class hd (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/English_club_TV_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Europa Plus TV",
-    "tvg-id": "europa plus tv",
+    "name": "Europa Plus TV (1080p)",
+    "tvg-id": "europa plus tv (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Europa_Plus_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "FAN",
-    "tvg-id": "fan",
+    "name": "FAN (1080p)",
+    "tvg-id": "fan (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Fan/index.m3u8",
     "headers": {}
   },
   {
-    "name": "FASHION & LIFESTYLE",
-    "tvg-id": "fashion & lifestyle",
+    "name": "FASHION & LIFESTYLE (1080p)",
+    "tvg-id": "fashion & lifestyle (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Fashion_One_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "FoodTime",
-    "tvg-id": "foodtime",
+    "name": "FoodTime (1080p)",
+    "tvg-id": "foodtime (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Eda_Premium_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "HDL",
-    "tvg-id": "hdl",
+    "name": "HDL (720p)",
+    "tvg-id": "hdl (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/HD_Life/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Hollywood",
-    "tvg-id": "hollywood",
+    "name": "Hollywood HD (1080p)",
+    "tvg-id": "hollywood hd (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/AMC/index.m3u8",
+    "source": "http://31.148.48.15/MGM_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "KHL",
-    "tvg-id": "khl",
+    "name": "KHL (720p)",
+    "tvg-id": "khl (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/KHL_TV/index.m3u8",
     "headers": {}
   },
   {
-    "name": "KHL Prime",
-    "tvg-id": "khl prime",
+    "name": "KHL Prime (720p)",
+    "tvg-id": "khl prime (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/KHL_TV_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Kino 24",
-    "tvg-id": "kino 24",
+    "name": "Kino 24 (720p)",
+    "tvg-id": "kino 24 (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8",
     "headers": {}
   },
   {
-    "name": "Leomax 24 (1080p)",
-    "tvg-id": "leomax 24 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Match! Strana",
-    "tvg-id": "match! strana",
+    "name": "Match! Strana (720p)",
+    "tvg-id": "match! strana (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Match_Strana/index.m3u8",
@@ -320,8 +304,8 @@
     "headers": {}
   },
   {
-    "name": "Pro100TV",
-    "tvg-id": "pro100tv",
+    "name": "Pro100TV (576p)",
+    "tvg-id": "pro100tv (576p)",
     "group": "auto",
     "type": "direct",
     "source": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
@@ -336,27 +320,19 @@
     "headers": {}
   },
   {
-    "name": "RTG TV",
-    "tvg-id": "rtg tv",
+    "name": "RTG TV (720p)",
+    "tvg-id": "rtg tv (720p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/RTG/index.m3u8",
+    "source": "http://31.148.48.15/RTG_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "RU.TV",
-    "tvg-id": "ru.tv",
+    "name": "RU.TV (576p)",
+    "tvg-id": "ru.tv (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/RU_TV/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "SONGTV Russia",
-    "tvg-id": "songtv russia",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -376,8 +352,8 @@
     "headers": {}
   },
   {
-    "name": "STS kids",
-    "tvg-id": "sts kids",
+    "name": "STS kids (1080p)",
+    "tvg-id": "sts kids (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/STS_Kids_HD/index.m3u8",
@@ -392,27 +368,19 @@
     "headers": {}
   },
   {
-    "name": "TERRA",
-    "tvg-id": "terra",
+    "name": "Terra HD (720p)",
+    "tvg-id": "terra hd (720p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8",
+    "source": "http://31.148.48.15/Terra_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Travel+Adventure",
-    "tvg-id": "travel+adventure",
+    "name": "Travel+Adventure (1080p)",
+    "tvg-id": "travel+adventure (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Travel_Adventure_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TV BRICS Russian (1080p)",
-    "tvg-id": "tv brics russian (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
     "headers": {}
   },
   {
@@ -440,6 +408,14 @@
     "headers": {}
   },
   {
+    "name": "VITAL Drive",
+    "tvg-id": "vital drive",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://autopilot.catcast.tv/content/37909/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "VIVA Russia (1080p)",
     "tvg-id": "viva russia (1080p)",
     "group": "auto",
@@ -448,24 +424,24 @@
     "headers": {}
   },
   {
-    "name": "Авто Плюс",
-    "tvg-id": "авто плюс",
+    "name": "Авто Плюс (576p)",
+    "tvg-id": "авто плюс (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Avto_Plus/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Аист ТВ",
-    "tvg-id": "аист тв",
+    "name": "Аист ТВ (1080p)",
+    "tvg-id": "аист тв (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
     "headers": {}
   },
   {
-    "name": "Арктика 24 (Архангельск)",
-    "tvg-id": "арктика 24 (архангельск)",
+    "name": "Арктика 24 (Архангельск) (1080p)",
+    "tvg-id": "арктика 24 (архангельск) (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8",
@@ -504,8 +480,8 @@
     "headers": {}
   },
   {
-    "name": "Башкортостан 24",
-    "tvg-id": "башкортостан 24",
+    "name": "Башкортостан 24 (1080p)",
+    "tvg-id": "башкортостан 24 (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8",
@@ -528,27 +504,19 @@
     "headers": {}
   },
   {
-    "name": "Бокс ТВ",
-    "tvg-id": "бокс тв",
+    "name": "Бокс ТВ (720p)",
+    "tvg-id": "бокс тв (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Boks_TV/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Большая Азия",
-    "tvg-id": "большая азия",
+    "name": "Большая Азия (720p)",
+    "tvg-id": "большая азия (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "БСТ (Башкирское спутниковое телевидение) (576p)",
-    "tvg-id": "бст (башкирское спутниковое телевидение) (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8",
     "headers": {}
   },
   {
@@ -576,16 +544,16 @@
     "headers": {}
   },
   {
-    "name": "Волгоград 24",
-    "tvg-id": "волгоград 24",
+    "name": "Волгоград 24 (1080p)",
+    "tvg-id": "волгоград 24 (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Восток 24 (Владивосток)",
-    "tvg-id": "восток 24 (владивосток)",
+    "name": "Восток 24 (Владивосток) (1080p)",
+    "tvg-id": "восток 24 (владивосток) (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8",
@@ -608,16 +576,8 @@
     "headers": {}
   },
   {
-    "name": "Дагестан (1080p)",
-    "tvg-id": "дагестан (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Доктор",
-    "tvg-id": "доктор",
+    "name": "Доктор (1080p)",
+    "tvg-id": "доктор (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Doktor/index.m3u8",
@@ -632,16 +592,16 @@
     "headers": {}
   },
   {
-    "name": "Дом Кино Премиум HD",
-    "tvg-id": "дом кино премиум hd",
+    "name": "Дом Кино Премиум HD (1080p)",
+    "tvg-id": "дом кино премиум hd (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Домашний International",
-    "tvg-id": "домашний international",
+    "name": "Домашний International (720p)",
+    "tvg-id": "домашний international (720p)",
     "group": "auto",
     "type": "direct",
     "source": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
@@ -656,32 +616,32 @@
     "headers": {}
   },
   {
-    "name": "Еврокино",
-    "tvg-id": "еврокино",
+    "name": "Еврокино (576p)",
+    "tvg-id": "еврокино (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Evrokino/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Жара TV",
-    "tvg-id": "жара tv",
+    "name": "Жара TV (576p)",
+    "tvg-id": "жара tv (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Zhara/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Живая Планета",
-    "tvg-id": "живая планета",
+    "name": "Живая Планета (576p)",
+    "tvg-id": "живая планета (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Zhivaya_Planeta/index.m3u8",
     "headers": {}
   },
   {
-    "name": "ЖИВИ!",
-    "tvg-id": "живи!",
+    "name": "ЖИВИ! (1080p)",
+    "tvg-id": "живи! (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Zhivi/index.m3u8",
@@ -696,160 +656,144 @@
     "headers": {}
   },
   {
-    "name": "Запад 24 (Калининград)",
-    "tvg-id": "запад 24 (калининград)",
+    "name": "Запад 24 (Калининград) (1080p)",
+    "tvg-id": "запад 24 (калининград) (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Звезда Плюс",
-    "tvg-id": "звезда плюс",
+    "name": "Звезда Плюс (1080p)",
+    "tvg-id": "звезда плюс (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8",
     "headers": {}
   },
   {
-    "name": "Здоровое ТВ",
-    "tvg-id": "здоровое тв",
+    "name": "Здоровое ТВ (576p)",
+    "tvg-id": "здоровое тв (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Zdorovoe_TV/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Зоо ТВ",
-    "tvg-id": "зоо тв",
+    "name": "Зоо ТВ (576p)",
+    "tvg-id": "зоо тв (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Zoo_TV/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Известия",
-    "tvg-id": "известия",
+    "name": "Известия (1080p)",
+    "tvg-id": "известия (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
     "headers": {}
   },
   {
-    "name": "Иллюзион+",
-    "tvg-id": "иллюзион+",
+    "name": "Иллюзион+ (576p)",
+    "tvg-id": "иллюзион+ (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Illusion_plus/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Ингушетия ТВ",
-    "tvg-id": "ингушетия тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Индия",
-    "tvg-id": "индия",
+    "name": "Индия (576p)",
+    "tvg-id": "индия (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Zee_TV_Russia/index.m3u8",
     "headers": {}
   },
   {
-    "name": "История",
-    "tvg-id": "история",
+    "name": "История (576p)",
+    "tvg-id": "история (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Istoriya/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Кавказ 24 (Ставрополь)",
-    "tvg-id": "кавказ 24 (ставрополь)",
+    "name": "Кавказ 24 (Ставрополь) (576p)",
+    "tvg-id": "кавказ 24 (ставрополь) (576p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8",
     "headers": {}
   },
   {
-    "name": "КВН ТВ",
-    "tvg-id": "квн тв",
+    "name": "КВН ТВ (576p)",
+    "tvg-id": "квн тв (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/KVN_TV/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Кинеко",
-    "tvg-id": "кинеко",
+    "name": "Кинеко (1080p)",
+    "tvg-id": "кинеко (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Kineko_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Кинопоказ",
-    "tvg-id": "кинопоказ",
+    "name": "КИНО ТВ (720p)",
+    "tvg-id": "кино тв (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Kino_TV_HD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Кинопоказ (576p)",
+    "tvg-id": "кинопоказ (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Kinopokaz/index.m3u8",
     "headers": {}
   },
   {
-    "name": "КИНОСАТ",
-    "tvg-id": "киносат",
+    "name": "КИНОСАТ (576p)",
+    "tvg-id": "киносат (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Kineko/index.m3u8",
     "headers": {}
   },
   {
-    "name": "КИНОТВ",
-    "tvg-id": "кинотв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vod.tuva.ru/kinotv/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Красная линия",
-    "tvg-id": "красная линия",
+    "name": "Красная линия (480p)",
+    "tvg-id": "красная линия (480p)",
     "group": "auto",
     "type": "direct",
     "source": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
     "headers": {}
   },
   {
-    "name": "КРИК-ТВ (Екатеринбург)",
-    "tvg-id": "крик-тв (екатеринбург)",
+    "name": "КРИК-ТВ (Екатеринбург) (1080p)",
+    "tvg-id": "крик-тв (екатеринбург) (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
     "headers": {}
   },
   {
-    "name": "Кто есть Кто",
-    "tvg-id": "кто есть кто",
+    "name": "Кто есть Кто (576p)",
+    "tvg-id": "кто есть кто (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Kto_est_kto/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Курай (Уфа) (576p)",
-    "tvg-id": "курай (уфа) (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Кухня ТВ",
-    "tvg-id": "кухня тв",
+    "name": "Кухня ТВ (576p)",
+    "tvg-id": "кухня тв (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Kuhnya_TV/index.m3u8",
@@ -872,16 +816,16 @@
     "headers": {}
   },
   {
-    "name": "Магнат ТВ",
-    "tvg-id": "магнат тв",
+    "name": "Магнат ТВ (1080p)",
+    "tvg-id": "магнат тв (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8",
     "headers": {}
   },
   {
-    "name": "Мама",
-    "tvg-id": "мама",
+    "name": "Мама (576p)",
+    "tvg-id": "мама (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Mama/index.m3u8",
@@ -896,27 +840,27 @@
     "headers": {}
   },
   {
-    "name": "МАТЧ! Арена",
-    "tvg-id": "матч! арена",
+    "name": "МАТЧ! Арена (720p)",
+    "tvg-id": "матч! арена (720p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/Match_Arena/index.m3u8",
+    "source": "http://31.148.48.15/Match_Arena_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "МАТЧ! Боец",
-    "tvg-id": "матч! боец",
+    "name": "МАТЧ! Боец (576p)",
+    "tvg-id": "матч! боец (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Match_Boec/index.m3u8",
     "headers": {}
   },
   {
-    "name": "МАТЧ! Игра",
-    "tvg-id": "матч! игра",
+    "name": "МАТЧ! Игра (720p)",
+    "tvg-id": "матч! игра (720p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/Match_Igra/index.m3u8",
+    "source": "http://31.148.48.15/Match_Igra_HD/index.m3u8",
     "headers": {}
   },
   {
@@ -936,48 +880,64 @@
     "headers": {}
   },
   {
-    "name": "Мир Сериала",
-    "tvg-id": "мир сериала",
+    "name": "Мир (+4) (576p)",
+    "tvg-id": "мир (+4) (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Mir/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Мир Сериала (576p)",
+    "tvg-id": "мир сериала (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Mir_Seriala/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Моя Планета",
-    "tvg-id": "моя планета",
+    "name": "Моя Планета (720p)",
+    "tvg-id": "моя планета (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Moya_Planeta_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Музыка Live",
-    "tvg-id": "музыка live",
+    "name": "Муз союз (576p)",
+    "tvg-id": "муз союз (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Музыка Live (576p)",
+    "tvg-id": "музыка live (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/La-Minor_TV/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Музыка Первого",
-    "tvg-id": "музыка первого",
+    "name": "Музыка Первого (1080p)",
+    "tvg-id": "музыка первого (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Muzika_Pervogo/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Мульт",
-    "tvg-id": "мульт",
+    "name": "Мульт (1080p)",
+    "tvg-id": "мульт (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/Mult/index.m3u8",
+    "source": "http://31.148.48.15/Mult_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Мульт и Музыка",
-    "tvg-id": "мульт и музыка",
+    "name": "Мульт и Музыка (576p)",
+    "tvg-id": "мульт и музыка (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Multimuzika/index.m3u8",
@@ -1000,27 +960,27 @@
     "headers": {}
   },
   {
-    "name": "Нано ТВ HD",
-    "tvg-id": "нано тв hd",
+    "name": "Нано ТВ HD (576p)",
+    "tvg-id": "нано тв hd (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://s1.tv-nano.com/Nano_rec/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Настоящее Время",
-    "tvg-id": "настоящее время",
+    "name": "НАУКА (1080p)",
+    "tvg-id": "наука (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8",
+    "source": "http://31.148.48.15/Nauka_2.0/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Наука",
-    "tvg-id": "наука",
+    "name": "Нижний Новгород 24 (1080p)",
+    "tvg-id": "нижний новгород 24 (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://vod.tuva.ru/nauka2/index.m3u8",
+    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8",
     "headers": {}
   },
   {
@@ -1040,43 +1000,19 @@
     "headers": {}
   },
   {
-    "name": "Ностальгия",
-    "tvg-id": "ностальгия",
+    "name": "Ностальгия (576p)",
+    "tvg-id": "ностальгия (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Nostalgiya/index.m3u8",
     "headers": {}
   },
   {
-    "name": "НТВ",
-    "tvg-id": "нтв",
+    "name": "НТВ (+4) (576p)",
+    "tvg-id": "нтв (+4) (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "о2тв",
-    "tvg-id": "о2тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/O2_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Осетия Ирыстон",
-    "tvg-id": "осетия ирыстон",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ОСН",
-    "tvg-id": "осн",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
+    "source": "http://31.148.48.15/NTV/index.m3u8",
     "headers": {}
   },
   {
@@ -1088,8 +1024,8 @@
     "headers": {}
   },
   {
-    "name": "Открытый мир. Здоровье",
-    "tvg-id": "открытый мир. здоровье",
+    "name": "Открытый мир. Здоровье (576p)",
+    "tvg-id": "открытый мир. здоровье (576p)",
     "group": "auto",
     "type": "direct",
     "source": "https://v4.proofix.ru/0mir/index.m3u8",
@@ -1112,27 +1048,11 @@
     "headers": {}
   },
   {
-    "name": "Первый Ярославский",
-    "tvg-id": "первый ярославский",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Победа 720p",
-    "tvg-id": "победа 720p",
+    "name": "Победа 720p (576p)",
+    "tvg-id": "победа 720p (576p)",
     "group": "auto",
     "type": "direct",
     "source": "https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Поехали!",
-    "tvg-id": "поехали!",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Poehali/index.m3u8",
     "headers": {}
   },
   {
@@ -1144,8 +1064,16 @@
     "headers": {}
   },
   {
-    "name": "Пятница! International",
-    "tvg-id": "пятница! international",
+    "name": "Пятница! (576p)",
+    "tvg-id": "пятница! (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://vod.tuva.ru/friday/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Пятница! International (576p)",
+    "tvg-id": "пятница! international (576p)",
     "group": "auto",
     "type": "direct",
     "source": "https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8",
@@ -1160,14 +1088,6 @@
     "headers": {}
   },
   {
-    "name": "Радость моя",
-    "tvg-id": "радость моя",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "РБК (576p)",
     "tvg-id": "рбк (576p)",
     "group": "auto",
@@ -1176,123 +1096,67 @@
     "headers": {}
   },
   {
-    "name": "Родное Кино",
-    "tvg-id": "родное кино",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Rodnoe_kino/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Россия 1",
-    "tvg-id": "россия 1",
+    "name": "Россия 1 (1080p)",
+    "tvg-id": "россия 1 (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Россия 1 (+6)",
-    "tvg-id": "россия 1 (+6)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Rossiya_1/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Россия 1 HD (Архангельск)",
-    "tvg-id": "россия 1 hd (архангельск)",
+    "name": "Россия 1 HD (Архангельск) (1080p)",
+    "tvg-id": "россия 1 hd (архангельск) (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Русский Бестселлер",
-    "tvg-id": "русский бестселлер",
+    "name": "Россия 24 (Хабаровск) (1080p)",
+    "tvg-id": "россия 24 (хабаровск) (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/Russkiy_Bestseller/index.m3u8",
+    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Русский Детектив",
-    "tvg-id": "русский детектив",
+    "name": "Россия К (1080p)",
+    "tvg-id": "россия к (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/Russkiy_Detektiv/index.m3u8",
+    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Русский Иллюзион",
-    "tvg-id": "русский иллюзион",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Russkiy_illusion/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Русский Роман",
-    "tvg-id": "русский роман",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Russkiy_Roman/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Русский Экстрим",
-    "tvg-id": "русский экстрим",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Russkiy_Ekstrim/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Рыжий",
-    "tvg-id": "рыжий",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Rizhiy/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Салям (Уфа) (576p)",
-    "tvg-id": "салям (уфа) (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Самара 24",
-    "tvg-id": "самара 24",
+    "name": "Самара 24 (1080p)",
+    "tvg-id": "самара 24 (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Сапфир",
-    "tvg-id": "сапфир",
+    "name": "Санкт-Петербург (576p)",
+    "tvg-id": "санкт-петербург (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/Sapfir/index.m3u8",
+    "source": "http://31.148.48.15/Sankt_Peterburg/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Сарафан",
-    "tvg-id": "сарафан",
+    "name": "Сапфир (720p)",
+    "tvg-id": "сапфир (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Sapfir_HD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Сарафан (576p)",
+    "tvg-id": "сарафан (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Sarafan/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Своё ТВ (Ставрополь)",
-    "tvg-id": "своё тв (ставрополь)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://svoetv.mediacdn.ru/cdn/svoetv/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1304,16 +1168,16 @@
     "headers": {}
   },
   {
-    "name": "Сибирь 24 (Красноярск)",
-    "tvg-id": "сибирь 24 (красноярск)",
+    "name": "Сибирь 24 (Красноярск) (1080p)",
+    "tvg-id": "сибирь 24 (красноярск) (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Сибирь 24 (Новосибирск)",
-    "tvg-id": "сибирь 24 (новосибирск)",
+    "name": "Сибирь 24 (Новосибирск) (1080p)",
+    "tvg-id": "сибирь 24 (новосибирск) (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8",
@@ -1328,24 +1192,32 @@
     "headers": {}
   },
   {
-    "name": "Смотрим Честный Детектив",
-    "tvg-id": "смотрим честный детектив",
+    "name": "Смотрим Честный Детектив (1080p)",
+    "tvg-id": "смотрим честный детектив (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8",
     "headers": {}
   },
   {
-    "name": "Солнце",
-    "tvg-id": "солнце",
+    "name": "Солнце (576p)",
+    "tvg-id": "солнце (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://tv.mediacdn.ru/live/solntse/playlist.m3u8",
     "headers": {}
   },
   {
-    "name": "Сочи 24 HD",
-    "tvg-id": "сочи 24 hd",
+    "name": "Соловьёв LIVE (576p)",
+    "tvg-id": "соловьёв live (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/EuroNews/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Сочи 24 HD (720p)",
+    "tvg-id": "сочи 24 hd (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
@@ -1360,11 +1232,27 @@
     "headers": {}
   },
   {
+    "name": "СТС (+4) (576p)",
+    "tvg-id": "стс (+4) (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/STS/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Студия Факт",
     "tvg-id": "студия факт",
     "group": "auto",
     "type": "direct",
     "source": "https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Суббота! (576p)",
+    "tvg-id": "суббота! (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Super/index.m3u8",
     "headers": {}
   },
   {
@@ -1376,22 +1264,6 @@
     "headers": {}
   },
   {
-    "name": "Тамыр (Уфа) (576p)",
-    "tvg-id": "тамыр (уфа) (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТВ Центр",
-    "tvg-id": "тв центр",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "ТВ Центр International (720p)",
     "tvg-id": "тв центр international (720p)",
     "group": "auto",
@@ -1400,40 +1272,48 @@
     "headers": {}
   },
   {
-    "name": "Твое TV HD",
-    "tvg-id": "твое tv hd",
+    "name": "Твое TV HD (1080p)",
+    "tvg-id": "твое tv hd (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://tvoetv.space:8080/tvoetv/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Твое ТВ Юмор",
-    "tvg-id": "твое тв юмор",
+    "name": "Твое ТВ Юмор (1080p)",
+    "tvg-id": "твое тв юмор (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Театр",
-    "tvg-id": "театр",
+    "name": "Театр (576p)",
+    "tvg-id": "театр (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Sochi_HD/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Телекафе",
-    "tvg-id": "телекафе",
+    "name": "Телеканал Краснодар (1080p)",
+    "tvg-id": "телеканал краснодар (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Телекафе (720p)",
+    "tvg-id": "телекафе (720p)",
     "group": "auto",
     "type": "direct",
     "source": "https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8",
     "headers": {}
   },
   {
-    "name": "Телепутешествия",
-    "tvg-id": "телепутешествия",
+    "name": "Телепутешествия (576p)",
+    "tvg-id": "телепутешествия (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Teleputeshestviya/index.m3u8",
@@ -1448,40 +1328,40 @@
     "headers": {}
   },
   {
-    "name": "ТНВ-Планета (Казань)",
-    "tvg-id": "тнв-планета (казань)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТНТ4",
-    "tvg-id": "тнт4",
+    "name": "ТНТ4 (576p)",
+    "tvg-id": "тнт4 (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/TNT4/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Толк HD",
-    "tvg-id": "толк hd",
+    "name": "ТНТ (+4) (576p)",
+    "tvg-id": "тнт (+4) (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/TNT/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Толк HD (720p)",
+    "tvg-id": "толк hd (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
     "headers": {}
   },
   {
-    "name": "Тонус",
-    "tvg-id": "тонус",
+    "name": "Тонус (576p)",
+    "tvg-id": "тонус (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Zdorovie/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Точка ТВ",
-    "tvg-id": "точка тв",
+    "name": "Точка ТВ (576p)",
+    "tvg-id": "точка тв (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Tochka_TV/index.m3u8",
@@ -1496,35 +1376,43 @@
     "headers": {}
   },
   {
-    "name": "Уникум",
-    "tvg-id": "уникум",
+    "name": "Уникум (576p)",
+    "tvg-id": "уникум (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Detskiy/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Урал 24 (Челябинск)",
-    "tvg-id": "урал 24 (челябинск)",
+    "name": "Урал 24 (Челябинск) (1080p)",
+    "tvg-id": "урал 24 (челябинск) (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Феникс плюс Кино",
-    "tvg-id": "феникс плюс кино",
+    "name": "Феникс плюс Кино (576p)",
+    "tvg-id": "феникс плюс кино (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Feniks_plus_kino/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Футбол",
-    "tvg-id": "футбол",
+    "name": "Футбол (720p)",
+    "tvg-id": "футбол (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Futbol_HD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Че! (576p)",
+    "tvg-id": "че! (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Che/index.m3u8",
     "headers": {}
   },
   {
@@ -1536,8 +1424,8 @@
     "headers": {}
   },
   {
-    "name": "Югра",
-    "tvg-id": "югра",
+    "name": "Югра (1080p)",
+    "tvg-id": "югра (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
@@ -1597,6 +1485,118 @@
     "group": "auto",
     "type": "direct",
     "source": "http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Мир",
+    "tvg-id": "мир",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.131.141.195:8000/play/a003/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "CGTN Русский HD",
+    "tvg-id": "cgtn русский hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "CTV.BY HD",
+    "tvg-id": "ctv.by hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "БелРос",
+    "tvg-id": "белрос",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://live2.mediacdn.ru/sr1/tro/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Большая Азия HD",
+    "tvg-id": "большая азия hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Конгресс ТВ",
+    "tvg-id": "конгресс тв",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://live-3.otcnet.ru/congresstv/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ПРНК HD",
+    "tvg-id": "прнк hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://serv25.vintera.tv/1pnk/prnk/chunks.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Беларусь 24 HD",
+    "tvg-id": "беларусь 24 hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Известия HD",
+    "tvg-id": "известия hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://s20441.cdn.ngenix.net/hls/CH_R49_MGTK/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Первый информационный HD",
+    "tvg-id": "первый информационный hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://edge50.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w868240704_b5160000_sleng.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Про бизнес",
+    "tvg-id": "про бизнес",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/chunklist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "РБК HD",
+    "tvg-id": "рбк hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Россия 24 HD",
+    "tvg-id": "россия 24 hd",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/720p.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ТАСС",
+    "tvg-id": "тасс",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://tass-hls.servicecdn.ru/httpstreamer/tass-loop-main.stream/playlist.m3u8",
     "headers": {}
   }
 ]
