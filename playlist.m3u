@@ -77,8 +77,6 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1,Match! Strana (720p)
 http://31.148.48.15/Match_Strana/index.m3u8
-#EXTINF:-1,MMA TV.com (1080p)
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,NSC+ (720p)
 https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1,Pro100TV (576p)
@@ -367,6 +365,8 @@ http://31.148.48.15/STS/index.m3u8
 https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8
 #EXTINF:-1,Суббота! (576p)
 http://31.148.48.15/Super/index.m3u8
+#EXTINF:-1,Таврия
+https://streaming.televizor-24-tochka.ru/live/24.m3u8
 #EXTINF:-1,Тамыр (Уфа) (576p)
 https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
 #EXTINF:-1,ТВ Центр International (720p)
