@@ -5,8 +5,6 @@ http://31.148.48.15/2x2/index.m3u8
 http://31.148.48.15/7TV/index.m3u8
 #EXTINF:-1,12 канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:-1,15+ Music (1080p)
-https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1,360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1,360° Новости (1080p)
@@ -15,12 +13,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 http://31.148.48.15/365_dney/index.m3u8
 #EXTINF:-1,.sci-fi (576p)
 http://31.148.48.15/SONY_SCI_FI/index.m3u8
-#EXTINF:-1,alpha Cinema (1080p)
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1,alpha Funny (1080p)
-https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
-#EXTINF:-1,alpha Moretime (1080p)
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1,Amedia 1 (576p)
 http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1,Amedia 2 (576p)
@@ -77,8 +69,6 @@ http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1,Match! Strana (720p)
 http://31.148.48.15/Match_Strana/index.m3u8
-#EXTINF:-1,NSC+ (720p)
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1,Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
 #EXTINF:-1,RT Documentary Russian (1080p)
@@ -263,8 +253,6 @@ http://31.148.48.15/Nauka_2.0/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 #EXTINF:-1,Новый Век
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
-#EXTINF:-1,Новый Русский (720p)
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1,Ностальгия (576p)
 http://31.148.48.15/Nostalgiya/index.m3u8
 #EXTINF:-1,НТВ (+4) (576p)
@@ -399,3 +387,15 @@ http://31.148.48.15/Zdorovie/index.m3u8
 http://31.148.48.15/Tochka_TV/index.m3u8
 #EXTINF:-1,Три Ангела (720p)
 https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1,Уникум (576p)
+http://31.148.48.15/Detskiy/index.m3u8
+#EXTINF:-1,Урал 24 (Челябинск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1,Феникс плюс Кино (576p)
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1,Футбол (720p)
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1,Че! (576p)
+http://31.148.48.15/Che/index.m3u8
+#EXTINF:-1,Ювелирочка ТВ (576p)
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
