@@ -24,6 +24,14 @@
     "headers": {}
   },
   {
+    "name": "15+ Music (1080p)",
+    "tvg-id": "15+ music (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
+    "headers": {}
+  },
+  {
     "name": "360° (1080p)",
     "tvg-id": "360° (1080p)",
     "group": "auto",
@@ -53,6 +61,30 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/SONY_SCI_FI/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "alpha Cinema (1080p)",
+    "tvg-id": "alpha cinema (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "alpha Funny (1080p)",
+    "tvg-id": "alpha funny (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "alpha Moretime (1080p)",
+    "tvg-id": "alpha moretime (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8",
     "headers": {}
   },
   {
@@ -280,6 +312,22 @@
     "headers": {}
   },
   {
+    "name": "MMA TV.com (1080p)",
+    "tvg-id": "mma tv.com (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "NSC+ (720p)",
+    "tvg-id": "nsc+ (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Pro100TV (576p)",
     "tvg-id": "pro100tv (576p)",
     "group": "auto",
@@ -309,14 +357,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/RU_TV/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "SONGTV Russia",
-    "tvg-id": "songtv russia",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1016,6 +1056,14 @@
     "headers": {}
   },
   {
+    "name": "Новый Русский (720p)",
+    "tvg-id": "новый русский (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Ностальгия (576p)",
     "tvg-id": "ностальгия (576p)",
     "group": "auto",
@@ -1549,54 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://hls.tv.3angels.ru/stream.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Уникум (576p)",
-    "tvg-id": "уникум (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Detskiy/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Урал 24 (Челябинск) (1080p)",
-    "tvg-id": "урал 24 (челябинск) (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Феникс плюс Кино (576p)",
-    "tvg-id": "феникс плюс кино (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Feniks_plus_kino/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Футбол (720p)",
-    "tvg-id": "футбол (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Futbol_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Че! (576p)",
-    "tvg-id": "че! (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Che/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Ювелирочка ТВ (576p)",
-    "tvg-id": "ювелирочка тв (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
     "headers": {}
   }
 ]
