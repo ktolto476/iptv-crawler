@@ -1,13 +1,5 @@
 [
   {
-    "name": "2x2 (576p)",
-    "tvg-id": "2x2 (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/2x2/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "7TV (576p)",
     "tvg-id": "7tv (576p)",
     "group": "auto",
@@ -77,14 +69,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "alpha Moretime (1080p)",
-    "tvg-id": "alpha moretime (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8",
     "headers": {}
   },
   {
@@ -184,11 +168,11 @@
     "headers": {}
   },
   {
-    "name": "DanceHits80",
-    "tvg-id": "dancehits80",
+    "name": "Drive (576i)",
+    "tvg-id": "drive (576i)",
     "group": "auto",
     "type": "direct",
-    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
+    "source": "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
@@ -256,6 +240,14 @@
     "headers": {}
   },
   {
+    "name": "Glazami Turista (576i)",
+    "tvg-id": "glazami turista (576i)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "HDL (720p)",
     "tvg-id": "hdl (720p)",
     "group": "auto",
@@ -309,14 +301,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Match_Strana/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "MMA TV.com (1080p)",
-    "tvg-id": "mma tv.com (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
     "headers": {}
   },
   {
@@ -445,6 +429,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://autopilot.catcast.tv/content/37909/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "VIVA Russia (1080p)",
+    "tvg-id": "viva russia (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1589,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://hls.tv.3angels.ru/stream.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Уникум (576p)",
+    "tvg-id": "уникум (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Detskiy/index.m3u8",
     "headers": {}
   }
 ]
