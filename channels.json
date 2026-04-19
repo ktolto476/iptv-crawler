@@ -72,6 +72,14 @@
     "headers": {}
   },
   {
+    "name": "alpha Moretime (1080p)",
+    "tvg-id": "alpha moretime (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Amedia 1 (576p)",
     "tvg-id": "amedia 1 (576p)",
     "group": "auto",
@@ -117,6 +125,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Ani/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Bollywood HD Russia (576p)",
+    "tvg-id": "bollywood hd russia (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8",
     "headers": {}
   },
   {
@@ -168,35 +184,19 @@
     "headers": {}
   },
   {
+    "name": "DanceHits80",
+    "tvg-id": "dancehits80",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Drive (576i)",
     "tvg-id": "drive (576i)",
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DTR Music 1 (720p)",
-    "tvg-id": "dtr music 1 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://kino-stream.online/hls/DTRMUSIC1.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DTR Zona 1 (720p)",
-    "tvg-id": "dtr zona 1 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://kino-stream.online/hls/DTRZONA1.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DTR Zona 2 (720p)",
-    "tvg-id": "dtr zona 2 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://kino-stream.online/hls/DTRZONA2.m3u8",
     "headers": {}
   },
   {
@@ -304,6 +304,14 @@
     "headers": {}
   },
   {
+    "name": "MMA TV.com (1080p)",
+    "tvg-id": "mma tv.com (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "NSC+ (720p)",
     "tvg-id": "nsc+ (720p)",
     "group": "auto",
@@ -341,6 +349,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/RU_TV/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "SONGTV Russia",
+    "tvg-id": "songtv russia",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1256,14 +1272,6 @@
     "headers": {}
   },
   {
-    "name": "Россия К (1080p)",
-    "tvg-id": "россия к (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Русский Бестселлер (576p)",
     "tvg-id": "русский бестселлер (576p)",
     "group": "auto",
@@ -1589,14 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://hls.tv.3angels.ru/stream.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Уникум (576p)",
-    "tvg-id": "уникум (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Detskiy/index.m3u8",
     "headers": {}
   }
 ]
