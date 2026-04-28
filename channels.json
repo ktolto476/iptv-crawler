@@ -200,30 +200,6 @@
     "headers": {}
   },
   {
-    "name": "DTR Music 1 (720p)",
-    "tvg-id": "dtr music 1 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://kino-stream.online/hls/DTRMUSIC1.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DTR Zona 1 (720p)",
-    "tvg-id": "dtr zona 1 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://kino-stream.online/hls/DTRZONA1.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DTR Zona 2 (720p)",
-    "tvg-id": "dtr zona 2 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://kino-stream.online/hls/DTRZONA2.m3u8",
-    "headers": {}
-  },
-  {
     "name": "English Class HD (1080p)",
     "tvg-id": "english class hd (1080p)",
     "group": "auto",
@@ -1597,6 +1573,30 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/TNT4/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ТНТ (+4) (576p)",
+    "tvg-id": "тнт (+4) (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/TNT/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Толк HD (720p)",
+    "tvg-id": "толк hd (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Тонус (576p)",
+    "tvg-id": "тонус (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Zdorovie/index.m3u8",
     "headers": {}
   }
 ]

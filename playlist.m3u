@@ -49,12 +49,6 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,Drive (576i)
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
-#EXTINF:-1,DTR Music 1 (720p)
-https://kino-stream.online/hls/DTRMUSIC1.m3u8
-#EXTINF:-1,DTR Zona 1 (720p)
-https://kino-stream.online/hls/DTRZONA1.m3u8
-#EXTINF:-1,DTR Zona 2 (720p)
-https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1,English Class HD (1080p)
 http://31.148.48.15/English_club_TV_HD/index.m3u8
 #EXTINF:-1,Europa Plus TV (1080p)
@@ -399,3 +393,9 @@ https://stream.almaz-media.tv:8080/hls/576.m3u8
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:-1,ТНТ4 (576p)
 http://31.148.48.15/TNT4/index.m3u8
+#EXTINF:-1,ТНТ (+4) (576p)
+http://31.148.48.15/TNT/index.m3u8
+#EXTINF:-1,Толк HD (720p)
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1,Тонус (576p)
+http://31.148.48.15/Zdorovie/index.m3u8
