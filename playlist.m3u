@@ -15,8 +15,6 @@ http://31.148.48.15/365_dney/index.m3u8
 http://31.148.48.15/SONY_SCI_FI/index.m3u8
 #EXTINF:-1,alpha Cinema (1080p)
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1,alpha Funny (1080p)
-https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8
 #EXTINF:-1,alpha Moretime (1080p)
 https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1,Amedia 1 (576p)
@@ -49,6 +47,12 @@ http://catchup.videoline.ru/cinema/playlist.m3u8
 http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,Drive (576i)
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
+#EXTINF:-1,DTR Music 1 (720p)
+https://kino-stream.online/hls/DTRMUSIC1.m3u8
+#EXTINF:-1,DTR Zona 1 (720p)
+https://kino-stream.online/hls/DTRZONA1.m3u8
+#EXTINF:-1,DTR Zona 2 (720p)
+https://kino-stream.online/hls/DTRZONA2.m3u8
 #EXTINF:-1,English Class HD (1080p)
 http://31.148.48.15/English_club_TV_HD/index.m3u8
 #EXTINF:-1,Europa Plus TV (1080p)
@@ -79,8 +83,6 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1,MMA TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1,NSC+ (720p)
-https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8
 #EXTINF:-1,Ohotnik i rybolov (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Pro100TV (576p)
@@ -113,8 +115,8 @@ http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1,viju TV1000 Русское
 http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
-#EXTINF:-1,VIVA Russia (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
+#EXTINF:-1,VITAL Drive
+https://autopilot.catcast.tv/content/37909/index.m3u8
 #EXTINF:-1,Zoopark (576i)
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Авто Плюс (576p)
@@ -229,8 +231,6 @@ https://streaming.televizor-24-tochka.ru/live/29.m3u8
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1,Мама (576p)
 http://31.148.48.15/Mama/index.m3u8
-#EXTINF:-1,Матур ТВ (1080p)
-https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1,МАТЧ! Арена (720p)
 http://31.148.48.15/Match_Arena_HD/index.m3u8
 #EXTINF:-1,МАТЧ! Боец (576p)
@@ -269,8 +269,6 @@ http://31.148.48.15/Nauka_2.0/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 #EXTINF:-1,Новый Век
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
-#EXTINF:-1,Новый Русский (720p)
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1,Ностальгия (576p)
 http://31.148.48.15/Nostalgiya/index.m3u8
 #EXTINF:-1,НТВ (+4) (576p)
@@ -399,3 +397,5 @@ http://31.148.48.15/TNT/index.m3u8
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1,Тонус (576p)
 http://31.148.48.15/Zdorovie/index.m3u8
+#EXTINF:-1,Точка ТВ (576p)
+http://31.148.48.15/Tochka_TV/index.m3u8

@@ -64,14 +64,6 @@
     "headers": {}
   },
   {
-    "name": "alpha Funny (1080p)",
-    "tvg-id": "alpha funny (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/90b76c71-a86e-488a-aac4-cb66d6f88781.m3u8",
-    "headers": {}
-  },
-  {
     "name": "alpha Moretime (1080p)",
     "tvg-id": "alpha moretime (1080p)",
     "group": "auto",
@@ -200,6 +192,30 @@
     "headers": {}
   },
   {
+    "name": "DTR Music 1 (720p)",
+    "tvg-id": "dtr music 1 (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://kino-stream.online/hls/DTRMUSIC1.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "DTR Zona 1 (720p)",
+    "tvg-id": "dtr zona 1 (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://kino-stream.online/hls/DTRZONA1.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "DTR Zona 2 (720p)",
+    "tvg-id": "dtr zona 2 (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://kino-stream.online/hls/DTRZONA2.m3u8",
+    "headers": {}
+  },
+  {
     "name": "English Class HD (1080p)",
     "tvg-id": "english class hd (1080p)",
     "group": "auto",
@@ -317,14 +333,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "NSC+ (720p)",
-    "tvg-id": "nsc+ (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8",
     "headers": {}
   },
   {
@@ -456,11 +464,11 @@
     "headers": {}
   },
   {
-    "name": "VIVA Russia (1080p)",
-    "tvg-id": "viva russia (1080p)",
+    "name": "VITAL Drive",
+    "tvg-id": "vital drive",
     "group": "auto",
     "type": "direct",
-    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
+    "source": "https://autopilot.catcast.tv/content/37909/index.m3u8",
     "headers": {}
   },
   {
@@ -920,14 +928,6 @@
     "headers": {}
   },
   {
-    "name": "Матур ТВ (1080p)",
-    "tvg-id": "матур тв (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8",
-    "headers": {}
-  },
-  {
     "name": "МАТЧ! Арена (720p)",
     "tvg-id": "матч! арена (720p)",
     "group": "auto",
@@ -1077,14 +1077,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Новый Русский (720p)",
-    "tvg-id": "новый русский (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1589,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Zdorovie/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Точка ТВ (576p)",
+    "tvg-id": "точка тв (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Tochka_TV/index.m3u8",
     "headers": {}
   }
 ]
