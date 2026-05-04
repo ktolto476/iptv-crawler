@@ -472,6 +472,14 @@
     "headers": {}
   },
   {
+    "name": "VIVA Russia (1080p)",
+    "tvg-id": "viva russia (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Zoopark (576i)",
     "tvg-id": "zoopark (576i)",
     "group": "auto",
@@ -1080,6 +1088,14 @@
     "headers": {}
   },
   {
+    "name": "Новый Русский (720p)",
+    "tvg-id": "новый русский (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Ностальгия (576p)",
     "tvg-id": "ностальгия (576p)",
     "group": "auto",
@@ -1581,22 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Тонус (576p)",
-    "tvg-id": "тонус (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Zdorovie/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Точка ТВ (576p)",
-    "tvg-id": "точка тв (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Tochka_TV/index.m3u8",
     "headers": {}
   }
 ]
