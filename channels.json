@@ -472,14 +472,6 @@
     "headers": {}
   },
   {
-    "name": "VIVA Russia (1080p)",
-    "tvg-id": "viva russia (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Zoopark (576i)",
     "tvg-id": "zoopark (576i)",
     "group": "auto",
@@ -933,6 +925,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Mama/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Матур ТВ (1080p)",
+    "tvg-id": "матур тв (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8",
     "headers": {}
   },
   {
