@@ -32,14 +32,6 @@
     "headers": {}
   },
   {
-    "name": "360° Новости (1080p)",
-    "tvg-id": "360° новости (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "365 Дней (576p)",
     "tvg-id": "365 дней (576p)",
     "group": "auto",
@@ -128,6 +120,14 @@
     "headers": {}
   },
   {
+    "name": "Auto Plus (576p)",
+    "tvg-id": "auto plus (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tmptv.sunduk.tv/CH49/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Bollywood HD Russia (576p)",
     "tvg-id": "bollywood hd russia (576p)",
     "group": "auto",
@@ -205,30 +205,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DTR Music 1 (720p)",
-    "tvg-id": "dtr music 1 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://kino-stream.online/hls/DTRMUSIC1.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DTR Zona 1 (720p)",
-    "tvg-id": "dtr zona 1 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://kino-stream.online/hls/DTRZONA1.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "DTR Zona 2 (720p)",
-    "tvg-id": "dtr zona 2 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://kino-stream.online/hls/DTRZONA2.m3u8",
     "headers": {}
   },
   {
@@ -336,6 +312,38 @@
     "headers": {}
   },
   {
+    "name": "KinoHit (576p)",
+    "tvg-id": "kinohit (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tmptv.sunduk.tv/CH57/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Kinokomedija (576p)",
+    "tvg-id": "kinokomedija (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tmptv.sunduk.tv/CH47/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Kinosemja (576p)",
+    "tvg-id": "kinosemja (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tmptv.sunduk.tv/CH25/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Kinosvidanie (576p)",
+    "tvg-id": "kinosvidanie (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tmptv.sunduk.tv/CH21/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Leomax 24 (1080p)",
     "tvg-id": "leomax 24 (1080p)",
     "group": "auto",
@@ -376,6 +384,14 @@
     "headers": {}
   },
   {
+    "name": "MMA TV.com (1080p)",
+    "tvg-id": "mma tv.com (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "MusicBox Gold (576p)",
     "tvg-id": "musicbox gold (576p)",
     "group": "auto",
@@ -408,6 +424,22 @@
     "headers": {}
   },
   {
+    "name": "Rodnoe Kino (576p)",
+    "tvg-id": "rodnoe kino (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tmptv.sunduk.tv/CH23/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Rossiya 1 Vainah (576i)",
+    "tvg-id": "rossiya 1 vainah (576i)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "RT Documentary Russian (1080p)",
     "tvg-id": "rt documentary russian (1080p)",
     "group": "auto",
@@ -437,6 +469,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "SONGTV Russia",
+    "tvg-id": "songtv russia",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -600,14 +640,6 @@
     "headers": {}
   },
   {
-    "name": "VITAL Drive",
-    "tvg-id": "vital drive",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://autopilot.catcast.tv/content/37909/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "VIVA Russia (1080p)",
     "tvg-id": "viva russia (1080p)",
     "group": "auto",
@@ -621,14 +653,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Авто Плюс (576p)",
-    "tvg-id": "авто плюс (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Avto_Plus/index.m3u8",
     "headers": {}
   },
   {
@@ -1272,14 +1296,6 @@
     "headers": {}
   },
   {
-    "name": "Первый Республиканский",
-    "tvg-id": "первый республиканский",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Первый Ярославский (1080p)",
     "tvg-id": "первый ярославский (1080p)",
     "group": "auto",
@@ -1349,14 +1365,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Родное Кино (576p)",
-    "tvg-id": "родное кино (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Rodnoe_kino/index.m3u8",
     "headers": {}
   },
   {
@@ -1525,14 +1533,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://tv.mediacdn.ru/live/solntse/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Соловьёв LIVE (576p)",
-    "tvg-id": "соловьёв live (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/EuroNews/index.m3u8",
     "headers": {}
   },
   {
