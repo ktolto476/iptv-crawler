@@ -69,36 +69,20 @@ https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1,MMA TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1,MusicBox Gold (576p)
-http://tmptv.sunduk.tv/CH81/index.m3u8
-#EXTINF:-1,NST
-http://tmptv.sunduk.tv/CH157/index.m3u8
 #EXTINF:-1,Ohotnik i rybolov (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
-#EXTINF:-1,OTR (576p)
-http://tmptv.sunduk.tv/CH317/index.m3u8
 #EXTINF:-1,Pro100TV (576p)
 https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
-#EXTINF:-1,REN TV HD
-http://tmptv.sunduk.tv/CH189/index.m3u8
-#EXTINF:-1,Retro
-http://tmptv.sunduk.tv/CH149/index.m3u8
-#EXTINF:-1,Rodnoe Kino (576p)
-http://tmptv.sunduk.tv/CH23/index.m3u8
 #EXTINF:-1,Rossiya 1 Vainah (576i)
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1,RT Documentary Russian (1080p)
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1,RTG TV (720p)
 http://31.148.48.15/RTG_HD/index.m3u8
-#EXTINF:-1,Russian Extreme (576p)
-http://tmptv.sunduk.tv/CH67/index.m3u8
 #EXTINF:-1,Ryzhiy (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONGTV Russia
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
-#EXTINF:-1,STS kids (1080p)
-http://tmptv.sunduk.tv/CH729/index.m3u8
 #EXTINF:-1,STS Love (576i)
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
 #EXTINF:-1,T24
@@ -109,40 +93,10 @@ http://31.148.48.15/Terra_HD/index.m3u8
 https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Travel+Adventure (1080p)
 http://31.148.48.15/Travel_Adventure_HD/index.m3u8
-#EXTINF:-1,TV 21 (576p)
-http://tmptv.sunduk.tv/CH145/index.m3u8
 #EXTINF:-1,TV BRICS Russian (1080p)
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1,TV PRO
-http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:-1,Unikum (576p)
-http://tmptv.sunduk.tv/CH167/index.m3u8
 #EXTINF:-1,Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:-1,Usadba (576p)
-http://tmptv.sunduk.tv/CH137/index.m3u8
-#EXTINF:-1,viju History (576p)
-http://tmptv.sunduk.tv/CH133/index.m3u8
-#EXTINF:-1,viju Nature (576p)
-http://tmptv.sunduk.tv/CH203/index.m3u8
-#EXTINF:-1,viju TV1000 (576p)
-http://tmptv.sunduk.tv/CH141/index.m3u8
-#EXTINF:-1,viju TV1000 action (576p)
-http://tmptv.sunduk.tv/CH143/index.m3u8
-#EXTINF:-1,viju TV1000 russkoe (576p)
-http://tmptv.sunduk.tv/CH139/index.m3u8
-#EXTINF:-1,viju+ Comedy (1080p)
-http://tmptv.sunduk.tv/CH311/index.m3u8
-#EXTINF:-1,viju+ Megahit (1080p)
-http://tmptv.sunduk.tv/CH313/index.m3u8
-#EXTINF:-1,viju+ Premiere (1080p)
-http://tmptv.sunduk.tv/CH315/index.m3u8
-#EXTINF:-1,viju+ Sport (576p)
-http://tmptv.sunduk.tv/CH131/index.m3u8
-#EXTINF:-1,VITAL Drive
-https://autopilot.catcast.tv/content/37909/index.m3u8
-#EXTINF:-1,VIVA Russia (1080p)
-https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1,Zoopark (576i)
 https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Аист ТВ (1080p)
@@ -333,8 +287,6 @@ http://31.148.48.15/Rossiya_1/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/russia1-hd/index.m3u8
 #EXTINF:-1,Россия 24 (Хабаровск) (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/habarovsk/russia24-sd/index.m3u8
-#EXTINF:-1,Россия К (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
 #EXTINF:-1,Русский Бестселлер (576p)
 http://31.148.48.15/Russkiy_Bestseller/index.m3u8
 #EXTINF:-1,Русский Детектив (576p)
@@ -399,3 +351,51 @@ https://stream.almaz-media.tv:8080/hls/576.m3u8
 https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 #EXTINF:-1,ТНТ4 (576p)
 http://31.148.48.15/TNT4/index.m3u8
+#EXTINF:-1,ТНТ (+4) (576p)
+http://31.148.48.15/TNT/index.m3u8
+#EXTINF:-1,Толк HD (720p)
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1,Тонус (576p)
+http://31.148.48.15/Zdorovie/index.m3u8
+#EXTINF:-1,Точка ТВ (576p)
+http://31.148.48.15/Tochka_TV/index.m3u8
+#EXTINF:-1,Три Ангела (720p)
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1,Урал 24 (Челябинск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+#EXTINF:-1,Феникс плюс Кино (576p)
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1,Футбол (720p)
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1,Че! (576p)
+http://31.148.48.15/Che/index.m3u8
+#EXTINF:-1,Ювелирочка ТВ (576p)
+https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1,Югра (1080p)
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:-1,ОТР
+https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8
+#EXTINF:-1,Пятый канал
+https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
+#EXTINF:-1,ТВ Центр
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1,Рен ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
+#EXTINF:-1,ТВ3
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
+#EXTINF:-1,Звезда HD
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,CGTN Русский HD
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+#EXTINF:-1,CTV.BY HD
+http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
+#EXTINF:-1,RTVi
+https://a3569457567-s70378.cdn.ngenix.net/rtvi/1/index.m3u8
+#EXTINF:-1,TV BRICS
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Время
+https://a3569457567-s70378.cdn.ngenix.net/vremia/2/index.m3u8
