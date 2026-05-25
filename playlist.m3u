@@ -37,6 +37,8 @@ http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1,Cinema
 http://catchup.videoline.ru/cinema/playlist.m3u8
+#EXTINF:-1,DanceHits80
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,Drive (576i)
 https://stream8.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1,English Class HD (1080p)
@@ -61,18 +63,10 @@ http://31.148.48.15/KHL_TV/index.m3u8
 http://31.148.48.15/KHL_TV_HD/index.m3u8
 #EXTINF:-1,Kino 24 (720p)
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
-#EXTINF:-1,Kinosvidanie (576p)
-http://tmptv.sunduk.tv/CH21/index.m3u8
 #EXTINF:-1,Leomax 24 (1080p)
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
-#EXTINF:-1,Mama (576p)
-http://tmptv.sunduk.tv/CH155/index.m3u8
-#EXTINF:-1,Match! Boets (576p)
-http://tmptv.sunduk.tv/CH51/index.m3u8
 #EXTINF:-1,Match! Strana (720p)
 http://31.148.48.15/Match_Strana/index.m3u8
-#EXTINF:-1,MCM Top (576p)
-http://tmptv.sunduk.tv/CH77/index.m3u8
 #EXTINF:-1,MusicBox Gold (576p)
 http://tmptv.sunduk.tv/CH81/index.m3u8
 #EXTINF:-1,NST
@@ -99,8 +93,6 @@ http://31.148.48.15/RTG_HD/index.m3u8
 http://tmptv.sunduk.tv/CH67/index.m3u8
 #EXTINF:-1,Ryzhiy (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
-#EXTINF:-1,SONGTV Russia
-https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1,STS kids (1080p)
 http://tmptv.sunduk.tv/CH729/index.m3u8
 #EXTINF:-1,STS Love (576i)
@@ -171,8 +163,6 @@ http://31.148.48.15/Boks_TV/index.m3u8
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1,БСТ (Башкирское спутниковое телевидение) (576p)
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1,Вера 24
-https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8
 #EXTINF:-1,Вместе РФ
 https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1,Волга (HD)
@@ -287,6 +277,8 @@ http://31.148.48.15/Nauka_2.0/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 #EXTINF:-1,Новый Век
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
+#EXTINF:-1,Новый Русский (720p)
+https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1,Ностальгия (576p)
 http://31.148.48.15/Nostalgiya/index.m3u8
 #EXTINF:-1,НТВ (+4) (576p)
@@ -361,8 +353,6 @@ https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
 #EXTINF:-1,Сибирь 24 (Новосибирск) (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
-#EXTINF:-1,Смайл ТВ
-https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1,Смотрим Честный Детектив (1080p)
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1,Солнце (576p)
@@ -399,3 +389,13 @@ https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 http://31.148.48.15/TNT4/index.m3u8
 #EXTINF:-1,ТНТ (+4) (576p)
 http://31.148.48.15/TNT/index.m3u8
+#EXTINF:-1,Толк HD (720p)
+http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+#EXTINF:-1,Тонус (576p)
+http://31.148.48.15/Zdorovie/index.m3u8
+#EXTINF:-1,Точка ТВ (576p)
+http://31.148.48.15/Tochka_TV/index.m3u8
+#EXTINF:-1,Три Ангела (720p)
+https://hls.tv.3angels.ru/stream.m3u8
+#EXTINF:-1,Урал 24 (Челябинск) (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8

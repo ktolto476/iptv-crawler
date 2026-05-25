@@ -152,6 +152,14 @@
     "headers": {}
   },
   {
+    "name": "DanceHits80",
+    "tvg-id": "dancehits80",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Drive (576i)",
     "tvg-id": "drive (576i)",
     "group": "auto",
@@ -248,14 +256,6 @@
     "headers": {}
   },
   {
-    "name": "Kinosvidanie (576p)",
-    "tvg-id": "kinosvidanie (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://tmptv.sunduk.tv/CH21/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Leomax 24 (1080p)",
     "tvg-id": "leomax 24 (1080p)",
     "group": "auto",
@@ -264,35 +264,11 @@
     "headers": {}
   },
   {
-    "name": "Mama (576p)",
-    "tvg-id": "mama (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://tmptv.sunduk.tv/CH155/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Match! Boets (576p)",
-    "tvg-id": "match! boets (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://tmptv.sunduk.tv/CH51/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Match! Strana (720p)",
     "tvg-id": "match! strana (720p)",
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Match_Strana/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "MCM Top (576p)",
-    "tvg-id": "mcm top (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://tmptv.sunduk.tv/CH77/index.m3u8",
     "headers": {}
   },
   {
@@ -397,14 +373,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "SONGTV Russia",
-    "tvg-id": "songtv russia",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -685,14 +653,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Вера 24",
-    "tvg-id": "вера 24",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1152,6 +1112,14 @@
     "headers": {}
   },
   {
+    "name": "Новый Русский (720p)",
+    "tvg-id": "новый русский (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Ностальгия (576p)",
     "tvg-id": "ностальгия (576p)",
     "group": "auto",
@@ -1448,14 +1416,6 @@
     "headers": {}
   },
   {
-    "name": "Смайл ТВ",
-    "tvg-id": "смайл тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Смотрим Честный Детектив (1080p)",
     "tvg-id": "смотрим честный детектив (1080p)",
     "group": "auto",
@@ -1597,6 +1557,46 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/TNT/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Толк HD (720p)",
+    "tvg-id": "толк hd (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Тонус (576p)",
+    "tvg-id": "тонус (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Zdorovie/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Точка ТВ (576p)",
+    "tvg-id": "точка тв (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Tochka_TV/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Три Ангела (720p)",
+    "tvg-id": "три ангела (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://hls.tv.3angels.ru/stream.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Урал 24 (Челябинск) (1080p)",
+    "tvg-id": "урал 24 (челябинск) (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8",
     "headers": {}
   }
 ]
