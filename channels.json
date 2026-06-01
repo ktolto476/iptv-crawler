@@ -296,14 +296,6 @@
     "headers": {}
   },
   {
-    "name": "MMA TV.com (1080p)",
-    "tvg-id": "mma tv.com (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Ohotnik i rybolov (576i)",
     "tvg-id": "ohotnik i rybolov (576i)",
     "group": "auto",
@@ -429,14 +421,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "VIVA Russia (1080p)",
-    "tvg-id": "viva russia (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
     "headers": {}
   },
   {
@@ -677,6 +661,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Zhivi/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "За!ТВ",
+    "tvg-id": "за!тв",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/25.m3u8",
     "headers": {}
   },
   {
@@ -1589,6 +1581,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Пятый канал",
+    "tvg-id": "пятый канал",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8",
     "headers": {}
   },
   {
