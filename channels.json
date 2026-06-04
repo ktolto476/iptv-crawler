@@ -296,6 +296,14 @@
     "headers": {}
   },
   {
+    "name": "MMA TV.com (1080p)",
+    "tvg-id": "mma tv.com (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Ohotnik i rybolov (576i)",
     "tvg-id": "ohotnik i rybolov (576i)",
     "group": "auto",
@@ -333,6 +341,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/RTG_HD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "RTVi (450p)",
+    "tvg-id": "rtvi (450p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://s70378.cdn.ngenix.net/rtvi/index.m3u8",
     "headers": {}
   },
   {
@@ -1581,22 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Пятый канал",
-    "tvg-id": "пятый канал",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ТВ Центр",
-    "tvg-id": "тв центр",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8",
     "headers": {}
   }
 ]
