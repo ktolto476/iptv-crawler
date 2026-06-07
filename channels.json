@@ -440,6 +440,14 @@
     "headers": {}
   },
   {
+    "name": "VIVA Russia (1080p)",
+    "tvg-id": "viva russia (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Zoopark (576i)",
     "tvg-id": "zoopark (576i)",
     "group": "auto",
@@ -1589,14 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ОТР",
-    "tvg-id": "отр",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://rt-nw-klgr-htlive.cdn.ngenix.net/hls/CH_R01_OTR_KLNG_FILIAL/variant.m3u8",
     "headers": {}
   }
 ]
