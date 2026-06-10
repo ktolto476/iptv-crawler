@@ -184,6 +184,14 @@
     "headers": {}
   },
   {
+    "name": "Dom kino",
+    "tvg-id": "dom kino",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Drive (576i)",
     "tvg-id": "drive (576i)",
     "group": "auto",
@@ -256,6 +264,14 @@
     "headers": {}
   },
   {
+    "name": "Indiyskoye Kino",
+    "tvg-id": "indiyskoye kino",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1060/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "KHL (720p)",
     "tvg-id": "khl (720p)",
     "group": "auto",
@@ -277,6 +293,22 @@
     "group": "auto",
     "type": "direct",
     "source": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "KinoHit",
+    "tvg-id": "kinohit",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Kinosvidanie",
+    "tvg-id": "kinosvidanie",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
@@ -304,6 +336,14 @@
     "headers": {}
   },
   {
+    "name": "Nashe Novoe Kino",
+    "tvg-id": "nashe novoe kino",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Ohotnik i rybolov (576i)",
     "tvg-id": "ohotnik i rybolov (576i)",
     "group": "auto",
@@ -312,11 +352,27 @@
     "headers": {}
   },
   {
+    "name": "Okhota i rybalka",
+    "tvg-id": "okhota i rybalka",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Pro100TV (576p)",
     "tvg-id": "pro100tv (576p)",
     "group": "auto",
     "type": "direct",
     "source": "https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Retro",
+    "tvg-id": "retro",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
@@ -384,6 +440,14 @@
     "headers": {}
   },
   {
+    "name": "T24",
+    "tvg-id": "t24",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1037/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Terra HD (720p)",
     "tvg-id": "terra hd (720p)",
     "group": "auto",
@@ -432,19 +496,19 @@
     "headers": {}
   },
   {
-    "name": "viju TV1000 Русское",
-    "tvg-id": "viju tv1000 русское",
+    "name": "viju TV1000 russkoe",
+    "tvg-id": "viju tv1000 russkoe",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8",
+    "source": "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
-    "name": "VIVA Russia (1080p)",
-    "tvg-id": "viva russia (1080p)",
+    "name": "Zagorodnaya Zhizn",
+    "tvg-id": "zagorodnaya zhizn",
     "group": "auto",
     "type": "direct",
-    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
+    "source": "https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
@@ -621,14 +685,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Doktor/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Дом Кино",
-    "tvg-id": "дом кино",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.thestream.cyou/live/44.m3u8",
     "headers": {}
   },
   {
@@ -1541,62 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://hls.tv.3angels.ru/stream.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Уникум (576p)",
-    "tvg-id": "уникум (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Detskiy/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Урал 24 (Челябинск) (1080p)",
-    "tvg-id": "урал 24 (челябинск) (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Феникс плюс Кино (576p)",
-    "tvg-id": "феникс плюс кино (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Feniks_plus_kino/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Футбол (720p)",
-    "tvg-id": "футбол (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Futbol_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Че! (576p)",
-    "tvg-id": "че! (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Che/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Ювелирочка ТВ (576p)",
-    "tvg-id": "ювелирочка тв (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Югра (1080p)",
-    "tvg-id": "югра (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8",
     "headers": {}
   }
 ]
