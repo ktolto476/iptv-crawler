@@ -232,6 +232,14 @@
     "headers": {}
   },
   {
+    "name": "Fast&FunBox (1080p)",
+    "tvg-id": "fast&funbox (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://iptv.prosto.tv/ch120/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "FoodTime (1080p)",
     "tvg-id": "foodtime (1080p)",
     "group": "auto",
@@ -325,6 +333,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Match_Strana/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "MCM Top (576p)",
+    "tvg-id": "mcm top (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://iptv.prosto.tv/ch137/index.m3u8",
     "headers": {}
   },
   {
@@ -496,11 +512,19 @@
     "headers": {}
   },
   {
-    "name": "viju TV1000 russkoe",
-    "tvg-id": "viju tv1000 russkoe",
+    "name": "viju TV1000 Русское (576p)",
+    "tvg-id": "viju tv1000 русское (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8",
+    "source": "http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "VIVA Russia (1080p)",
+    "tvg-id": "viva russia (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8",
     "headers": {}
   },
   {
@@ -1096,14 +1120,6 @@
     "headers": {}
   },
   {
-    "name": "Новый Русский (720p)",
-    "tvg-id": "новый русский (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Ностальгия (576p)",
     "tvg-id": "ностальгия (576p)",
     "group": "auto",
@@ -1581,22 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Zdorovie/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Точка ТВ (576p)",
-    "tvg-id": "точка тв (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Tochka_TV/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Три Ангела (720p)",
-    "tvg-id": "три ангела (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://hls.tv.3angels.ru/stream.m3u8",
     "headers": {}
   }
 ]

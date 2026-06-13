@@ -57,6 +57,8 @@ http://31.148.48.15/Europa_Plus_HD/index.m3u8
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1,FASHION & LIFESTYLE (1080p)
 http://31.148.48.15/Fashion_One_HD/index.m3u8
+#EXTINF:-1,Fast&FunBox (1080p)
+https://iptv.prosto.tv/ch120/index.m3u8
 #EXTINF:-1,FoodTime (1080p)
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
 #EXTINF:-1,Glazami Turista (576i)
@@ -81,6 +83,8 @@ https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1,Match! Strana (720p)
 http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:-1,MCM Top (576p)
+https://iptv.prosto.tv/ch137/index.m3u8
 #EXTINF:-1,MMA TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Nashe Novoe Kino
@@ -123,8 +127,10 @@ https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1,Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:-1,viju TV1000 russkoe
-https://stream8.cinerama.uz/1058/tracks-v1a1/mono.m3u8
+#EXTINF:-1,viju TV1000 Русское (576p)
+http://31.148.48.15/TV1000_Russkoe_kino/index.m3u8
+#EXTINF:-1,VIVA Russia (1080p)
+https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/chunks.m3u8
 #EXTINF:-1,Zagorodnaya Zhizn
 https://stream8.cinerama.uz/1044/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Zoopark (576i)
@@ -273,8 +279,6 @@ http://31.148.48.15/Nauka_2.0/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/nigniynovgorod24-hd/index.m3u8
 #EXTINF:-1,Новый Век
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
-#EXTINF:-1,Новый Русский (720p)
-https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8
 #EXTINF:-1,Ностальгия (576p)
 http://31.148.48.15/Nostalgiya/index.m3u8
 #EXTINF:-1,НТВ (+4) (576p)
@@ -395,7 +399,3 @@ http://31.148.48.15/TNT/index.m3u8
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1,Тонус (576p)
 http://31.148.48.15/Zdorovie/index.m3u8
-#EXTINF:-1,Точка ТВ (576p)
-http://31.148.48.15/Tochka_TV/index.m3u8
-#EXTINF:-1,Три Ангела (720p)
-https://hls.tv.3angels.ru/stream.m3u8
