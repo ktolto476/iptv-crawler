@@ -184,14 +184,6 @@
     "headers": {}
   },
   {
-    "name": "Channel 5 (576p)",
-    "tvg-id": "channel 5 (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://94.230.128.107:8080/5_kanal/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Channel 8 (576p)",
     "tvg-id": "channel 8 (576p)",
     "group": "auto",
@@ -261,6 +253,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Europa_Plus_HD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Extreme Sports Channel (576p)",
+    "tvg-id": "extreme sports channel (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.32.176.50/extremesport/index.m3u8",
     "headers": {}
   },
   {
@@ -448,14 +448,6 @@
     "headers": {}
   },
   {
-    "name": "Kukhnya TV (576p)",
-    "tvg-id": "kukhnya tv (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://hls127.freeott.top:8080/Kuhnya_TV/video.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Kulinar TV (576p)",
     "tvg-id": "kulinar tv (576p)",
     "group": "auto",
@@ -480,11 +472,11 @@
     "headers": {}
   },
   {
-    "name": "Maidan (576p)",
-    "tvg-id": "maidan (576p)",
+    "name": "Maidan (720p)",
+    "tvg-id": "maidan (720p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://hls127.freeott.top:8080/Maydan/video.m3u8",
+    "source": "https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8",
     "headers": {}
   },
   {
@@ -493,6 +485,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Match_Strana/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "MCM Top (576p)",
+    "tvg-id": "mcm top (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.32.176.50/mcmtop/index.m3u8",
     "headers": {}
   },
   {
@@ -584,14 +584,6 @@
     "headers": {}
   },
   {
-    "name": "NTV (576p)",
-    "tvg-id": "ntv (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://94.230.128.107:8080/HTB/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "NTV Law (576p)",
     "tvg-id": "ntv law (576p)",
     "group": "auto",
@@ -629,14 +621,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "OTR (576p)",
-    "tvg-id": "otr (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://94.230.128.107:8080/OTP/index.m3u8",
     "headers": {}
   },
   {
@@ -680,14 +664,6 @@
     "headers": {}
   },
   {
-    "name": "REN TV (576p)",
-    "tvg-id": "ren tv (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://94.230.128.107:8080/PEH_TB/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Retro",
     "tvg-id": "retro",
     "group": "auto",
@@ -728,14 +704,6 @@
     "headers": {}
   },
   {
-    "name": "RTVi (450p)",
-    "tvg-id": "rtvi (450p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://s70378.cdn.ngenix.net/rtvi/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Russia-1 HD (1080p)",
     "tvg-id": "russia-1 hd (1080p)",
     "group": "auto",
@@ -757,6 +725,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Saphire (1080p)",
+    "tvg-id": "saphire (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://77.232.131.211:80/Sapfir/manifest.m3u8",
     "headers": {}
   },
   {
@@ -888,14 +864,6 @@
     "headers": {}
   },
   {
-    "name": "STS (576p)",
-    "tvg-id": "sts (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://94.230.128.107:8080/CTC/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "STS Love (576i)",
     "tvg-id": "sts love (576i)",
     "group": "auto",
@@ -952,6 +920,14 @@
     "headers": {}
   },
   {
+    "name": "TNV-Tatarstan (720p)",
+    "tvg-id": "tnv-tatarstan (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Top Secret (576p)",
     "tvg-id": "top secret (576p)",
     "group": "auto",
@@ -960,11 +936,11 @@
     "headers": {}
   },
   {
-    "name": "Trace Sport Stars",
-    "tvg-id": "trace sport stars",
+    "name": "Trace Sport Stars Russia (720p)",
+    "tvg-id": "trace sport stars russia (720p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://ott.watch/XE5QWWBZ87/256/tracks-v1a1/mono.ts.m3u8",
+    "source": "https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
@@ -1048,6 +1024,14 @@
     "headers": {}
   },
   {
+    "name": "Vkus (576p)",
+    "tvg-id": "vkus (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://178.134.1.158:8081/vkus/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Zagorodnaya Zhizn (576p)",
     "tvg-id": "zagorodnaya zhizn (576p)",
     "group": "auto",
@@ -1069,6 +1053,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1417/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Zvezda (1080p)",
+    "tvg-id": "zvezda (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://51.158.144.33:2021/zvezda/index.m3u8",
     "headers": {}
   },
   {
@@ -1229,14 +1221,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Домашний International (720p)",
-    "tvg-id": "домашний international (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8",
     "headers": {}
   },
   {
@@ -1472,14 +1456,6 @@
     "headers": {}
   },
   {
-    "name": "Матч! Планета (720p)",
-    "tvg-id": "матч! планета (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn4.skygo.mn/live/disk1/Match_Planeta/HLSv3-FTA/Match_Planeta.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Мир 24 (1080p)",
     "tvg-id": "мир 24 (1080p)",
     "group": "auto",
@@ -1576,14 +1552,6 @@
     "headers": {}
   },
   {
-    "name": "Новый Русский (720p)",
-    "tvg-id": "новый русский (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/f983b507-a170-41a9-85a9-d9afc6cba9c1.m3u8",
-    "headers": {}
-  },
-  {
     "name": "о2тв (720p)",
     "tvg-id": "о2тв (720p)",
     "group": "auto",
@@ -1597,6 +1565,38 @@
     "group": "auto",
     "type": "direct",
     "source": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ОСН",
+    "tvg-id": "осн",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "ОТВ Приморье",
+    "tvg-id": "отв приморье",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Открытый мир. Здоровье (576p)",
+    "tvg-id": "открытый мир. здоровье (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://v4.proofix.ru/0mir/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Первый канал (1080p)",
+    "tvg-id": "первый канал (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Pervii_kanal_HD/index.m3u8",
     "headers": {}
   }
 ]
