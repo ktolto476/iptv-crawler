@@ -440,14 +440,6 @@
     "headers": {}
   },
   {
-    "name": "Kinomix (576p)",
-    "tvg-id": "kinomix (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://93.170.254.17/Kinomiks/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Kinopokaz HD (1080p)",
     "tvg-id": "kinopokaz hd (1080p)",
     "group": "auto",
@@ -1008,14 +1000,6 @@
     "headers": {}
   },
   {
-    "name": "STS (576p)",
-    "tvg-id": "sts (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://tshift-1.telecoma.tv/sts/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "STS Love (576i)",
     "tvg-id": "sts love (576i)",
     "group": "auto",
@@ -1152,14 +1136,6 @@
     "headers": {}
   },
   {
-    "name": "Univer TV (1080p)",
-    "tvg-id": "univer tv (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "viju History (576p)",
     "tvg-id": "viju history (576p)",
     "group": "auto",
@@ -1205,6 +1181,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live-11cinema.cdnvideo.ru/11cinema/11cinema/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "VIVA Russia",
+    "tvg-id": "viva russia",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live20.bozztv.com/akamaissh101/ssh101/vivarussia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1581,22 @@
     "group": "auto",
     "type": "direct",
     "source": "https://streaming.televizor-24-tochka.ru/live/29.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Магнат ТВ (1080p)",
+    "tvg-id": "магнат тв (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Мама (576p)",
+    "tvg-id": "мама (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Mama/index.m3u8",
     "headers": {}
   }
 ]
