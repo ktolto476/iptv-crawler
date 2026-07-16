@@ -37,8 +37,6 @@ http://46.32.176.50/anitv/index.m3u8
 http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1,Balabol (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
-#EXTINF:-1,BelRos (720p)
-https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1,Bollywood HD Russia (576p)
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 #EXTINF:-1,Bolt (576p)
@@ -79,10 +77,14 @@ http://46.32.176.50/extremesport/index.m3u8
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1,FASHION & LIFESTYLE (1080p)
 http://31.148.48.15/Fashion_One_HD/index.m3u8
+#EXTINF:-1,First Music Channel Russia (1080p)
+http://hls127.freeott.top:8080/1muz_HD/video.m3u8
 #EXTINF:-1,Fon Music (1080p)
 http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:-1,FoodTime (1080p)
 http://31.148.48.15/Eda_Premium_HD/index.m3u8
+#EXTINF:-1,Friday! (576p)
+http://94.230.129.31:8080/Friday/index.m3u8
 #EXTINF:-1,Gagsnetwork (576p)
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1,Glazami Turista (576i)
@@ -106,9 +108,11 @@ http://31.148.48.15/KHL_TV/index.m3u8
 #EXTINF:-1,KHL Prime (720p)
 http://31.148.48.15/KHL_TV_HD/index.m3u8
 #EXTINF:-1,Kino TV HD (1080p)
-http://176.118.197.101:80/KinoTvHD/playlist.m3u8
+http://176.118.197.101/KinoTvHD/playlist.m3u8
 #EXTINF:-1,KinoHit
 https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kinomix (576p)
+http://93.170.254.17/Kinomiks/index.m3u8
 #EXTINF:-1,Kinopokaz HD (1080p)
 http://hls127.freeott.top:8080/Kinopokaz_HD/video.m3u8
 #EXTINF:-1,Kinopremyera (1080p)
@@ -119,6 +123,10 @@ http://hls127.freeott.top:8080/Kinoseriya_HD/video.m3u8
 http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1,Kluch (576p)
 http://hls127.freeott.top:8080/Kluch/video.m3u8
+#EXTINF:-1,KN Music TV
+https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Kongress TV (1080p)
+https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
 #EXTINF:-1,Kulinar TV (576p)
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1,KVN TV (576p)
@@ -137,8 +145,6 @@ http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Mosfilm Gold Collection (576p)
 http://31.222.235.15/mosfilm/index.m3u8
-#EXTINF:-1,Moskva 24 (576p)
-https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
 #EXTINF:-1,Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
@@ -146,7 +152,7 @@ https://moymir.ru/hls/onair.m3u8
 #EXTINF:-1,Mult i muzyka (576p)
 http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
 #EXTINF:-1,Muz-TV (576p)
-http://hls127.freeott.top:8080/MUZ_TV/video.m3u8
+http://46.32.176.50/muztv/index.m3u8
 #EXTINF:-1,Nashe Lubimoe Kino (576p)
 http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1,Nashe Novoe Kino (1080p)
@@ -158,7 +164,7 @@ https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1,Nostalgia (576p)
 http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 #EXTINF:-1,NST (576p)
-https://vod.tuva.ru/nst/index.m3u8
+http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1,NTV Law (576p)
 http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
 #EXTINF:-1,NTV Style (576p)
@@ -171,6 +177,8 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Okko Futbol (576p)
 http://178.124.179.122:8080/Setanta1/index.m3u8
+#EXTINF:-1,Patriot (720p)
+https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1,Perviy otdel (1080p)
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 #EXTINF:-1,Pes (1080p)
@@ -182,37 +190,43 @@ http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1,Prodvizhenie (576p)
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1,Prosveshchenie (576p)
-http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
+http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
 #EXTINF:-1,Radio Mir (720p)
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
+#EXTINF:-1,Radio Rossii (720p)
+https://stream.smotrim.ru/hls2/radio_rus/playlist_4.m3u8
 #EXTINF:-1,Radost Moya (576p)
 http://31.148.48.15/Radost_moya/index.m3u8
+#EXTINF:-1,RBK-TV SD (576p)
+http://hls127.freeott.top:8080/RBK/video.m3u8
 #EXTINF:-1,REN TV (576p)
 http://31.148.48.15/REN-TV/index.m3u8
 #EXTINF:-1,Retro
 https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Rossiya 1 Vainah (576i)
 https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
-#EXTINF:-1,RT Balkan (1080p)
-https://rt-srb.rttv.com/live/rtbalkan/playlist.m3u8
 #EXTINF:-1,RT Documentary Russian (1080p)
 https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 #EXTINF:-1,RTG TV (720p)
 http://31.148.48.15/RTG_HD/index.m3u8
+#EXTINF:-1,RTVi (576p)
+https://shift03.isp.bg/RTVi/index.m3u8
 #EXTINF:-1,RU.TV Kids (720p)
 https://rutvkids.ru/live/efir/index.m3u8
 #EXTINF:-1,Russia-1 HD (1080p)
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1,Russia-24 HD (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/index.m3u8
+http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1,Russia-K (1080p)
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1,Ryzhiy (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sankt-Peterburg HD (720p)
+https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 #EXTINF:-1,Saphire (1080p)
-http://77.232.131.211:80/Sapfir/manifest.m3u8
+http://77.232.131.211/Sapfir/manifest.m3u8
 #EXTINF:-1,Shanson TV (576p)
-http://hls127.freeott.top:8080/Shanson_Tv/video.m3u8
+http://catchup.videoline.ru/shanson/index.m3u8
 #EXTINF:-1,Shef (1080p)
 https://cdn-dvr.ntv.ru/Shef/index.m3u8
 #EXTINF:-1,Shopping Live (720p)
@@ -235,6 +249,8 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1,Smotrim 100% Prazdnik (720p)
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1,Solnce (576p)
+http://31.148.48.15/Solnce/index.m3u8
 #EXTINF:-1,Solovyov Live (1080p)
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 #EXTINF:-1,SONGTV Russia
@@ -242,13 +258,15 @@ https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1,Soyuzny (480p)
 http://178.124.179.122:8080/TRO/index.m3u8
 #EXTINF:-1,Spas (576p)
-https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
+http://94.230.129.31:8080/SPAS/index.m3u8
 #EXTINF:-1,Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1,Star Cinema
 https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1,Star Family (1080p)
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+#EXTINF:-1,STS (576p)
+http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1,STS Love (576i)
 https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8
 #EXTINF:-1,SuperGeroi (1080p)
@@ -259,8 +277,6 @@ http://178.134.1.158:8081/t24/index.m3u8
 http://hls127.freeott.top:8080/Teatr/video.m3u8
 #EXTINF:-1,Terra HD (720p)
 http://31.148.48.15/Terra_HD/index.m3u8
-#EXTINF:-1,TiJi (576p)
-https://stream8.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TNT (576p)
 http://94.230.129.31:8080/THT/index.m3u8
 #EXTINF:-1,TNV-Tatarstan (720p)
@@ -277,12 +293,18 @@ http://31.148.48.15/Travel_Adventure_HD/index.m3u8
 https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 #EXTINF:-1,TV Centr (576p)
 http://hls127.freeott.top:8080/Tv_Center/video.m3u8
+#EXTINF:-1,TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1,TV-3 (576p)
 http://178.124.179.122:8080/TB-3/index.m3u8
 #EXTINF:-1,TV-3 (576p)
 http://94.230.129.31:8080/TB3/index.m3u8
 #EXTINF:-1,UDAR (1080p)
 http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1,Univer TV (1080p)
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1,Vesti FM (720p)
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
 #EXTINF:-1,viju History (576p)
 http://178.124.179.122:8080/HistoryHD/index.m3u8
 #EXTINF:-1,viju Nature
@@ -333,10 +355,6 @@ https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 http://31.148.48.15/Boks_TV/index.m3u8
 #EXTINF:-1,Большая Азия (720p)
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
-#EXTINF:-1,БСТ (Башкирское спутниковое телевидение) (576p)
-https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
-#EXTINF:-1,Вместе РФ
-https://qcpdqumitwf.a.trbcdn.net/livemastersrt/pr4mw_lvie-vmesterf-srt.smil/playlist.m3u8
 #EXTINF:-1,Волга (HD)
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1,Волгоград 24 (1080p)
@@ -345,8 +363,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
 #EXTINF:-1,Губерния (Самара) (576p)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1,Дагестан (1080p)
-https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 #EXTINF:-1,Доктор (1080p)
 http://31.148.48.15/Doktor/index.m3u8
 #EXTINF:-1,Дом Кино Премиум HD (1080p)
@@ -369,8 +385,6 @@ http://31.148.48.15/Zoo_TV/index.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1,Иллюзион+ (576p)
 http://31.148.48.15/Illusion_plus/index.m3u8
-#EXTINF:-1,Ингушетия ТВ (1080p)
-https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1,Индия (576p)
 http://31.148.48.15/Zee_TV_Russia/index.m3u8
 #EXTINF:-1,Кавказ 24 (Ставрополь) (576p)
@@ -385,17 +399,3 @@ http://31.148.48.15/Kinopokaz/index.m3u8
 http://31.148.48.15/Kineko/index.m3u8
 #EXTINF:-1,Красная линия (480p)
 http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
-#EXTINF:-1,КРИК-ТВ (Екатеринбург) (1080p)
-http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:-1,Кто есть Кто (576p)
-http://31.148.48.15/Kto_est_kto/index.m3u8
-#EXTINF:-1,Курай (Уфа) (576p)
-https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1,ЛДПР ТВ (1080p)
-http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
-#EXTINF:-1,Луганск 24
-https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1,Магнат ТВ (1080p)
-https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
-#EXTINF:-1,Мама (576p)
-http://31.148.48.15/Mama/index.m3u8
