@@ -56,6 +56,14 @@
     "headers": {}
   },
   {
+    "name": ".black (576p)",
+    "tvg-id": ".black (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/263/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": ".red (576p)",
     "tvg-id": ".red (576p)",
     "group": "auto",
@@ -104,11 +112,11 @@
     "headers": {}
   },
   {
-    "name": "Amedia Hit (720p)",
-    "tvg-id": "amedia hit (720p)",
+    "name": "Amedia Hit (1080p)",
+    "tvg-id": "amedia hit (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/Amedia_HIT_HD/index.m3u8",
+    "source": "http://stream.mcquack.net/162/index.m3u8",
     "headers": {}
   },
   {
@@ -144,11 +152,27 @@
     "headers": {}
   },
   {
+    "name": "Avto24 (576p)",
+    "tvg-id": "avto24 (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/78/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Balabol (1080p)",
     "tvg-id": "balabol (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "https://cdn-dvr.ntv.ru/Balabol/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "BelRos (720p)",
+    "tvg-id": "belros (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8",
     "headers": {}
   },
   {
@@ -192,6 +216,14 @@
     "headers": {}
   },
   {
+    "name": "BRIDGE Deluxe HD (576p)",
+    "tvg-id": "bridge deluxe hd (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/92/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "BRIDGE Hits (576p)",
     "tvg-id": "bridge hits (576p)",
     "group": "auto",
@@ -224,11 +256,27 @@
     "headers": {}
   },
   {
+    "name": "Channel 8 Novosibirsk (480i)",
+    "tvg-id": "channel 8 novosibirsk (480i)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Channel One +8 (576p)",
     "tvg-id": "channel one +8 (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://188.113.190.13/1/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Classic Music (1080p)",
+    "tvg-id": "classic music (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/312/index.m3u8",
     "headers": {}
   },
   {
@@ -248,6 +296,14 @@
     "headers": {}
   },
   {
+    "name": "Dikaya okhota HD (1080p)",
+    "tvg-id": "dikaya okhota hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/274/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Dikij (576p)",
     "tvg-id": "dikij (576p)",
     "group": "auto",
@@ -261,6 +317,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://94.230.129.31:8080/Domashnii/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Dorama HD (1080p)",
+    "tvg-id": "dorama hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/412/index.m3u8",
     "headers": {}
   },
   {
@@ -288,6 +352,14 @@
     "headers": {}
   },
   {
+    "name": "Evrokino HD (1080p)",
+    "tvg-id": "evrokino hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/385/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Extreme Sports Channel (576p)",
     "tvg-id": "extreme sports channel (576p)",
     "group": "auto",
@@ -304,11 +376,11 @@
     "headers": {}
   },
   {
-    "name": "FASHION & LIFESTYLE (1080p)",
-    "tvg-id": "fashion & lifestyle (1080p)",
+    "name": "Fashion&LifeStyle (1080p)",
+    "tvg-id": "fashion&lifestyle (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/Fashion_One_HD/index.m3u8",
+    "source": "http://stream.mcquack.net/119/index.m3u8",
     "headers": {}
   },
   {
@@ -333,6 +405,22 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Eda_Premium_HD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Fox (576p)",
+    "tvg-id": "fox (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/182/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Fox Life (576p)",
+    "tvg-id": "fox life (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/129/index.m3u8",
     "headers": {}
   },
   {
@@ -424,11 +512,11 @@
     "headers": {}
   },
   {
-    "name": "KHL Prime (720p)",
-    "tvg-id": "khl prime (720p)",
+    "name": "KHL Prime (1080p)",
+    "tvg-id": "khl prime (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://31.148.48.15/KHL_TV_HD/index.m3u8",
+    "source": "http://stream.mcquack.net/178/index.m3u8",
     "headers": {}
   },
   {
@@ -445,14 +533,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1055/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Kinomix (576p)",
-    "tvg-id": "kinomix (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://93.170.254.17/Kinomiks/index.m3u8",
     "headers": {}
   },
   {
@@ -504,6 +584,14 @@
     "headers": {}
   },
   {
+    "name": "Komedia (576p)",
+    "tvg-id": "komedia (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/68/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Kongress TV (1080p)",
     "tvg-id": "kongress tv (1080p)",
     "group": "auto",
@@ -536,11 +624,11 @@
     "headers": {}
   },
   {
-    "name": "Maidan (720p)",
-    "tvg-id": "maidan (720p)",
+    "name": "Mama (576p)",
+    "tvg-id": "mama (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8",
+    "source": "http://stream.mcquack.net/79/index.m3u8",
     "headers": {}
   },
   {
@@ -549,6 +637,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/Match_Strana/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Match! Ultra (720p)",
+    "tvg-id": "match! ultra (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/169/index.m3u8",
     "headers": {}
   },
   {
@@ -565,14 +661,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://tvcdn01.esilnet.kz/tv/mir/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "MMA TV.com (1080p)",
-    "tvg-id": "mma tv.com (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
     "headers": {}
   },
   {
@@ -600,6 +688,14 @@
     "headers": {}
   },
   {
+    "name": "Moya stikhiya HD (1080p)",
+    "tvg-id": "moya stikhiya hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/141/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Mult i muzyka (576p)",
     "tvg-id": "mult i muzyka (576p)",
     "group": "auto",
@@ -613,6 +709,30 @@
     "group": "auto",
     "type": "direct",
     "source": "http://46.32.176.50/muztv/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Muzyka Live (576p)",
+    "tvg-id": "muzyka live (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/303/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Nano (576p)",
+    "tvg-id": "nano (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/419/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Nashe HD (576p)",
+    "tvg-id": "nashe hd (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/217/index.m3u8",
     "headers": {}
   },
   {
@@ -632,6 +752,14 @@
     "headers": {}
   },
   {
+    "name": "National Geographic (576p)",
+    "tvg-id": "national geographic (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/116/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "National Geographic Wild (1080p)",
     "tvg-id": "national geographic wild (1080p)",
     "group": "auto",
@@ -645,6 +773,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Nickelodeon (576p)",
+    "tvg-id": "nickelodeon (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/443/index.m3u8",
     "headers": {}
   },
   {
@@ -696,11 +832,19 @@
     "headers": {}
   },
   {
-    "name": "Okhota i rybalka",
-    "tvg-id": "okhota i rybalka",
+    "name": "Ohotnik i rybolov HD (1080p)",
+    "tvg-id": "ohotnik i rybolov hd (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://stream8.cinerama.uz/1038/tracks-v1a1/mono.m3u8",
+    "source": "http://stream.mcquack.net/194/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Okhota i rybalka (576p)",
+    "tvg-id": "okhota i rybalka (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/155/index.m3u8",
     "headers": {}
   },
   {
@@ -736,6 +880,14 @@
     "headers": {}
   },
   {
+    "name": "Premialnoe HD (1080p)",
+    "tvg-id": "premialnoe hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/421/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Pro Business (720p)",
     "tvg-id": "pro business (720p)",
     "group": "auto",
@@ -752,11 +904,11 @@
     "headers": {}
   },
   {
-    "name": "Prodvizhenie (576p)",
-    "tvg-id": "prodvizhenie (576p)",
+    "name": "Prodvizhenie (1080p)",
+    "tvg-id": "prodvizhenie (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8",
+    "source": "https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8",
     "headers": {}
   },
   {
@@ -808,11 +960,11 @@
     "headers": {}
   },
   {
-    "name": "Retro",
-    "tvg-id": "retro",
+    "name": "Retro (576p)",
+    "tvg-id": "retro (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8",
+    "source": "http://stream.mcquack.net/191/index.m3u8",
     "headers": {}
   },
   {
@@ -821,6 +973,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "RT Balkan (1080p)",
+    "tvg-id": "rt balkan (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8",
     "headers": {}
   },
   {
@@ -837,6 +997,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://31.148.48.15/RTG_HD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "RTG TV HD (1080p)",
+    "tvg-id": "rtg tv hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/164/index.m3u8",
     "headers": {}
   },
   {
@@ -880,6 +1048,30 @@
     "headers": {}
   },
   {
+    "name": "Russkiy Bestseller (576p)",
+    "tvg-id": "russkiy bestseller (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/208/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Russkiy Detektiv (576p)",
+    "tvg-id": "russkiy detektiv (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/204/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Rybolov (576p)",
+    "tvg-id": "rybolov (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/264/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Ryzhiy (576i)",
     "tvg-id": "ryzhiy (576i)",
     "group": "auto",
@@ -901,6 +1093,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://77.232.131.211/Sapfir/manifest.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Sarafan (576p)",
+    "tvg-id": "sarafan (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/81/index.m3u8",
     "headers": {}
   },
   {
@@ -1064,6 +1264,14 @@
     "headers": {}
   },
   {
+    "name": "START Air (576p)",
+    "tvg-id": "start air (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/128/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "STS (576p)",
     "tvg-id": "sts (576p)",
     "group": "auto",
@@ -1072,11 +1280,27 @@
     "headers": {}
   },
   {
+    "name": "STS HD (1080p)",
+    "tvg-id": "sts hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/138/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "STS Love (576i)",
     "tvg-id": "sts love (576i)",
     "group": "auto",
     "type": "direct",
     "source": "https://cdn4.skygo.mn/live/disk1/Fashion_TV/HLSv3-FTA/Fashion_TV.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Subbota! HD (1080p)",
+    "tvg-id": "subbota! hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/269/index.m3u8",
     "headers": {}
   },
   {
@@ -1125,6 +1349,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Tochka RF (1080p)",
+    "tvg-id": "tochka rf (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/161/index.m3u8",
     "headers": {}
   },
   {
@@ -1256,11 +1488,11 @@
     "headers": {}
   },
   {
-    "name": "viju+ Sport",
-    "tvg-id": "viju+ sport",
+    "name": "viju+ Sport (576p)",
+    "tvg-id": "viju+ sport (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://stream8.cinerama.uz/1229/tracks-v1a1/mono.m3u8",
+    "source": "http://stream.mcquack.net/333/index.m3u8",
     "headers": {}
   },
   {
@@ -1301,6 +1533,22 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hls127.freeott.top:8080/Zhara/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Zhivaya priroda (1080p)",
+    "tvg-id": "zhivaya priroda (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/83/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Zhivaya priroda HD (1080p)",
+    "tvg-id": "zhivaya priroda hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/225/index.m3u8",
     "headers": {}
   },
   {
@@ -1349,254 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Арктика 24 (Архангельск) (1080p)",
-    "tvg-id": "арктика 24 (архангельск) (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Архыз 24 (1080p)",
-    "tvg-id": "архыз 24 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.mediacdn.ru/sr1/arhis24/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Астрахань 24 (720p)",
-    "tvg-id": "астрахань 24 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Астрахань.Ru Sport (720p)",
-    "tvg-id": "астрахань.ru sport (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Астрахань.Ru TV (480p)",
-    "tvg-id": "астрахань.ru tv (480p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Башкортостан 24 (1080p)",
-    "tvg-id": "башкортостан 24 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Белгород 24 (1080p)",
-    "tvg-id": "белгород 24 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Бокс ТВ (720p)",
-    "tvg-id": "бокс тв (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Boks_TV/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Большая Азия (720p)",
-    "tvg-id": "большая азия (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Волга (HD)",
-    "tvg-id": "волга (hd)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Волгоград 24 (1080p)",
-    "tvg-id": "волгоград 24 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Восток 24 (Владивосток) (1080p)",
-    "tvg-id": "восток 24 (владивосток) (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Губерния (Самара) (576p)",
-    "tvg-id": "губерния (самара) (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Доктор (1080p)",
-    "tvg-id": "доктор (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Doktor/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Дом Кино Премиум HD (1080p)",
-    "tvg-id": "дом кино премиум hd (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Евразия (Орск) (720p)",
-    "tvg-id": "евразия (орск) (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Еврокино (576p)",
-    "tvg-id": "еврокино (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Evrokino/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Живая Планета (576p)",
-    "tvg-id": "живая планета (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Zhivaya_Planeta/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "ЖИВИ! (1080p)",
-    "tvg-id": "живи! (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Zhivi/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "За!ТВ",
-    "tvg-id": "за!тв",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streaming.televizor-24-tochka.ru/live/25.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Запад 24 (Калининград) (1080p)",
-    "tvg-id": "запад 24 (калининград) (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Зоо ТВ (576p)",
-    "tvg-id": "зоо тв (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Zoo_TV/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Известия (1080p)",
-    "tvg-id": "известия (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Иллюзион+ (576p)",
-    "tvg-id": "иллюзион+ (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Illusion_plus/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Индия (576p)",
-    "tvg-id": "индия (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Zee_TV_Russia/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Кавказ 24 (Ставрополь) (576p)",
-    "tvg-id": "кавказ 24 (ставрополь) (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Кинеко (1080p)",
-    "tvg-id": "кинеко (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Kineko_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "КИНО ТВ (720p)",
-    "tvg-id": "кино тв (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Kino_TV_HD/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Кинопоказ (576p)",
-    "tvg-id": "кинопоказ (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Kinopokaz/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "КИНОСАТ (576p)",
-    "tvg-id": "киносат (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.148.48.15/Kineko/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Красная линия (480p)",
-    "tvg-id": "красная линия (480p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8",
     "headers": {}
   }
 ]
