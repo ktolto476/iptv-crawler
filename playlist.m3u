@@ -67,8 +67,6 @@ http://31.148.48.15/Karusel_HD/index.m3u8
 http://45.11.139.43:8555/8kanal/index.m3u8
 #EXTINF:-1,Channel 8 Novosibirsk (480i)
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
-#EXTINF:-1,Channel One +8 (576p)
-http://188.113.190.13/1/video.m3u8
 #EXTINF:-1,Classic Music (1080p)
 http://stream.mcquack.net/312/index.m3u8
 #EXTINF:-1,Da Vinci (576p)
@@ -85,6 +83,8 @@ http://hls127.freeott.top:8080/Dikiy/video.m3u8
 http://stream.mcquack.net/108/index.m3u8
 #EXTINF:-1,Domashniy (576p)
 http://94.230.129.31:8080/Domashnii/index.m3u8
+#EXTINF:-1,Dorama
+https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dorama HD (1080p)
 http://stream.mcquack.net/412/index.m3u8
 #EXTINF:-1,Dushevnoe HD (1080p)
@@ -105,8 +105,6 @@ http://31.148.48.15/Fan/index.m3u8
 http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1,First Music Channel Russia (1080p)
 http://hls127.freeott.top:8080/1muz_HD/video.m3u8
-#EXTINF:-1,Fon Music (1080p)
-http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8
 #EXTINF:-1,FoodTime (1080p)
 http://stream.mcquack.net/216/index.m3u8
 #EXTINF:-1,Fox (576p)
@@ -199,12 +197,12 @@ http://stream.mcquack.net/276/index.m3u8
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
 #EXTINF:-1,MMA TV.com (1080p)
 https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
-#EXTINF:-1,Mosfilm Gold Collection (576p)
-http://31.222.235.15/mosfilm/index.m3u8
 #EXTINF:-1,Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
 https://moymir.ru/hls/onair.m3u8
+#EXTINF:-1,Moya Planeta (1080p)
+http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Moya stikhiya HD (1080p)
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1,Mult i muzyka (576p)
@@ -239,6 +237,8 @@ http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1,NTV Law (576p)
 http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+#EXTINF:-1,O! (576p)
+http://stream.mcquack.net/60/index.m3u8
 #EXTINF:-1,Ocean-TV (576p)
 http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
 #EXTINF:-1,Ohotnik i rybolov (576i)

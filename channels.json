@@ -272,14 +272,6 @@
     "headers": {}
   },
   {
-    "name": "Channel One +8 (576p)",
-    "tvg-id": "channel one +8 (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://188.113.190.13/1/video.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Classic Music (1080p)",
     "tvg-id": "classic music (1080p)",
     "group": "auto",
@@ -341,6 +333,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://94.230.129.31:8080/Domashnii/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Dorama",
+    "tvg-id": "dorama",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
@@ -421,14 +421,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hls127.freeott.top:8080/1muz_HD/video.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Fon Music (1080p)",
-    "tvg-id": "fon music (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://hls127.freeott.top:8080/TNT_MUSIC_HD/video.m3u8",
     "headers": {}
   },
   {
@@ -800,14 +792,6 @@
     "headers": {}
   },
   {
-    "name": "Mosfilm Gold Collection (576p)",
-    "tvg-id": "mosfilm gold collection (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://31.222.235.15/mosfilm/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Moskva. Doveriye (576p)",
     "tvg-id": "moskva. doveriye (576p)",
     "group": "auto",
@@ -821,6 +805,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://moymir.ru/hls/onair.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Moya Planeta (1080p)",
+    "tvg-id": "moya planeta (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
@@ -957,6 +949,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "O! (576p)",
+    "tvg-id": "o! (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/60/index.m3u8",
     "headers": {}
   },
   {
