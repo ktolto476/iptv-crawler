@@ -136,14 +136,6 @@
     "headers": {}
   },
   {
-    "name": "Ani (576p)",
-    "tvg-id": "ani (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.32.176.50/anitv/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "ART (576p)",
     "tvg-id": "art (576p)",
     "group": "auto",
@@ -389,14 +381,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/385/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Extreme Sports Channel (576p)",
-    "tvg-id": "extreme sports channel (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.32.176.50/extremesport/index.m3u8",
     "headers": {}
   },
   {
@@ -760,14 +744,6 @@
     "headers": {}
   },
   {
-    "name": "MCM Top (576p)",
-    "tvg-id": "mcm top (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.32.176.50/mcmtop/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Mezzo Live (1080p)",
     "tvg-id": "mezzo live (1080p)",
     "group": "auto",
@@ -781,14 +757,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://tvcdn01.esilnet.kz/tv/mir/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "MMA TV.com (1080p)",
-    "tvg-id": "mma tv.com (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
     "headers": {}
   },
   {
@@ -829,14 +797,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Muz-TV (576p)",
-    "tvg-id": "muz-tv (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.32.176.50/muztv/index.m3u8",
     "headers": {}
   },
   {
@@ -949,6 +909,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "NTV Style (576p)",
+    "tvg-id": "ntv style (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8",
     "headers": {}
   },
   {
@@ -1189,14 +1157,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/164/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "RTVi (576p)",
-    "tvg-id": "rtvi (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://shift03.isp.bg/RTVi/index.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1557,46 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hls127.freeott.top:8080/Teatr/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TeleDom",
+    "tvg-id": "teledom",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Terra HD (720p)",
+    "tvg-id": "terra hd (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.48.15/Terra_HD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TNT (576p)",
+    "tvg-id": "tnt (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://94.230.129.31:8080/THT/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TNT HD (1080p)",
+    "tvg-id": "tnt hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://45.153.24.78:80/TNT/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TNV-Tatarstan (720p)",
+    "tvg-id": "tnv-tatarstan (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
     "headers": {}
   }
 ]

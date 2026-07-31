@@ -33,8 +33,6 @@ http://stream.mcquack.net/162/index.m3u8
 http://31.148.48.15/Amedia_Premium_HD/index.m3u8
 #EXTINF:-1,Angel TV Russian (720p)
 https://janya-digimix.akamaized.net/vglive-sk-955415/russia/ngrp:angelrussia_all/playlist.m3u8
-#EXTINF:-1,Ani (576p)
-http://46.32.176.50/anitv/index.m3u8
 #EXTINF:-1,ART (576p)
 http://89.104.114.24:8080/art/index.m3u8
 #EXTINF:-1,Avto24 (576p)
@@ -97,8 +95,6 @@ https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 http://31.148.48.15/Europa_Plus_HD/index.m3u8
 #EXTINF:-1,Evrokino HD (1080p)
 http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1,Extreme Sports Channel (576p)
-http://46.32.176.50/extremesport/index.m3u8
 #EXTINF:-1,FAN (1080p)
 http://31.148.48.15/Fan/index.m3u8
 #EXTINF:-1,Fashion&LifeStyle (1080p)
@@ -189,14 +185,10 @@ http://stream.mcquack.net/112/index.m3u8
 http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1,Match! Ultra (720p)
 http://stream.mcquack.net/169/index.m3u8
-#EXTINF:-1,MCM Top (576p)
-http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1,Mezzo Live (1080p)
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1,Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1,MMA TV.com (1080p)
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
@@ -207,8 +199,6 @@ http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1,Mult i muzyka (576p)
 http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8
-#EXTINF:-1,Muz-TV (576p)
-http://46.32.176.50/muztv/index.m3u8
 #EXTINF:-1,Muzhskoe kino (576p)
 http://stream.mcquack.net/107/index.m3u8
 #EXTINF:-1,Muzyka Live (576p)
@@ -237,6 +227,8 @@ http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1,NTV Law (576p)
 http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+#EXTINF:-1,NTV Style (576p)
+http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
 #EXTINF:-1,O! (576p)
 http://stream.mcquack.net/60/index.m3u8
 #EXTINF:-1,Ocean-TV (576p)
@@ -297,8 +289,6 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 http://31.148.48.15/RTG_HD/index.m3u8
 #EXTINF:-1,RTG TV HD (1080p)
 http://stream.mcquack.net/164/index.m3u8
-#EXTINF:-1,RTVi (576p)
-https://shift03.isp.bg/RTVi/index.m3u8
 #EXTINF:-1,RU.TV Kids (720p)
 https://rutvkids.ru/live/efir/index.m3u8
 #EXTINF:-1,Russia-1 (1080p)
@@ -399,3 +389,13 @@ http://31.148.48.15/Malish_TV/index.m3u8
 http://178.134.1.158:8081/t24/index.m3u8
 #EXTINF:-1,Teatr (576p)
 http://hls127.freeott.top:8080/Teatr/video.m3u8
+#EXTINF:-1,TeleDom
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:-1,Terra HD (720p)
+http://31.148.48.15/Terra_HD/index.m3u8
+#EXTINF:-1,TNT (576p)
+http://94.230.129.31:8080/THT/index.m3u8
+#EXTINF:-1,TNT HD (1080p)
+http://45.153.24.78:80/TNT/index.m3u8
+#EXTINF:-1,TNV-Tatarstan (720p)
+https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
