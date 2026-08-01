@@ -189,6 +189,8 @@ http://stream.mcquack.net/169/index.m3u8
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1,Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1,MMA TV.com (1080p)
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
@@ -393,9 +395,7 @@ http://hls127.freeott.top:8080/Teatr/video.m3u8
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1,Terra HD (720p)
 http://31.148.48.15/Terra_HD/index.m3u8
+#EXTINF:-1,TiJi (576p)
+https://live-3.otcnet.ru/Tiji/index.m3u8
 #EXTINF:-1,TNT (576p)
 http://94.230.129.31:8080/THT/index.m3u8
-#EXTINF:-1,TNT HD (1080p)
-http://45.153.24.78:80/TNT/index.m3u8
-#EXTINF:-1,TNV-Tatarstan (720p)
-https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8

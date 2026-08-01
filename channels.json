@@ -760,6 +760,14 @@
     "headers": {}
   },
   {
+    "name": "MMA TV.com (1080p)",
+    "tvg-id": "mma tv.com (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Moskva. Doveriye (576p)",
     "tvg-id": "moskva. doveriye (576p)",
     "group": "auto",
@@ -1576,27 +1584,19 @@
     "headers": {}
   },
   {
+    "name": "TiJi (576p)",
+    "tvg-id": "tiji (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-3.otcnet.ru/Tiji/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "TNT (576p)",
     "tvg-id": "tnt (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://94.230.129.31:8080/THT/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TNT HD (1080p)",
-    "tvg-id": "tnt hd (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://45.153.24.78:80/TNT/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TNV-Tatarstan (720p)",
-    "tvg-id": "tnv-tatarstan (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
     "headers": {}
   }
 ]
