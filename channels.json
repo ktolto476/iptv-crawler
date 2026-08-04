@@ -1168,6 +1168,14 @@
     "headers": {}
   },
   {
+    "name": "RTVi (576p)",
+    "tvg-id": "rtvi (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://shift03.isp.bg/RTVi/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "RU.TV Kids (720p)",
     "tvg-id": "ru.tv kids (720p)",
     "group": "auto",
@@ -1197,14 +1205,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Russia-1 +6 (1080p)",
-    "tvg-id": "russia-1 +6 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8",
     "headers": {}
   },
   {
@@ -1373,14 +1373,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Shot TV (576p)",
-    "tvg-id": "shot tv (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://hls127.freeott.top:8080/SHOT_TV/video.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1589,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://94.230.129.31:8080/THT/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TNT HD (1080p)",
+    "tvg-id": "tnt hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://45.153.24.78:80/TNT/index.m3u8",
     "headers": {}
   }
 ]

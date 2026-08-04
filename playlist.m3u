@@ -291,6 +291,8 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 http://31.148.48.15/RTG_HD/index.m3u8
 #EXTINF:-1,RTG TV HD (1080p)
 http://stream.mcquack.net/164/index.m3u8
+#EXTINF:-1,RTVi (576p)
+https://shift03.isp.bg/RTVi/index.m3u8
 #EXTINF:-1,RU.TV Kids (720p)
 https://rutvkids.ru/live/efir/index.m3u8
 #EXTINF:-1,Russia-1 (1080p)
@@ -299,8 +301,6 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1,Russia-1 +5 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +6 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 #EXTINF:-1,Russia-1 +7 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 #EXTINF:-1,Russia-1 +8 (1080p)
@@ -343,8 +343,6 @@ https://cdn-dvr.ntv.ru/Shef/index.m3u8
 http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1,Shopping Live (720p)
 https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
-#EXTINF:-1,Shot TV (576p)
-http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 #EXTINF:-1,Skoraya pomoshch (1080p)
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1,Smile TV (720p)
@@ -399,3 +397,5 @@ http://31.148.48.15/Terra_HD/index.m3u8
 https://live-3.otcnet.ru/Tiji/index.m3u8
 #EXTINF:-1,TNT (576p)
 http://94.230.129.31:8080/THT/index.m3u8
+#EXTINF:-1,TNT HD (1080p)
+http://45.153.24.78:80/TNT/index.m3u8
