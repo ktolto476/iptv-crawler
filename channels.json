@@ -256,6 +256,14 @@
     "headers": {}
   },
   {
+    "name": "Channel 8 Krasnoyarsk HD (1080p)",
+    "tvg-id": "channel 8 krasnoyarsk hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Channel 8 Novosibirsk (480i)",
     "tvg-id": "channel 8 novosibirsk (480i)",
     "group": "auto",
@@ -317,14 +325,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/108/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Domashniy (576p)",
-    "tvg-id": "domashniy (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://94.230.129.31:8080/Domashnii/index.m3u8",
     "headers": {}
   },
   {
@@ -429,14 +429,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/129/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Friday! (576p)",
-    "tvg-id": "friday! (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://94.230.129.31:8080/Friday/index.m3u8",
     "headers": {}
   },
   {
@@ -760,14 +752,6 @@
     "headers": {}
   },
   {
-    "name": "MMA TV.com (1080p)",
-    "tvg-id": "mma tv.com (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Moskva. Doveriye (576p)",
     "tvg-id": "moskva. doveriye (576p)",
     "group": "auto",
@@ -1000,14 +984,6 @@
     "headers": {}
   },
   {
-    "name": "Patriot (720p)",
-    "tvg-id": "patriot (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Perviy otdel (1080p)",
     "tvg-id": "perviy otdel (1080p)",
     "group": "auto",
@@ -1208,6 +1184,14 @@
     "headers": {}
   },
   {
+    "name": "Russia-1 +6 (1080p)",
+    "tvg-id": "russia-1 +6 (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Russia-1 +7 (1080p)",
     "tvg-id": "russia-1 +7 (1080p)",
     "group": "auto",
@@ -1376,6 +1360,14 @@
     "headers": {}
   },
   {
+    "name": "Shot TV (576p)",
+    "tvg-id": "shot tv (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://hls127.freeott.top:8080/SHOT_TV/video.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Skoraya pomoshch (1080p)",
     "tvg-id": "skoraya pomoshch (1080p)",
     "group": "auto",
@@ -1472,14 +1464,6 @@
     "headers": {}
   },
   {
-    "name": "Spas (576p)",
-    "tvg-id": "spas (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://94.230.129.31:8080/SPAS/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Sportivnyy (1080p)",
     "tvg-id": "sportivnyy (1080p)",
     "group": "auto",
@@ -1509,6 +1493,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/128/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "STS (576p)",
+    "tvg-id": "sts (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tshift-1.telecoma.tv/sts/index.m3u8",
     "headers": {}
   },
   {
@@ -1576,27 +1568,35 @@
     "headers": {}
   },
   {
-    "name": "TiJi (576p)",
-    "tvg-id": "tiji (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-3.otcnet.ru/Tiji/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TNT (576p)",
-    "tvg-id": "tnt (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://94.230.129.31:8080/THT/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "TNT HD (1080p)",
     "tvg-id": "tnt hd (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://45.153.24.78:80/TNT/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TNV-Tatarstan (720p)",
+    "tvg-id": "tnv-tatarstan (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Tochka RF (1080p)",
+    "tvg-id": "tochka rf (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/161/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Tooku (1080p)",
+    "tvg-id": "tooku (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8",
     "headers": {}
   }
 ]

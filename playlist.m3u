@@ -63,6 +63,8 @@ http://185.37.150.46/Karusel/index.m3u8
 http://31.148.48.15/Karusel_HD/index.m3u8
 #EXTINF:-1,Channel 8 (576p)
 http://45.11.139.43:8555/8kanal/index.m3u8
+#EXTINF:-1,Channel 8 Krasnoyarsk HD (1080p)
+https://tshift-1.telecoma.tv/8channel/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1,Channel 8 Novosibirsk (480i)
 https://live-8knsk.cdnvideo.ru/8knsk/stream1/playlist.m3u8
 #EXTINF:-1,Classic Music (1080p)
@@ -79,8 +81,6 @@ http://stream.mcquack.net/275/index.m3u8
 http://hls127.freeott.top:8080/Dikiy/video.m3u8
 #EXTINF:-1,Dom kino Premium HD (1080p)
 http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1,Domashniy (576p)
-http://94.230.129.31:8080/Domashnii/index.m3u8
 #EXTINF:-1,Dorama
 https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Dorama HD (1080p)
@@ -107,8 +107,6 @@ http://stream.mcquack.net/216/index.m3u8
 http://stream.mcquack.net/182/index.m3u8
 #EXTINF:-1,Fox Life (576p)
 http://stream.mcquack.net/129/index.m3u8
-#EXTINF:-1,Friday! (576p)
-http://94.230.129.31:8080/Friday/index.m3u8
 #EXTINF:-1,Gagsnetwork (576p)
 http://hls127.freeott.top:8080/Gagsnetwork/video.m3u8
 #EXTINF:-1,Glazami Turista (576i)
@@ -189,8 +187,6 @@ http://stream.mcquack.net/169/index.m3u8
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1,Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1,MMA TV.com (1080p)
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
@@ -249,8 +245,6 @@ http://stream.mcquack.net/493/index.m3u8
 http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1,Ostrosyuzhetnoye HD (1080p)
 http://stream.mcquack.net/214/index.m3u8
-#EXTINF:-1,Patriot (720p)
-https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1,Perviy otdel (1080p)
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 #EXTINF:-1,Pes (1080p)
@@ -301,6 +295,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
 #EXTINF:-1,Russia-1 +5 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
+#EXTINF:-1,Russia-1 +6 (1080p)
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
 #EXTINF:-1,Russia-1 +7 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
 #EXTINF:-1,Russia-1 +8 (1080p)
@@ -343,6 +339,8 @@ https://cdn-dvr.ntv.ru/Shef/index.m3u8
 http://stream.mcquack.net/75/index.m3u8
 #EXTINF:-1,Shopping Live (720p)
 https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8
+#EXTINF:-1,Shot TV (576p)
+http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 #EXTINF:-1,Skoraya pomoshch (1080p)
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8
 #EXTINF:-1,Smile TV (720p)
@@ -367,8 +365,6 @@ https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
 https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1,Soyuzny (480p)
 http://178.124.179.122:8080/TRO/index.m3u8
-#EXTINF:-1,Spas (576p)
-http://94.230.129.31:8080/SPAS/index.m3u8
 #EXTINF:-1,Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1,Star Cinema
@@ -377,6 +373,8 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1,START Air (576p)
 http://stream.mcquack.net/128/index.m3u8
+#EXTINF:-1,STS (576p)
+http://tshift-1.telecoma.tv/sts/index.m3u8
 #EXTINF:-1,STS HD (1080p)
 http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1,STS Love (576i)
@@ -393,9 +391,11 @@ http://hls127.freeott.top:8080/Teatr/video.m3u8
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1,Terra HD (720p)
 http://31.148.48.15/Terra_HD/index.m3u8
-#EXTINF:-1,TiJi (576p)
-https://live-3.otcnet.ru/Tiji/index.m3u8
-#EXTINF:-1,TNT (576p)
-http://94.230.129.31:8080/THT/index.m3u8
 #EXTINF:-1,TNT HD (1080p)
 http://45.153.24.78:80/TNT/index.m3u8
+#EXTINF:-1,TNV-Tatarstan (720p)
+https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
+#EXTINF:-1,Tochka RF (1080p)
+http://stream.mcquack.net/161/index.m3u8
+#EXTINF:-1,Tooku (1080p)
+http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
