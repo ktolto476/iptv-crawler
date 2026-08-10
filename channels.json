@@ -88,14 +88,6 @@
     "headers": {}
   },
   {
-    "name": "alpha Moretime (1080p)",
-    "tvg-id": "alpha moretime (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Amedia 1 (576p)",
     "tvg-id": "amedia 1 (576p)",
     "group": "auto",
@@ -752,6 +744,14 @@
     "headers": {}
   },
   {
+    "name": "MMA TV.com (1080p)",
+    "tvg-id": "mma tv.com (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Moskva. Doveriye (576p)",
     "tvg-id": "moskva. doveriye (576p)",
     "group": "auto",
@@ -981,6 +981,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/214/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Patriot (720p)",
+    "tvg-id": "patriot (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8",
     "headers": {}
   },
   {
@@ -1589,14 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/161/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Tooku (1080p)",
-    "tvg-id": "tooku (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8",
     "headers": {}
   }
 ]

@@ -21,8 +21,6 @@ http://5.188.159.128:8070/RED/index.m3u8
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1,alpha Cinema (1080p)
 https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-#EXTINF:-1,alpha Moretime (1080p)
-https://live.15plusmg.ru/memfs/3546fc09-2eba-459d-9a1f-9a2fc39e50bd.m3u8
 #EXTINF:-1,Amedia 1 (576p)
 http://31.148.48.15/A1/index.m3u8
 #EXTINF:-1,Amedia 2 (576p)
@@ -187,6 +185,8 @@ http://stream.mcquack.net/169/index.m3u8
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1,Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1,MMA TV.com (1080p)
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
@@ -245,6 +245,8 @@ http://stream.mcquack.net/493/index.m3u8
 http://stream.mcquack.net/492/index.m3u8
 #EXTINF:-1,Ostrosyuzhetnoye HD (1080p)
 http://stream.mcquack.net/214/index.m3u8
+#EXTINF:-1,Patriot (720p)
+https://stream.smotrim.ru/hls2/static/playlist_4.m3u8
 #EXTINF:-1,Perviy otdel (1080p)
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
 #EXTINF:-1,Pes (1080p)
@@ -397,5 +399,3 @@ http://45.153.24.78:80/TNT/index.m3u8
 https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8
 #EXTINF:-1,Tochka RF (1080p)
 http://stream.mcquack.net/161/index.m3u8
-#EXTINF:-1,Tooku (1080p)
-http://live-saha.cdnvideo.ru/saha/tooky/playlist.m3u8
