@@ -596,7 +596,7 @@
     "tvg-id": "kongress tv (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8",
+    "source": "https://live-3.otcnet.ru/congresstv/index.m3u8",
     "headers": {}
   },
   {
@@ -1520,6 +1520,14 @@
     "headers": {}
   },
   {
+    "name": "TNV-Tatarstan (720p)",
+    "tvg-id": "tnv-tatarstan (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://user91229.clients-cdnnow.ru/hls/user91229_1.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Tochka RF (1080p)",
     "tvg-id": "tochka rf (1080p)",
     "group": "auto",
@@ -1589,14 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://178.124.179.122:8080/TB-3/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "UDAR (1080p)",
-    "tvg-id": "udar (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://5.188.159.128:8070/udar/index.m3u8",
     "headers": {}
   }
 ]
