@@ -3,8 +3,6 @@
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1,12 канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:-1,15+ Music (1080p)
-https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1,360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1,360° Новости (1080p)
@@ -169,8 +167,6 @@ http://stream.mcquack.net/169/index.m3u8
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1,Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1,MMA TV.com (1080p)
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
@@ -375,8 +371,6 @@ http://hls127.freeott.top:8080/Teatr/video.m3u8
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1,TiJi (576p)
 http://stream.mcquack.net/111/index.m3u8
-#EXTINF:-1,TNT HD (1080p)
-http://45.153.24.78/TNT/index.m3u8
 #EXTINF:-1,TNT SD (576p)
 http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1,TNV-Tatarstan (720p)
@@ -399,3 +393,9 @@ http://hls127.freeott.top:8080/Tv_Center/video.m3u8
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1,TV-3 (576p)
 http://178.124.179.122:8080/TB-3/index.m3u8
+#EXTINF:-1,UDAR (1080p)
+http://5.188.159.128:8070/udar/index.m3u8
+#EXTINF:-1,Univer TV (1080p)
+https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1,Usadba (576p)
+http://stream.mcquack.net/211/index.m3u8

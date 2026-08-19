@@ -16,14 +16,6 @@
     "headers": {}
   },
   {
-    "name": "15+ Music (1080p)",
-    "tvg-id": "15+ music (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
-    "headers": {}
-  },
-  {
     "name": "360° (1080p)",
     "tvg-id": "360° (1080p)",
     "group": "auto",
@@ -677,14 +669,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://tvcdn01.esilnet.kz/tv/mir/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "MMA TV.com (1080p)",
-    "tvg-id": "mma tv.com (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1504,14 +1488,6 @@
     "headers": {}
   },
   {
-    "name": "TNT HD (1080p)",
-    "tvg-id": "tnt hd (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://45.153.24.78/TNT/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "TNT SD (576p)",
     "tvg-id": "tnt sd (576p)",
     "group": "auto",
@@ -1597,6 +1573,30 @@
     "group": "auto",
     "type": "direct",
     "source": "http://178.124.179.122:8080/TB-3/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "UDAR (1080p)",
+    "tvg-id": "udar (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://5.188.159.128:8070/udar/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Univer TV (1080p)",
+    "tvg-id": "univer tv (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Usadba (576p)",
+    "tvg-id": "usadba (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/211/index.m3u8",
     "headers": {}
   }
 ]
