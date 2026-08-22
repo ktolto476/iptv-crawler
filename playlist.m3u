@@ -3,6 +3,8 @@
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1,12 канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
+#EXTINF:-1,15+ Music (1080p)
+https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1,360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1,360° Новости (1080p)
@@ -167,6 +169,8 @@ http://stream.mcquack.net/169/index.m3u8
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1,Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1,MMA TV.com (1080p)
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
@@ -185,6 +189,8 @@ http://stream.mcquack.net/303/index.m3u8
 http://stream.mcquack.net/153/index.m3u8
 #EXTINF:-1,Nano (576p)
 http://stream.mcquack.net/419/index.m3u8
+#EXTINF:-1,Nano HD (1080p)
+http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1,Nashe HD (576p)
 http://stream.mcquack.net/217/index.m3u8
 #EXTINF:-1,Nashe Lubimoe Kino (576p)
@@ -215,8 +221,6 @@ http://stream.mcquack.net/301/index.m3u8
 http://hls127.freeott.top:8080/NTV_STIL_TV/video.m3u8
 #EXTINF:-1,O! (576p)
 http://stream.mcquack.net/60/index.m3u8
-#EXTINF:-1,Ocean-TV (576p)
-http://hls127.freeott.top:8080/Ocean_TV/video.m3u8
 #EXTINF:-1,Ohotnik i rybolov (576i)
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ohotnik i rybolov HD (1080p)
@@ -241,8 +245,6 @@ https://cdn-dvr.ntv.ru/Pes/index.m3u8
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1,Priklyucheniya HD (1080p)
 http://stream.mcquack.net/198/index.m3u8
-#EXTINF:-1,Pro Business (720p)
-https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1,Pro Lyubov (1080p)
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1,Prodvizhenie (1080p)
@@ -386,7 +388,7 @@ https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 #EXTINF:-1,TV 21 International (576p)
 http://stream.mcquack.net/152/index.m3u8
 #EXTINF:-1,TV BRICS Russian (1080p)
-https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+http://185.23.80.23:8080/TVBRICS/index.m3u8
 #EXTINF:-1,TV Centr (576p)
 http://hls127.freeott.top:8080/Tv_Center/video.m3u8
 #EXTINF:-1,TV PRO
@@ -397,5 +399,3 @@ http://178.124.179.122:8080/TB-3/index.m3u8
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1,Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
-#EXTINF:-1,Usadba (576p)
-http://stream.mcquack.net/211/index.m3u8

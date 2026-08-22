@@ -16,6 +16,14 @@
     "headers": {}
   },
   {
+    "name": "15+ Music (1080p)",
+    "tvg-id": "15+ music (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
+    "headers": {}
+  },
+  {
     "name": "360° (1080p)",
     "tvg-id": "360° (1080p)",
     "group": "auto",
@@ -672,6 +680,14 @@
     "headers": {}
   },
   {
+    "name": "MMA TV.com (1080p)",
+    "tvg-id": "mma tv.com (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Moskva. Doveriye (576p)",
     "tvg-id": "moskva. doveriye (576p)",
     "group": "auto",
@@ -741,6 +757,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/419/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Nano HD (1080p)",
+    "tvg-id": "nano hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://185.23.80.23:8080/NANO_HD/index.m3u8",
     "headers": {}
   },
   {
@@ -864,14 +888,6 @@
     "headers": {}
   },
   {
-    "name": "Ocean-TV (576p)",
-    "tvg-id": "ocean-tv (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://hls127.freeott.top:8080/Ocean_TV/video.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Ohotnik i rybolov (576i)",
     "tvg-id": "ohotnik i rybolov (576i)",
     "group": "auto",
@@ -965,14 +981,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/198/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Pro Business (720p)",
-    "tvg-id": "pro business (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1548,7 +1556,7 @@
     "tvg-id": "tv brics russian (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8",
+    "source": "http://185.23.80.23:8080/TVBRICS/index.m3u8",
     "headers": {}
   },
   {
@@ -1589,14 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Usadba (576p)",
-    "tvg-id": "usadba (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/211/index.m3u8",
     "headers": {}
   }
 ]
