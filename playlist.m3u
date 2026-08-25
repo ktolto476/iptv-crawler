@@ -169,8 +169,6 @@ http://stream.mcquack.net/169/index.m3u8
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1,Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
-#EXTINF:-1,MMA TV.com (1080p)
-https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
@@ -213,8 +211,6 @@ http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1,NTV Law (576p)
 http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
-#EXTINF:-1,NTV SD (576p)
-http://45.153.24.78/NTV/index.m3u8
 #EXTINF:-1,NTV Series (576p)
 http://stream.mcquack.net/301/index.m3u8
 #EXTINF:-1,NTV Style (576p)
@@ -245,6 +241,8 @@ https://cdn-dvr.ntv.ru/Pes/index.m3u8
 http://stream.mcquack.net/421/index.m3u8
 #EXTINF:-1,Priklyucheniya HD (1080p)
 http://stream.mcquack.net/198/index.m3u8
+#EXTINF:-1,Pro Business (720p)
+https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 #EXTINF:-1,Pro Lyubov (1080p)
 http://hls127.freeott.top:8080/ProLubovHD/video.m3u8
 #EXTINF:-1,Prodvizhenie (1080p)
@@ -399,3 +397,5 @@ http://178.124.179.122:8080/TB-3/index.m3u8
 http://5.188.159.128:8070/udar/index.m3u8
 #EXTINF:-1,Univer TV (1080p)
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
+#EXTINF:-1,Unknown Russia HD (1080p)
+http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
