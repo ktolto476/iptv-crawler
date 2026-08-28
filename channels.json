@@ -16,14 +16,6 @@
     "headers": {}
   },
   {
-    "name": "15+ Music (1080p)",
-    "tvg-id": "15+ music (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8",
-    "headers": {}
-  },
-  {
     "name": "360° (1080p)",
     "tvg-id": "360° (1080p)",
     "group": "auto",
@@ -56,27 +48,11 @@
     "headers": {}
   },
   {
-    "name": ".red (576p)",
-    "tvg-id": ".red (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://5.188.159.128:8070/RED/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": ".sci-fi (576p)",
     "tvg-id": ".sci-fi (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/180/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "alpha Cinema (1080p)",
-    "tvg-id": "alpha cinema (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8",
     "headers": {}
   },
   {
@@ -680,6 +656,14 @@
     "headers": {}
   },
   {
+    "name": "MMA TV.com (1080p)",
+    "tvg-id": "mma tv.com (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Moskva. Doveriye (576p)",
     "tvg-id": "moskva. doveriye (576p)",
     "group": "auto",
@@ -845,6 +829,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "NTV SD (576p)",
+    "tvg-id": "ntv sd (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://45.153.24.78/NTV/index.m3u8",
     "headers": {}
   },
   {
@@ -1040,14 +1032,6 @@
     "headers": {}
   },
   {
-    "name": "Rossiya 1 Vainah (576i)",
-    "tvg-id": "rossiya 1 vainah (576i)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "RT Balkan (1080p)",
     "tvg-id": "rt balkan (1080p)",
     "group": "auto",
@@ -1088,54 +1072,6 @@
     "headers": {}
   },
   {
-    "name": "Russia-1 (1080p)",
-    "tvg-id": "russia-1 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Russia-1 +4 (1080p)",
-    "tvg-id": "russia-1 +4 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Russia-1 +5 (1080p)",
-    "tvg-id": "russia-1 +5 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Russia-1 +6 (1080p)",
-    "tvg-id": "russia-1 +6 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Russia-1 +7 (1080p)",
-    "tvg-id": "russia-1 +7 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Russia-1 +8 (1080p)",
-    "tvg-id": "russia-1 +8 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Russia-1 HD (1080p)",
     "tvg-id": "russia-1 hd (1080p)",
     "group": "auto",
@@ -1157,30 +1093,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/229/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Russia-K +2 (1080p)",
-    "tvg-id": "russia-k +2 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Russia-K +4 (1080p)",
-    "tvg-id": "russia-k +4 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Russia-K +7 (1080p)",
-    "tvg-id": "russia-k +7 (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1509,94 @@
     "group": "auto",
     "type": "direct",
     "source": "http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Usadba (576p)",
+    "tvg-id": "usadba (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/211/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "V gostyakh u skazki (576p)",
+    "tvg-id": "v gostyakh u skazki (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/93/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "V mire zhivotnykh (1080p)",
+    "tvg-id": "v mire zhivotnykh (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/241/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Vesti FM (720p)",
+    "tvg-id": "vesti fm (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "viju Explore (576p)",
+    "tvg-id": "viju explore (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/239/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "viju History (576p)",
+    "tvg-id": "viju history (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://178.124.179.122:8080/HistoryHD/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "viju Nature",
+    "tvg-id": "viju nature",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "viju TV1000 (576p)",
+    "tvg-id": "viju tv1000 (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/110/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "viju TV1000 action (576p)",
+    "tvg-id": "viju tv1000 action (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/100/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "viju+ Comedy HD (1080p)",
+    "tvg-id": "viju+ comedy hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/201/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "viju+ Megahit HD (1080p)",
+    "tvg-id": "viju+ megahit hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/200/index.m3u8",
     "headers": {}
   }
 ]

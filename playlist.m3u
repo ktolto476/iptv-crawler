@@ -3,8 +3,6 @@
 https://cdn-dvr.ntv.ru/5_minut_tishiny/index.m3u8
 #EXTINF:-1,12 канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
-#EXTINF:-1,15+ Music (1080p)
-https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8
 #EXTINF:-1,360° (1080p)
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8
 #EXTINF:-1,360° Новости (1080p)
@@ -13,12 +11,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1,.black (576p)
 http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1,.red (576p)
-http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1,.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1,alpha Cinema (1080p)
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
 #EXTINF:-1,Amedia Hit (1080p)
 http://stream.mcquack.net/162/index.m3u8
 #EXTINF:-1,Angel TV Russian (720p)
@@ -169,6 +163,8 @@ http://stream.mcquack.net/169/index.m3u8
 http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1,Mir Kazakhstan (576p)
 http://tvcdn01.esilnet.kz/tv/mir/index.m3u8
+#EXTINF:-1,MMA TV.com (1080p)
+https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 #EXTINF:-1,Moskva. Doveriye (576p)
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
@@ -211,6 +207,8 @@ http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
 http://hls127.freeott.top:8080/HCTV/video.m3u8
 #EXTINF:-1,NTV Law (576p)
 http://hls127.freeott.top:8080/NTV_PRAVO_TV/video.m3u8
+#EXTINF:-1,NTV SD (576p)
+http://45.153.24.78/NTV/index.m3u8
 #EXTINF:-1,NTV Series (576p)
 http://stream.mcquack.net/301/index.m3u8
 #EXTINF:-1,NTV Style (576p)
@@ -259,8 +257,6 @@ http://hls127.freeott.top:8080/RBK/video.m3u8
 http://stream.mcquack.net/191/index.m3u8
 #EXTINF:-1,Rodnoe Kino (576p)
 http://stream.mcquack.net/242/index.m3u8
-#EXTINF:-1,Rossiya 1 Vainah (576i)
-https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1,RT Balkan (1080p)
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1,RT Documentary Russian (1080p)
@@ -271,30 +267,12 @@ http://stream.mcquack.net/164/index.m3u8
 https://shift03.isp.bg/RTVi/index.m3u8
 #EXTINF:-1,RU.TV Kids (720p)
 https://rutvkids.ru/live/efir/index.m3u8
-#EXTINF:-1,Russia-1 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +4 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +5 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +6 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +7 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1,Russia-1 +8 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
 #EXTINF:-1,Russia-1 HD (1080p)
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1,Russia-24 HD (1080p)
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1,Russia-K (576p)
 http://stream.mcquack.net/229/index.m3u8
-#EXTINF:-1,Russia-K +2 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/kultura-hd/index.m3u8
-#EXTINF:-1,Russia-K +4 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/kultura-hd/index.m3u8
-#EXTINF:-1,Russia-K +7 (1080p)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/kultura-hd/index.m3u8
 #EXTINF:-1,Russia-K HD (1080p)
 https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8
 #EXTINF:-1,Russian MusicBox (576p)
@@ -399,3 +377,25 @@ http://5.188.159.128:8070/udar/index.m3u8
 https://cdn.universmotri.ru/live/smil:univer.smil/playlist.m3u8
 #EXTINF:-1,Unknown Russia HD (1080p)
 http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
+#EXTINF:-1,Usadba (576p)
+http://stream.mcquack.net/211/index.m3u8
+#EXTINF:-1,V gostyakh u skazki (576p)
+http://stream.mcquack.net/93/index.m3u8
+#EXTINF:-1,V mire zhivotnykh (1080p)
+http://stream.mcquack.net/241/index.m3u8
+#EXTINF:-1,Vesti FM (720p)
+https://stream.smotrim.ru/hls2/vesti_fm/playlist_4.m3u8
+#EXTINF:-1,viju Explore (576p)
+http://stream.mcquack.net/239/index.m3u8
+#EXTINF:-1,viju History (576p)
+http://178.124.179.122:8080/HistoryHD/index.m3u8
+#EXTINF:-1,viju Nature
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+#EXTINF:-1,viju TV1000 (576p)
+http://stream.mcquack.net/110/index.m3u8
+#EXTINF:-1,viju TV1000 action (576p)
+http://stream.mcquack.net/100/index.m3u8
+#EXTINF:-1,viju+ Comedy HD (1080p)
+http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1,viju+ Megahit HD (1080p)
+http://stream.mcquack.net/200/index.m3u8
