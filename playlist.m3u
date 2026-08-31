@@ -11,6 +11,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1,.black (576p)
 http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1,.red (576p)
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1,.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1,Amedia Hit (1080p)
@@ -397,5 +399,3 @@ http://stream.mcquack.net/110/index.m3u8
 http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1,viju+ Comedy HD (1080p)
 http://stream.mcquack.net/201/index.m3u8
-#EXTINF:-1,viju+ Megahit HD (1080p)
-http://stream.mcquack.net/200/index.m3u8
