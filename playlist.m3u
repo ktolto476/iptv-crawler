@@ -11,8 +11,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1,.black (576p)
 http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1,.red (576p)
-http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1,.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1,Amedia Hit (1080p)
@@ -189,8 +187,6 @@ http://stream.mcquack.net/419/index.m3u8
 http://185.23.80.23:8080/NANO_HD/index.m3u8
 #EXTINF:-1,Nashe HD (576p)
 http://stream.mcquack.net/217/index.m3u8
-#EXTINF:-1,Nashe Lubimoe Kino (576p)
-http://hls127.freeott.top:8080/Lubimoe_Kino/video.m3u8
 #EXTINF:-1,Nashe muzhskoe HD (1080p)
 http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1,Nashe Novoe Kino (1080p)
@@ -399,3 +395,7 @@ http://stream.mcquack.net/110/index.m3u8
 http://stream.mcquack.net/100/index.m3u8
 #EXTINF:-1,viju+ Comedy HD (1080p)
 http://stream.mcquack.net/201/index.m3u8
+#EXTINF:-1,viju+ Megahit HD (1080p)
+http://stream.mcquack.net/200/index.m3u8
+#EXTINF:-1,viju+ Planet HD (1080p)
+http://stream.mcquack.net/240/index.m3u8
