@@ -1,13 +1,5 @@
 [
   {
-    "name": "1HD Music Television (1080p)",
-    "tvg-id": "1hd music television (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream8.cinerama.uz/1267/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
     "name": "5 minut tishiny (1080p)",
     "tvg-id": "5 minut tishiny (1080p)",
     "group": "auto",
@@ -136,14 +128,6 @@
     "headers": {}
   },
   {
-    "name": "BelRos (720p)",
-    "tvg-id": "belros (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Blokbaster HD (1080p)",
     "tvg-id": "blokbaster hd (1080p)",
     "group": "auto",
@@ -264,11 +248,27 @@
     "headers": {}
   },
   {
+    "name": "Da Vinci (576p)",
+    "tvg-id": "da vinci (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8",
+    "headers": {}
+  },
+  {
     "name": "DanceHits80",
     "tvg-id": "dancehits80",
     "group": "auto",
     "type": "direct",
     "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Detvora+ (1080p)",
+    "tvg-id": "detvora+ (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8",
     "headers": {}
   },
   {
@@ -293,6 +293,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hls127.freeott.top:8080/Dikiy/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "DocuBox Russia",
+    "tvg-id": "docubox russia",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://dtv.vol.net.ua/DOCUBOX-HD/index.m3u8",
     "headers": {}
   },
   {
@@ -344,11 +352,27 @@
     "headers": {}
   },
   {
+    "name": "Duma TV (720p)",
+    "tvg-id": "duma tv (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://185.23.80.23:8080/DumaTV/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Dushevnoe HD (1080p)",
     "tvg-id": "dushevnoe hd (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/213/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Enisey (576p)",
+    "tvg-id": "enisey (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tshift-1.telecoma.tv/enisei/index.m3u8",
     "headers": {}
   },
   {
@@ -389,14 +413,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "FoodTime (1080p)",
-    "tvg-id": "foodtime (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/216/index.m3u8",
     "headers": {}
   },
   {
@@ -501,14 +517,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/144/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "KHL Prime (1080p)",
-    "tvg-id": "khl prime (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/178/index.m3u8",
     "headers": {}
   },
   {
@@ -629,14 +637,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/74/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Kongress TV (1080p)",
-    "tvg-id": "kongress tv (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-3.otcnet.ru/congresstv/index.m3u8",
     "headers": {}
   },
   {
@@ -840,11 +840,11 @@
     "headers": {}
   },
   {
-    "name": "National Geographic (576p)",
-    "tvg-id": "national geographic (576p)",
+    "name": "National Geographic (1080p)",
+    "tvg-id": "national geographic (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://stream.mcquack.net/116/index.m3u8",
+    "source": "http://dtv.vol.net.ua/National_Geographic-HD/index.m3u8",
     "headers": {}
   },
   {
@@ -1320,14 +1320,6 @@
     "headers": {}
   },
   {
-    "name": "Smile TV (720p)",
-    "tvg-id": "smile tv (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://5d23269b3ec0c.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Smotrim 100% Detskoe (720p)",
     "tvg-id": "smotrim 100% detskoe (720p)",
     "group": "auto",
@@ -1392,11 +1384,11 @@
     "headers": {}
   },
   {
-    "name": "Soyuzny (480p)",
-    "tvg-id": "soyuzny (480p)",
+    "name": "Soyuzny (576p)",
+    "tvg-id": "soyuzny (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://178.124.179.122:8080/TRO/index.m3u8",
+    "source": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1536,14 +1528,6 @@
     "headers": {}
   },
   {
-    "name": "Tochka RF (1080p)",
-    "tvg-id": "tochka rf (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/161/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Tonus (576p)",
     "tvg-id": "tonus (576p)",
     "group": "auto",
@@ -1597,6 +1581,22 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/152/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TV BRICS Russian (1080p)",
+    "tvg-id": "tv brics russian (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://185.23.80.23:8080/TVBRICS/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TV Centr (576p)",
+    "tvg-id": "tv centr (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://hls127.freeott.top:8080/Tv_Center/video.m3u8",
     "headers": {}
   }
 ]
