@@ -88,6 +88,14 @@
     "headers": {}
   },
   {
+    "name": "Ani (576p)",
+    "tvg-id": "ani (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.32.176.50/anitv/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Arsenal (576p)",
     "tvg-id": "arsenal (576p)",
     "group": "auto",
@@ -189,14 +197,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://178.134.1.158:8081/BRIDGEROCK/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Carousel (720p)",
-    "tvg-id": "carousel (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://185.37.150.46/Karusel/index.m3u8",
     "headers": {}
   },
   {
@@ -389,6 +389,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/385/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Extreme Sports Channel (576p)",
+    "tvg-id": "extreme sports channel (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.32.176.50/extremesport/index.m3u8",
     "headers": {}
   },
   {
@@ -640,6 +648,14 @@
     "headers": {}
   },
   {
+    "name": "Kongress TV (1080p)",
+    "tvg-id": "kongress tv (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-3.otcnet.ru/congresstv/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Kuhnya (576p)",
     "tvg-id": "kuhnya (576p)",
     "group": "auto",
@@ -704,6 +720,14 @@
     "headers": {}
   },
   {
+    "name": "MCM Top (576p)",
+    "tvg-id": "mcm top (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.32.176.50/mcmtop/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Mezzo Live (1080p)",
     "tvg-id": "mezzo live (1080p)",
     "group": "auto",
@@ -765,6 +789,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://hls127.freeott.top:8080/Mult_Muzika/video.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Muz-TV (576p)",
+    "tvg-id": "muz-tv (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.32.176.50/muztv/index.m3u8",
     "headers": {}
   },
   {
@@ -896,14 +928,6 @@
     "headers": {}
   },
   {
-    "name": "NTV SD (576p)",
-    "tvg-id": "ntv sd (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://45.153.24.78/NTV/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "NTV Series (576p)",
     "tvg-id": "ntv series (576p)",
     "group": "auto",
@@ -933,6 +957,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/60/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Ocean-TV (576p)",
+    "tvg-id": "ocean-tv (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://hls127.freeott.top:8080/Ocean_TV/video.m3u8",
     "headers": {}
   },
   {
@@ -1565,38 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/206/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TV 21 (576p)",
-    "tvg-id": "tv 21 (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://178.134.1.158:8081/TVXXI/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TV 21 International (576p)",
-    "tvg-id": "tv 21 international (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/152/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TV BRICS Russian (1080p)",
-    "tvg-id": "tv brics russian (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://185.23.80.23:8080/TVBRICS/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TV Centr (576p)",
-    "tvg-id": "tv centr (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://hls127.freeott.top:8080/Tv_Center/video.m3u8",
     "headers": {}
   }
 ]
