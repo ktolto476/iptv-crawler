@@ -11,6 +11,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1,.black (576p)
 http://stream.mcquack.net/263/index.m3u8
+#EXTINF:-1,.red (576p)
+http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1,.red HD (1080p)
 http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1,.sci-fi (576p)
@@ -65,8 +67,6 @@ http://stream.mcquack.net/312/index.m3u8
 http://hls127.freeott.top:8080/Da_Vinci_Learning/video.m3u8
 #EXTINF:-1,DanceHits80
 http://dancehits80.denvs.ru:8080/index.m3u8
-#EXTINF:-1,Detvora+ (1080p)
-https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8
 #EXTINF:-1,Dikaya okhota HD (1080p)
 http://stream.mcquack.net/274/index.m3u8
 #EXTINF:-1,Dikaya rybalka HD (1080p)
@@ -349,6 +349,8 @@ https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
 #EXTINF:-1,Solovyov Live (1080p)
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
+#EXTINF:-1,SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1,Soyuzny (576p)
 https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8
 #EXTINF:-1,Spas (576p)
@@ -397,5 +399,3 @@ https://stream8.cinerama.uz/1274/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/206/index.m3u8
 #EXTINF:-1,TV 21 (576p)
 http://178.134.1.158:8081/TVXXI/index.m3u8
-#EXTINF:-1,TV 21 International (576p)
-http://stream.mcquack.net/152/index.m3u8

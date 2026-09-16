@@ -48,6 +48,14 @@
     "headers": {}
   },
   {
+    "name": ".red (576p)",
+    "tvg-id": ".red (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://5.188.159.128:8070/RED/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": ".red HD (1080p)",
     "tvg-id": ".red hd (1080p)",
     "group": "auto",
@@ -261,14 +269,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://dancehits80.denvs.ru:8080/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Detvora+ (1080p)",
-    "tvg-id": "detvora+ (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn.rostelekom-tv.xyz/live/WAYU4PTJ_VVz4wAQ.m3u8",
     "headers": {}
   },
   {
@@ -1400,6 +1400,14 @@
     "headers": {}
   },
   {
+    "name": "SONGTV Russia",
+    "tvg-id": "songtv russia",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Soyuzny (576p)",
     "tvg-id": "soyuzny (576p)",
     "group": "auto",
@@ -1589,14 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://178.134.1.158:8081/TVXXI/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TV 21 International (576p)",
-    "tvg-id": "tv 21 international (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/152/index.m3u8",
     "headers": {}
   }
 ]
