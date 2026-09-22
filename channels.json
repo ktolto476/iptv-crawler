@@ -52,7 +52,15 @@
     "tvg-id": ".black (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://str2.iptvhd.ru:8080/Sony_Turbo/index.m3u8",
+    "source": "http://stream.mcquack.net/263/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": ".red (576p)",
+    "tvg-id": ".red (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://5.188.159.128:8070/RED/index.m3u8",
     "headers": {}
   },
   {
@@ -64,11 +72,11 @@
     "headers": {}
   },
   {
-    "name": ".red (576p)",
-    "tvg-id": ".red (576p)",
+    "name": ".sci-fi (576p)",
+    "tvg-id": ".sci-fi (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://5.188.159.128:8070/RED/index.m3u8",
+    "source": "http://stream.mcquack.net/180/index.m3u8",
     "headers": {}
   },
   {
@@ -792,14 +800,6 @@
     "headers": {}
   },
   {
-    "name": "Kinosvidanie (576p)",
-    "tvg-id": "kinosvidanie (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://5.188.159.128:8070/kinosvidanie/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Kinouzhas (576p)",
     "tvg-id": "kinouzhas (576p)",
     "group": "auto",
@@ -960,8 +960,8 @@
     "headers": {}
   },
   {
-    "name": "MCM Top (Russia) (576p)",
-    "tvg-id": "mcm top (russia) (576p)",
+    "name": "MCM Top (576p)",
+    "tvg-id": "mcm top (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://46.32.176.50/mcmtop/index.m3u8",
@@ -1165,14 +1165,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/443/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "NTV Series (576p)",
-    "tvg-id": "ntv series (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/301/index.m3u8",
     "headers": {}
   },
   {
@@ -1488,14 +1480,6 @@
     "headers": {}
   },
   {
-    "name": "RU.TV Kids (720p)",
-    "tvg-id": "ru.tv kids (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://rutvkids.ru/live/efir/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Russia-1 HD (1080p)",
     "tvg-id": "russia-1 hd (1080p)",
     "group": "auto",
@@ -1597,6 +1581,22 @@
     "group": "auto",
     "type": "direct",
     "source": "http://77.232.131.211/Sapfir/manifest.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Sarafan (576p)",
+    "tvg-id": "sarafan (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/81/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Sever",
+    "tvg-id": "sever",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
     "headers": {}
   }
 ]

@@ -12,11 +12,13 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 #EXTINF:-1,365 days TV (576p)
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1,.black (576p)
-http://str2.iptvhd.ru:8080/Sony_Turbo/index.m3u8
-#EXTINF:-1,.red HD (1080p)
-http://178.134.1.158:8081/red/index.m3u8
+http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1,.red (576p)
 http://5.188.159.128:8070/RED/index.m3u8
+#EXTINF:-1,.red HD (1080p)
+http://178.134.1.158:8081/red/index.m3u8
+#EXTINF:-1,.sci-fi (576p)
+http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1,A2 (576p)
 http://str2.iptvhd.ru:8080/Amedia_2/index.m3u8
 #EXTINF:-1,AIST TV (1080p)
@@ -197,8 +199,6 @@ http://stream.mcquack.net/64/index.m3u8
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1,Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
-#EXTINF:-1,Kinosvidanie (576p)
-http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1,Kinouzhas (576p)
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1,KN Music TV
@@ -239,7 +239,7 @@ http://stream.mcquack.net/112/index.m3u8
 http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8
 #EXTINF:-1,Match! Ultra (1080p)
 http://str2.iptvhd.ru:8080/Match_TV_HD/index.m3u8
-#EXTINF:-1,MCM Top (Russia) (576p)
+#EXTINF:-1,MCM Top (576p)
 http://46.32.176.50/mcmtop/index.m3u8
 #EXTINF:-1,Mezzo Live (1080p)
 http://stream.mcquack.net/276/index.m3u8
@@ -291,8 +291,6 @@ http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1,Nickelodeon (Russia) (576p)
 http://stream.mcquack.net/443/index.m3u8
-#EXTINF:-1,NTV Series (576p)
-http://stream.mcquack.net/301/index.m3u8
 #EXTINF:-1,NTV-Hit (576p)
 http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1,O! (576p)
@@ -371,8 +369,6 @@ https://rt-doc.rttv.com/dvr/rtdru/playlist.m3u8
 http://stream.mcquack.net/164/index.m3u8
 #EXTINF:-1,RTVi (576p)
 https://shift03.isp.bg/RTVi/index.m3u8
-#EXTINF:-1,RU.TV Kids (720p)
-https://rutvkids.ru/live/efir/index.m3u8
 #EXTINF:-1,Russia-1 HD (1080p)
 https://stream.smotrim.ru/hls2/russia_hd/playlist_6.m3u8
 #EXTINF:-1,Russia-24 HD (1080p)
@@ -399,3 +395,7 @@ https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 #EXTINF:-1,Saphire (1080p)
 http://77.232.131.211/Sapfir/manifest.m3u8
+#EXTINF:-1,Sarafan (576p)
+http://stream.mcquack.net/81/index.m3u8
+#EXTINF:-1,Sever
+https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
