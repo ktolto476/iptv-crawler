@@ -13,8 +13,6 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/play
 http://stream.mcquack.net/70/index.m3u8
 #EXTINF:-1,.black (576p)
 http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1,.red (576p)
-http://5.188.159.128:8070/RED/index.m3u8
 #EXTINF:-1,.red HD (1080p)
 http://178.134.1.158:8081/red/index.m3u8
 #EXTINF:-1,.sci-fi (576p)
@@ -43,8 +41,8 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
 #EXTINF:-1,Auto Plus (576p)
 http://str2.iptvhd.ru:8080/Avto_Plyus/index.m3u8
-#EXTINF:-1,Avto24 (576p)
-http://stream.mcquack.net/78/index.m3u8
+#EXTINF:-1,Avto24 (1080i)
+http://str2.iptvhd.ru:8080/Avto_24/index.m3u8
 #EXTINF:-1,Baby Time (576p)
 http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1,Balabol (1080p)
@@ -291,6 +289,8 @@ http://str2.iptvhd.ru:8080/Nat_Geo_Wild_HD/index.m3u8
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
 #EXTINF:-1,Nickelodeon (Russia) (576p)
 http://stream.mcquack.net/443/index.m3u8
+#EXTINF:-1,NTV Series (576p)
+http://stream.mcquack.net/301/index.m3u8
 #EXTINF:-1,NTV-Hit (576p)
 http://178.134.1.158:8081/ntvhit/index.m3u8
 #EXTINF:-1,O! (576p)
@@ -391,11 +391,11 @@ http://stream.mcquack.net/264/index.m3u8
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Salyam (576p)
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:-1,Sankt-Peterburg HD (720p)
-https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 #EXTINF:-1,Saphire (1080p)
 http://77.232.131.211/Sapfir/manifest.m3u8
 #EXTINF:-1,Sarafan (576p)
 http://stream.mcquack.net/81/index.m3u8
 #EXTINF:-1,Sever
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
+#EXTINF:-1,Shanson TV (576p)
+http://catchup.videoline.ru/shanson/index.m3u8

@@ -56,14 +56,6 @@
     "headers": {}
   },
   {
-    "name": ".red (576p)",
-    "tvg-id": ".red (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://5.188.159.128:8070/RED/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": ".red HD (1080p)",
     "tvg-id": ".red hd (1080p)",
     "group": "auto",
@@ -176,11 +168,11 @@
     "headers": {}
   },
   {
-    "name": "Avto24 (576p)",
-    "tvg-id": "avto24 (576p)",
+    "name": "Avto24 (1080i)",
+    "tvg-id": "avto24 (1080i)",
     "group": "auto",
     "type": "direct",
-    "source": "http://stream.mcquack.net/78/index.m3u8",
+    "source": "http://str2.iptvhd.ru:8080/Avto_24/index.m3u8",
     "headers": {}
   },
   {
@@ -1168,6 +1160,14 @@
     "headers": {}
   },
   {
+    "name": "NTV Series (576p)",
+    "tvg-id": "ntv series (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/301/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "NTV-Hit (576p)",
     "tvg-id": "ntv-hit (576p)",
     "group": "auto",
@@ -1568,14 +1568,6 @@
     "headers": {}
   },
   {
-    "name": "Sankt-Peterburg HD (720p)",
-    "tvg-id": "sankt-peterburg hd (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Saphire (1080p)",
     "tvg-id": "saphire (1080p)",
     "group": "auto",
@@ -1597,6 +1589,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Shanson TV (576p)",
+    "tvg-id": "shanson tv (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://catchup.videoline.ru/shanson/index.m3u8",
     "headers": {}
   }
 ]
