@@ -104,14 +104,6 @@
     "headers": {}
   },
   {
-    "name": "Ani (576p)",
-    "tvg-id": "ani (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.32.176.50/anitv/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Arkhyz 24 (1080p)",
     "tvg-id": "arkhyz 24 (1080p)",
     "group": "auto",
@@ -456,14 +448,6 @@
     "headers": {}
   },
   {
-    "name": "Extreme Sports Channel (576p)",
-    "tvg-id": "extreme sports channel (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.32.176.50/extremesport/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Fashion&LifeStyle (1080p)",
     "tvg-id": "fashion&lifestyle (1080p)",
     "group": "auto",
@@ -472,8 +456,8 @@
     "headers": {}
   },
   {
-    "name": "FashionTV (1080p)",
-    "tvg-id": "fashiontv (1080p)",
+    "name": "FashionTV (Russia) (1080p)",
+    "tvg-id": "fashiontv (russia) (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8",
@@ -509,6 +493,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/181/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Gorodskoy telekanal (720p)",
+    "tvg-id": "gorodskoy telekanal (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://gtk.tv/hls/gtyar.m3u8",
     "headers": {}
   },
   {
@@ -656,6 +648,14 @@
     "headers": {}
   },
   {
+    "name": "Kinosvidanie (576p)",
+    "tvg-id": "kinosvidanie (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://5.188.159.128:8070/kinosvidanie/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Kinouzhas (576p)",
     "tvg-id": "kinouzhas (576p)",
     "group": "auto",
@@ -693,14 +693,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live-3.otcnet.ru/congresstv/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Krik-TV (1080p)",
-    "tvg-id": "krik-tv (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
     "headers": {}
   },
   {
@@ -792,22 +784,6 @@
     "headers": {}
   },
   {
-    "name": "MCM Top (576p)",
-    "tvg-id": "mcm top (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.32.176.50/mcmtop/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Mezzo Live (1080p)",
-    "tvg-id": "mezzo live (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/276/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Mir 24 (1080p)",
     "tvg-id": "mir 24 (1080p)",
     "group": "auto",
@@ -885,14 +861,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Muz-TV (576p)",
-    "tvg-id": "muz-tv (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.32.176.50/muztv/index.m3u8",
     "headers": {}
   },
   {
@@ -1160,14 +1128,6 @@
     "headers": {}
   },
   {
-    "name": "Prosveshchenie (576p)",
-    "tvg-id": "prosveshchenie (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Radio Mir (720p)",
     "tvg-id": "radio mir (720p)",
     "group": "auto",
@@ -1245,6 +1205,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://shift03.isp.bg/RTVi/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Rus (576p)",
+    "tvg-id": "rus (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://31.148.5.241/kanal_21/index.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1565,38 @@
     "group": "auto",
     "type": "direct",
     "source": "https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Tavriya",
+    "tvg-id": "tavriya",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://streaming.televizor-24-tochka.ru/live/24.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Telecafe (Russia) (720p)",
+    "tvg-id": "telecafe (russia) (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TeleDom",
+    "tvg-id": "teledom",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Telekanal Krasnodar (1080p)",
+    "tvg-id": "telekanal krasnodar (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8",
     "headers": {}
   }
 ]
