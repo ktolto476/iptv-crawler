@@ -56,14 +56,6 @@
     "headers": {}
   },
   {
-    "name": ".red (576p)",
-    "tvg-id": ".red (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://5.188.159.128:8070/RED/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": ".red HD (1080p)",
     "tvg-id": ".red hd (1080p)",
     "group": "auto",
@@ -648,14 +640,6 @@
     "headers": {}
   },
   {
-    "name": "Kinosvidanie (576p)",
-    "tvg-id": "kinosvidanie (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://5.188.159.128:8070/kinosvidanie/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Kinouzhas (576p)",
     "tvg-id": "kinouzhas (576p)",
     "group": "auto",
@@ -693,6 +677,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live-3.otcnet.ru/congresstv/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Krik-TV (1080p)",
+    "tvg-id": "krik-tv (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8",
     "headers": {}
   },
   {
@@ -784,6 +776,14 @@
     "headers": {}
   },
   {
+    "name": "Mezzo Live (1080p)",
+    "tvg-id": "mezzo live (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/276/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Mir 24 (1080p)",
     "tvg-id": "mir 24 (1080p)",
     "group": "auto",
@@ -853,14 +853,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/141/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Muz Soyuz (576p)",
-    "tvg-id": "muz soyuz (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1128,6 +1120,14 @@
     "headers": {}
   },
   {
+    "name": "Prosveshchenie (576p)",
+    "tvg-id": "prosveshchenie (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Radio Mir (720p)",
     "tvg-id": "radio mir (720p)",
     "group": "auto",
@@ -1197,14 +1197,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/164/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "RTVi (576p)",
-    "tvg-id": "rtvi (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://shift03.isp.bg/RTVi/index.m3u8",
     "headers": {}
   },
   {
@@ -1448,14 +1440,6 @@
     "headers": {}
   },
   {
-    "name": "Soyuz (576p)",
-    "tvg-id": "soyuz (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Soyuzny (576p)",
     "tvg-id": "soyuzny (576p)",
     "group": "auto",
@@ -1597,6 +1581,22 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TiJi (576p)",
+    "tvg-id": "tiji (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/111/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TNT4 (576p)",
+    "tvg-id": "tnt4 (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://flussonic.linkintel.ru/tnt4/index.m3u8",
     "headers": {}
   }
 ]
