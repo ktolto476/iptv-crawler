@@ -432,6 +432,14 @@
     "headers": {}
   },
   {
+    "name": "Europa Plus TV Belarus (576p)",
+    "tvg-id": "europa plus tv belarus (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.53.200.153:7777/play/EuropaPlus/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Evrokino HD (1080p)",
     "tvg-id": "evrokino hd (1080p)",
     "group": "auto",
@@ -485,14 +493,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/181/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Gorodskoy telekanal (720p)",
-    "tvg-id": "gorodskoy telekanal (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://gtk.tv/hls/gtyar.m3u8",
     "headers": {}
   },
   {
@@ -736,6 +736,14 @@
     "headers": {}
   },
   {
+    "name": "Live Music Channel HD (1080p)",
+    "tvg-id": "live music channel hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.53.200.153:7777/play/Live_music_channel/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Lugansk 24",
     "tvg-id": "lugansk 24",
     "group": "auto",
@@ -856,6 +864,14 @@
     "headers": {}
   },
   {
+    "name": "Muz Soyuz (576p)",
+    "tvg-id": "muz soyuz (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Muzhskoe kino (576p)",
     "tvg-id": "muzhskoe kino (576p)",
     "group": "auto",
@@ -896,6 +912,14 @@
     "headers": {}
   },
   {
+    "name": "Nash Kinopokaz HD (576p)",
+    "tvg-id": "nash kinopokaz hd (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Nashe muzhskoe HD (1080p)",
     "tvg-id": "nashe muzhskoe hd (1080p)",
     "group": "auto",
@@ -909,14 +933,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Nickelodeon (Russia) (576p)",
-    "tvg-id": "nickelodeon (russia) (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/443/index.m3u8",
     "headers": {}
   },
   {
@@ -1216,14 +1232,6 @@
     "headers": {}
   },
   {
-    "name": "Russia-24 HD (1080p)",
-    "tvg-id": "russia-24 hd (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://77.232.131.211/Rossiya24/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Russia-K (576p)",
     "tvg-id": "russia-k (576p)",
     "group": "auto",
@@ -1237,6 +1245,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream.smotrim.ru/hls2/russia_k/playlist_5.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Russian Extreme Ultra (1440p)",
+    "tvg-id": "russian extreme ultra (1440p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://46.53.200.153:7777/play/test_krask1/index.m3u8",
     "headers": {}
   },
   {
@@ -1293,14 +1309,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Saphire (1080p)",
-    "tvg-id": "saphire (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://77.232.131.211/Sapfir/manifest.m3u8",
     "headers": {}
   },
   {
@@ -1432,11 +1440,11 @@
     "headers": {}
   },
   {
-    "name": "SONGTV Russia",
-    "tvg-id": "songtv russia",
+    "name": "Soyuz (576p)",
+    "tvg-id": "soyuz (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
+    "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1589,14 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/111/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "TNT4 (576p)",
-    "tvg-id": "tnt4 (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://flussonic.linkintel.ru/tnt4/index.m3u8",
     "headers": {}
   }
 ]
