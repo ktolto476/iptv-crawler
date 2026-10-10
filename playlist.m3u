@@ -35,8 +35,6 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1,Astrahan.Ru TV (480p)
 https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8
-#EXTINF:-1,Baby Time (576p)
-http://178.134.1.158:8081/babytime/index.m3u8
 #EXTINF:-1,Balabol (1080p)
 https://cdn-dvr.ntv.ru/Balabol/index.m3u8
 #EXTINF:-1,Belgorod 24 (1080p)
@@ -147,18 +145,16 @@ http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 http://stream.mcquack.net/144/index.m3u8
 #EXTINF:-1,Kino TV HD (1080p)
 http://176.118.197.101/KinoTvHD/playlist.m3u8
-#EXTINF:-1,KinoHit (576p)
-http://stream.mcquack.net/126/index.m3u8
 #EXTINF:-1,Kinokomedija (576p)
 http://stream.mcquack.net/265/index.m3u8
 #EXTINF:-1,Kinomix (576p)
 http://93.170.254.17/Kinomiks/index.m3u8
-#EXTINF:-1,Kinopokaz (576p)
-http://stream.mcquack.net/64/index.m3u8
 #EXTINF:-1,Kinopremyera (1080p)
 http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
 #EXTINF:-1,Kinosemja (576p)
 http://stream.mcquack.net/170/index.m3u8
+#EXTINF:-1,Kinosvidanie (576p)
+http://5.188.159.128:8070/kinosvidanie/index.m3u8
 #EXTINF:-1,Kinouzhas (576p)
 http://stream.mcquack.net/278/index.m3u8
 #EXTINF:-1,KN Music TV
@@ -233,6 +229,8 @@ http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 http://stream.mcquack.net/362/index.m3u8
 #EXTINF:-1,Nevskiy (1080p)
 https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8
+#EXTINF:-1,Nickelodeon (Russia) (576p)
+http://stream.mcquack.net/443/index.m3u8
 #EXTINF:-1,NTV Series (576p)
 http://stream.mcquack.net/301/index.m3u8
 #EXTINF:-1,NTV-Hit (576p)
@@ -327,8 +325,6 @@ https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1,Sankt-Peterburg HD (720p)
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
-#EXTINF:-1,Sarafan (576p)
-http://stream.mcquack.net/81/index.m3u8
 #EXTINF:-1,Sever
 https://2vko9pchwon.a.trbcdn.net/livemaster/8ilgc_cw63ucn03p.smil/playlist.m3u8
 #EXTINF:-1,Shanson TV (576p)
@@ -359,6 +355,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 #EXTINF:-1,Solovyov Live (1080p)
 https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8
+#EXTINF:-1,SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
 #EXTINF:-1,Soyuz (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1,Soyuzny (576p)
@@ -397,5 +395,7 @@ https://cdn4.skygo.mn/live/disk1/Telecafe/HLSv3-FTA/Telecafe.m3u8
 https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1,Telekanal Krasnodar (1080p)
 https://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
-#EXTINF:-1,TiJi (576p)
-http://stream.mcquack.net/111/index.m3u8
+#EXTINF:-1,TNT4 (576p)
+http://flussonic.linkintel.ru/tnt4/index.m3u8
+#EXTINF:-1,TNT (Russia) (576p)
+http://stream.mcquack.net/135/index.m3u8

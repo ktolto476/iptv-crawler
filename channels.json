@@ -144,14 +144,6 @@
     "headers": {}
   },
   {
-    "name": "Baby Time (576p)",
-    "tvg-id": "baby time (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://178.134.1.158:8081/babytime/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Balabol (1080p)",
     "tvg-id": "balabol (1080p)",
     "group": "auto",
@@ -592,14 +584,6 @@
     "headers": {}
   },
   {
-    "name": "KinoHit (576p)",
-    "tvg-id": "kinohit (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/126/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Kinokomedija (576p)",
     "tvg-id": "kinokomedija (576p)",
     "group": "auto",
@@ -616,14 +600,6 @@
     "headers": {}
   },
   {
-    "name": "Kinopokaz (576p)",
-    "tvg-id": "kinopokaz (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/64/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Kinopremyera (1080p)",
     "tvg-id": "kinopremyera (1080p)",
     "group": "auto",
@@ -637,6 +613,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/170/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Kinosvidanie (576p)",
+    "tvg-id": "kinosvidanie (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://5.188.159.128:8070/kinosvidanie/index.m3u8",
     "headers": {}
   },
   {
@@ -933,6 +917,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdn-dvr.ntv.ru/Nevskiy/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Nickelodeon (Russia) (576p)",
+    "tvg-id": "nickelodeon (russia) (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/443/index.m3u8",
     "headers": {}
   },
   {
@@ -1312,14 +1304,6 @@
     "headers": {}
   },
   {
-    "name": "Sarafan (576p)",
-    "tvg-id": "sarafan (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/81/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Sever",
     "tvg-id": "sever",
     "group": "auto",
@@ -1437,6 +1421,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "SONGTV Russia",
+    "tvg-id": "songtv russia",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1592,11 +1584,19 @@
     "headers": {}
   },
   {
-    "name": "TiJi (576p)",
-    "tvg-id": "tiji (576p)",
+    "name": "TNT4 (576p)",
+    "tvg-id": "tnt4 (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://stream.mcquack.net/111/index.m3u8",
+    "source": "http://flussonic.linkintel.ru/tnt4/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "TNT (Russia) (576p)",
+    "tvg-id": "tnt (russia) (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/135/index.m3u8",
     "headers": {}
   }
 ]
