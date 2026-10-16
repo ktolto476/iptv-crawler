@@ -240,6 +240,14 @@
     "headers": {}
   },
   {
+    "name": "BRIDGE Hits (576p)",
+    "tvg-id": "bridge hits (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/320/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "BRIDGE Rock (576p)",
     "tvg-id": "bridge rock (576p)",
     "group": "auto",
@@ -488,22 +496,6 @@
     "headers": {}
   },
   {
-    "name": "Eurosport 1 Russia (1080p)",
-    "tvg-id": "eurosport 1 russia (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/176/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Eurosport 2 Russia (1080p)",
-    "tvg-id": "eurosport 2 russia (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/192/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Evrokino HD (1080p)",
     "tvg-id": "evrokino hd (1080p)",
     "group": "auto",
@@ -589,14 +581,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Gulli Girl (720p)",
-    "tvg-id": "gulli girl (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
     "headers": {}
   },
   {
@@ -952,14 +936,6 @@
     "headers": {}
   },
   {
-    "name": "Moya Planeta (1080p)",
-    "tvg-id": "moya planeta (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Moya stikhiya HD (1080p)",
     "tvg-id": "moya stikhiya hd (1080p)",
     "group": "auto",
@@ -1104,19 +1080,19 @@
     "headers": {}
   },
   {
-    "name": "Okko Futbol (1080p)",
-    "tvg-id": "okko futbol (1080p)",
+    "name": "Okko Prajm Sport (1080p)",
+    "tvg-id": "okko prajm sport (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://stream.mcquack.net/491/index.m3u8",
+    "source": "http://stream.mcquack.net/493/index.m3u8",
     "headers": {}
   },
   {
-    "name": "Okko Sport (1080p)",
-    "tvg-id": "okko sport (1080p)",
+    "name": "Osetiya-Iryston (1080p)",
+    "tvg-id": "osetiya-iryston (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://stream.mcquack.net/492/index.m3u8",
+    "source": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1245,6 +1221,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Quadro (2160p)",
+    "tvg-id": "quadro (2160p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://57.128.231.171:8080/316/index.m3u8",
     "headers": {}
   },
   {
@@ -1405,6 +1389,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Salyam (576p)",
+    "tvg-id": "salyam (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1589,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://176.118.197.101/START_AIR/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Strana FM",
+    "tvg-id": "strana fm",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
     "headers": {}
   }
 ]

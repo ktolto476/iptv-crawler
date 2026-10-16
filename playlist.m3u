@@ -59,6 +59,8 @@ http://stream.mcquack.net/318/index.m3u8
 http://stream.mcquack.net/272/index.m3u8
 #EXTINF:-1,BRIDGE Deluxe HD (576p)
 http://stream.mcquack.net/92/index.m3u8
+#EXTINF:-1,BRIDGE Hits (576p)
+http://stream.mcquack.net/320/index.m3u8
 #EXTINF:-1,BRIDGE Rock (576p)
 http://178.134.1.158:8081/BRIDGEROCK/index.m3u8
 #EXTINF:-1,BST (576p)
@@ -121,10 +123,6 @@ https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1,Europa Plus TV Belarus (576p)
 http://46.53.200.153:7777/play/EuropaPlus/index.m3u8
-#EXTINF:-1,Eurosport 1 Russia (1080p)
-http://stream.mcquack.net/176/index.m3u8
-#EXTINF:-1,Eurosport 2 Russia (1080p)
-http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1,Evrokino HD (1080p)
 http://stream.mcquack.net/385/index.m3u8
 #EXTINF:-1,Fashion&LifeStyle (1080p)
@@ -147,8 +145,6 @@ https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 https://balancer.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/720-3.m3u8
 #EXTINF:-1,Gubernia Samara (576p)
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1,Gulli Girl (720p)
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Hope Channel Russia (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1,Horoshee Kino (720p)
@@ -237,8 +233,6 @@ https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 https://stream.smotrim.ru/hls2/doverie/playlist_3.m3u8
 #EXTINF:-1,Moy mir (720p)
 https://moymir.ru/hls/onair.m3u8
-#EXTINF:-1,Moya Planeta (1080p)
-http://91.226.120.120/chid210/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Moya stikhiya HD (1080p)
 http://stream.mcquack.net/141/index.m3u8
 #EXTINF:-1,Muz Soyuz (576p)
@@ -275,10 +269,10 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/194/index.m3u8
 #EXTINF:-1,Okhota i rybalka (576p)
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1,Okko Futbol (1080p)
-http://stream.mcquack.net/491/index.m3u8
-#EXTINF:-1,Okko Sport (1080p)
-http://stream.mcquack.net/492/index.m3u8
+#EXTINF:-1,Okko Prajm Sport (1080p)
+http://stream.mcquack.net/493/index.m3u8
+#EXTINF:-1,Osetiya-Iryston (1080p)
+https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1,OSN
 http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8
 #EXTINF:-1,Ostrosyuzhetnoye HD (1080p)
@@ -311,6 +305,8 @@ https://tv-streaming.bsh.ru:21938/probusiness/probusiness.stream/playlist.m3u8
 https://streaming.astrakhan.ru/proastrakhanhd/index.m3u8
 #EXTINF:-1,Prosveshchenie (576p)
 http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8
+#EXTINF:-1,Quadro (2160p)
+http://57.128.231.171:8080/316/index.m3u8
 #EXTINF:-1,Radio Mir (720p)
 https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8
 #EXTINF:-1,Radio Rossii (720p)
@@ -351,6 +347,8 @@ http://stream.mcquack.net/204/index.m3u8
 http://stream.mcquack.net/264/index.m3u8
 #EXTINF:-1,Ryzhiy (576i)
 https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Salyam (576p)
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 #EXTINF:-1,Sankt-Peterburg HD (720p)
 https://stream.smotrim.ru/hls2/ext_spbtv/playlist_5.m3u8
 #EXTINF:-1,Sarafan (576p)
@@ -399,3 +397,5 @@ https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1,START Air (1080p)
 http://176.118.197.101/START_AIR/index.m3u8
+#EXTINF:-1,Strana FM
+https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
