@@ -584,6 +584,14 @@
     "headers": {}
   },
   {
+    "name": "Gulli Girl (720p)",
+    "tvg-id": "gulli girl (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Hope Channel Russia (720p)",
     "tvg-id": "hope channel russia (720p)",
     "group": "auto",
@@ -1016,6 +1024,14 @@
     "headers": {}
   },
   {
+    "name": "Nashe Novoe Kino",
+    "tvg-id": "nashe novoe kino",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Nevskiy (1080p)",
     "tvg-id": "nevskiy (1080p)",
     "group": "auto",
@@ -1056,6 +1072,14 @@
     "headers": {}
   },
   {
+    "name": "O! International (720p)",
+    "tvg-id": "o! international (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://88.212.15.17/live/test_telekanal_o/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Ohotnik i rybolov (576i)",
     "tvg-id": "ohotnik i rybolov (576i)",
     "group": "auto",
@@ -1080,11 +1104,11 @@
     "headers": {}
   },
   {
-    "name": "Okko Prajm Sport (1080p)",
-    "tvg-id": "okko prajm sport (1080p)",
+    "name": "Okko Futbol (576p)",
+    "tvg-id": "okko futbol (576p)",
     "group": "auto",
     "type": "direct",
-    "source": "http://stream.mcquack.net/493/index.m3u8",
+    "source": "http://178.124.179.122:8080/Setanta1/index.m3u8",
     "headers": {}
   },
   {
@@ -1093,14 +1117,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "OSN",
-    "tvg-id": "osn",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1165,6 +1181,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://cdn-dvr.ntv.ru/Pes/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Pobeda (576p)",
+    "tvg-id": "pobeda (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn4.skygo.mn/live/disk1/Pobeda/HLSv3-FTA/Pobeda.m3u8",
     "headers": {}
   },
   {
@@ -1392,14 +1416,6 @@
     "headers": {}
   },
   {
-    "name": "Salyam (576p)",
-    "tvg-id": "salyam (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Sankt-Peterburg HD (720p)",
     "tvg-id": "sankt-peterburg hd (720p)",
     "group": "auto",
@@ -1424,8 +1440,8 @@
     "headers": {}
   },
   {
-    "name": "Shanson TV (576p)",
-    "tvg-id": "shanson tv (576p)",
+    "name": "Shanson TV SD (576p)",
+    "tvg-id": "shanson tv sd (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://catchup.videoline.ru/shanson/index.m3u8",
@@ -1560,6 +1576,14 @@
     "headers": {}
   },
   {
+    "name": "Spas (576p)",
+    "tvg-id": "spas (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Sportivnyy (1080p)",
     "tvg-id": "sportivnyy (1080p)",
     "group": "auto",
@@ -1573,30 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Star Family (1080p)",
-    "tvg-id": "star family (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "START Air (1080p)",
-    "tvg-id": "start air (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://176.118.197.101/START_AIR/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Strana FM",
-    "tvg-id": "strana fm",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
     "headers": {}
   }
 ]
