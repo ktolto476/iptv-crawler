@@ -168,6 +168,14 @@
     "headers": {}
   },
   {
+    "name": "Baby Time (576p)",
+    "tvg-id": "baby time (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://178.134.1.158:8081/babytime/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Balabol (1080p)",
     "tvg-id": "balabol (1080p)",
     "group": "auto",
@@ -664,14 +672,6 @@
     "headers": {}
   },
   {
-    "name": "Kino TV HD (1080p)",
-    "tvg-id": "kino tv hd (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://176.118.197.101/KinoTvHD/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "KinoHit (576p)",
     "tvg-id": "kinohit (576p)",
     "group": "auto",
@@ -757,14 +757,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/74/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Kongress TV (1080p)",
-    "tvg-id": "kongress tv (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-3.otcnet.ru/congresstv/index.m3u8",
     "headers": {}
   },
   {
@@ -1248,14 +1240,6 @@
     "headers": {}
   },
   {
-    "name": "Quadro (2160p)",
-    "tvg-id": "quadro (2160p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://57.128.231.171:8080/316/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Radio Mir (720p)",
     "tvg-id": "radio mir (720p)",
     "group": "auto",
@@ -1416,6 +1400,14 @@
     "headers": {}
   },
   {
+    "name": "Salyam (576p)",
+    "tvg-id": "salyam (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Sankt-Peterburg HD (720p)",
     "tvg-id": "sankt-peterburg hd (720p)",
     "group": "auto",
@@ -1480,22 +1472,6 @@
     "headers": {}
   },
   {
-    "name": "Smotrim 100% Detskoe (720p)",
-    "tvg-id": "smotrim 100% detskoe (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Smotrim 100% Fakty (720p)",
-    "tvg-id": "smotrim 100% fakty (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Smotrim 100% Klassika (720p)",
     "tvg-id": "smotrim 100% klassika (720p)",
     "group": "auto",
@@ -1517,14 +1493,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Smotrim 100% Prazdnik (720p)",
-    "tvg-id": "smotrim 100% prazdnik (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1565,38 @@
     "group": "auto",
     "type": "direct",
     "source": "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Star Family (1080p)",
+    "tvg-id": "star family (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "START Air (1080p)",
+    "tvg-id": "start air (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://176.118.197.101/START_AIR/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Strana FM",
+    "tvg-id": "strana fm",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "STS (576p)",
+    "tvg-id": "sts (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://tshift-1.telecoma.tv/sts/index.m3u8",
     "headers": {}
   }
 ]
