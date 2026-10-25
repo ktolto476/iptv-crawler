@@ -352,8 +352,8 @@
     "headers": {}
   },
   {
-    "name": "Da Vinci (Russia) (576p)",
-    "tvg-id": "da vinci (russia) (576p)",
+    "name": "Da Vinci (576p)",
+    "tvg-id": "da vinci (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/238/index.m3u8",
@@ -672,6 +672,14 @@
     "headers": {}
   },
   {
+    "name": "Kino TV HD (1080p)",
+    "tvg-id": "kino tv hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://176.118.197.101/KinoTvHD/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "KinoHit (576p)",
     "tvg-id": "kinohit (576p)",
     "group": "auto",
@@ -757,6 +765,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/74/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Kongress TV (1080p)",
+    "tvg-id": "kongress tv (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-3.otcnet.ru/congresstv/index.m3u8",
     "headers": {}
   },
   {
@@ -877,6 +893,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/276/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Ministerstvo idey (1080p)",
+    "tvg-id": "ministerstvo idey (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-minidey.cdnvideo.ru/minidey-srt/minidey/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1064,14 +1088,6 @@
     "headers": {}
   },
   {
-    "name": "O! International (720p)",
-    "tvg-id": "o! international (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://88.212.15.17/live/test_telekanal_o/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Ohotnik i rybolov (576i)",
     "tvg-id": "ohotnik i rybolov (576i)",
     "group": "auto",
@@ -1112,6 +1128,14 @@
     "headers": {}
   },
   {
+    "name": "OSN",
+    "tvg-id": "osn",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Ostrosyuzhetnoye HD (1080p)",
     "tvg-id": "ostrosyuzhetnoye hd (1080p)",
     "group": "auto",
@@ -1141,14 +1165,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Patriot (720p)",
-    "tvg-id": "patriot (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls2/static/playlist_4.m3u8",
     "headers": {}
   },
   {
@@ -1237,14 +1253,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Radio Mir (720p)",
-    "tvg-id": "radio mir (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1472,6 +1480,22 @@
     "headers": {}
   },
   {
+    "name": "Smotrim 100% Detskoe (720p)",
+    "tvg-id": "smotrim 100% detskoe (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Smotrim 100% Fakty (720p)",
+    "tvg-id": "smotrim 100% fakty (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Smotrim 100% Klassika (720p)",
     "tvg-id": "smotrim 100% klassika (720p)",
     "group": "auto",
@@ -1496,6 +1520,14 @@
     "headers": {}
   },
   {
+    "name": "Smotrim 100% Prazdnik (720p)",
+    "tvg-id": "smotrim 100% prazdnik (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Smotrim Chestnyy Detektiv (1080p)",
     "tvg-id": "smotrim chestnyy detektiv (1080p)",
     "group": "auto",
@@ -1509,14 +1541,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Solovyov Live (1080p)",
-    "tvg-id": "solovyov live (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls2/solovievlive/playlist_6.m3u8",
     "headers": {}
   },
   {
@@ -1573,30 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "START Air (1080p)",
-    "tvg-id": "start air (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://176.118.197.101/START_AIR/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Strana FM",
-    "tvg-id": "strana fm",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "STS (576p)",
-    "tvg-id": "sts (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://tshift-1.telecoma.tv/sts/index.m3u8",
     "headers": {}
   }
 ]
