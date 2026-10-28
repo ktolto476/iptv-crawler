@@ -400,6 +400,14 @@
     "headers": {}
   },
   {
+    "name": "Dikij (576p)",
+    "tvg-id": "dikij (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream3.cinerama.uz/1230/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Discovery Channel (Russia) (1080p)",
     "tvg-id": "discovery channel (russia) (1080p)",
     "group": "auto",
@@ -597,6 +605,14 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Hit HD (1080p)",
+    "tvg-id": "hit hd (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/363/index.m3u8",
     "headers": {}
   },
   {
@@ -880,6 +896,14 @@
     "headers": {}
   },
   {
+    "name": "Match! Premier (576p)",
+    "tvg-id": "match! premier (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://185.23.80.23:8080/MATCH_PREMIER/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Match! Ultra (1080p)",
     "tvg-id": "match! ultra (1080p)",
     "group": "auto",
@@ -928,14 +952,6 @@
     "headers": {}
   },
   {
-    "name": "Mir Seriala (576p)",
-    "tvg-id": "mir seriala (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://176.118.197.101/MirSeriala/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "MMA-TV.com (1080p)",
     "tvg-id": "mma-tv.com (1080p)",
     "group": "auto",
@@ -965,6 +981,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/141/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Mult i muzyka (576p)",
+    "tvg-id": "mult i muzyka (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/82/index.m3u8",
     "headers": {}
   },
   {
@@ -1064,11 +1088,35 @@
     "headers": {}
   },
   {
+    "name": "Nostalgia (Russia) (576p)",
+    "tvg-id": "nostalgia (russia) (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://176.118.197.101/Nostalgiya/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "NST (576p)",
+    "tvg-id": "nst (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/207/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "NTV Series (576p)",
     "tvg-id": "ntv series (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/301/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "NTV Svoya igra (1080p)",
+    "tvg-id": "ntv svoya igra (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8",
     "headers": {}
   },
   {
@@ -1085,6 +1133,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/60/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "O! International (720p)",
+    "tvg-id": "o! international (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://88.212.15.50/live/test_telekanal_o/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1253,6 +1309,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://cdn-01.bonus-tv.ru/prosveschenie_edge/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Radio Mir (720p)",
+    "tvg-id": "radio mir (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream1.dc.beltelecom.by/radiomir/studio.stream/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1533,70 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Sochi24 (720p)",
-    "tvg-id": "sochi24 (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "SONGTV Russia",
-    "tvg-id": "songtv russia",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Soyuz (576p)",
-    "tvg-id": "soyuz (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Soyuzny (576p)",
-    "tvg-id": "soyuzny (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://souzny.mediacdn.ru/cdn/souzny/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Spas (576p)",
-    "tvg-id": "spas (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Sportivnyy (1080p)",
-    "tvg-id": "sportivnyy (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-3.otcnet.ru/sportivny/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Star Cinema",
-    "tvg-id": "star cinema",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Star Family (1080p)",
-    "tvg-id": "star family (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8",
     "headers": {}
   }
 ]
