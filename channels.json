@@ -528,8 +528,8 @@
     "headers": {}
   },
   {
-    "name": "FashionTV (1080p)",
-    "tvg-id": "fashiontv (1080p)",
+    "name": "FashionTV (Russia) (1080p)",
+    "tvg-id": "fashiontv (russia) (1080p)",
     "group": "auto",
     "type": "direct",
     "source": "http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8",
@@ -576,6 +576,14 @@
     "headers": {}
   },
   {
+    "name": "Gagsnetwork (576p)",
+    "tvg-id": "gagsnetwork (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://stream.mcquack.net/458/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Glazami Turista (576i)",
     "tvg-id": "glazami turista (576i)",
     "group": "auto",
@@ -613,6 +621,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/363/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Home 4K",
+    "tvg-id": "home 4k",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://88.212.7.14/live/test_home_uhd_tizen/playlist.m3u8",
     "headers": {}
   },
   {
@@ -949,6 +965,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://tvcdn01.esilnet.kz/tv/mir/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Mir Seriala (576p)",
+    "tvg-id": "mir seriala (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://176.118.197.101/MirSeriala/index.m3u8",
     "headers": {}
   },
   {
@@ -1573,30 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Smotrim 100% Muzhskoe (720p)",
-    "tvg-id": "smotrim 100% muzhskoe (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Smotrim 100% Prazdnik (720p)",
-    "tvg-id": "smotrim 100% prazdnik (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Smotrim Chestnyy Detektiv (1080p)",
-    "tvg-id": "smotrim chestnyy detektiv (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8",
     "headers": {}
   }
 ]
