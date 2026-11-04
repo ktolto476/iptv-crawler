@@ -56,6 +56,14 @@
     "headers": {}
   },
   {
+    "name": ".red (576p)",
+    "tvg-id": ".red (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://5.188.159.128:8070/RED/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": ".red HD (1080p)",
     "tvg-id": ".red hd (1080p)",
     "group": "auto",
@@ -501,6 +509,22 @@
     "group": "auto",
     "type": "direct",
     "source": "http://46.53.200.153:7777/play/EuropaPlus/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Eurosport 1 Russia (1080p)",
+    "tvg-id": "eurosport 1 russia (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://s7.iptv-24.net/1439/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Eurosport 2 Russia (1080p)",
+    "tvg-id": "eurosport 2 russia (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://s7.iptv-24.net/1452/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1128,14 +1152,6 @@
     "headers": {}
   },
   {
-    "name": "NTV Svoya igra (1080p)",
-    "tvg-id": "ntv svoya igra (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://cdn-dvr.ntv.ru/th_svoya_igra/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "NTV-Hit (576p)",
     "tvg-id": "ntv-hit (576p)",
     "group": "auto",
@@ -1581,22 +1597,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Smotrim 100% Lyubov (720p)",
-    "tvg-id": "smotrim 100% lyubov (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Smotrim 100% Muzhskoe (720p)",
-    "tvg-id": "smotrim 100% muzhskoe (720p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8",
     "headers": {}
   }
 ]
