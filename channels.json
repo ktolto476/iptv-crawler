@@ -64,14 +64,6 @@
     "headers": {}
   },
   {
-    "name": ".red (576p)",
-    "tvg-id": ".red (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://5.188.159.128:8070/RED/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": ".red HD (1080p)",
     "tvg-id": ".red hd (1080p)",
     "group": "auto",
@@ -552,14 +544,6 @@
     "headers": {}
   },
   {
-    "name": "FON Music (576p)",
-    "tvg-id": "fon music (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://stream8.cinerama.uz/1272/tracks-v1a1/mono.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Food Network (Russia) (1080p)",
     "tvg-id": "food network (russia) (1080p)",
     "group": "auto",
@@ -696,6 +680,14 @@
     "headers": {}
   },
   {
+    "name": "Istoki (1080p)",
+    "tvg-id": "istoki (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://istoki.tv/live/stream1/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Izvestia (1080p)",
     "tvg-id": "izvestia (1080p)",
     "group": "auto",
@@ -752,27 +744,11 @@
     "headers": {}
   },
   {
-    "name": "Kinopremyera (1080p)",
-    "tvg-id": "kinopremyera (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://5.188.159.128:8070/KINOPREMIERA/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Kinosemja (576p)",
     "tvg-id": "kinosemja (576p)",
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/170/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Kinosvidanie (576p)",
-    "tvg-id": "kinosvidanie (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://5.188.159.128:8070/kinosvidanie/index.m3u8",
     "headers": {}
   },
   {
@@ -805,6 +781,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/74/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Kongress TV (1080p)",
+    "tvg-id": "kongress tv (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-3.otcnet.ru/congresstv/index.m3u8",
     "headers": {}
   },
   {
@@ -845,14 +829,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://178.124.179.122:8080/KVN-TV/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "LDPR TV (1080p)",
-    "tvg-id": "ldpr tv (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1112,6 +1088,14 @@
     "headers": {}
   },
   {
+    "name": "Nashe Novoe Kino",
+    "tvg-id": "nashe novoe kino",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream8.cinerama.uz/1051/tracks-v1a1/mono.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Nevskiy (1080p)",
     "tvg-id": "nevskiy (1080p)",
     "group": "auto",
@@ -1221,14 +1205,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://178.124.179.122:8080/Setanta1/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Osetiya-Iryston (1080p)",
-    "tvg-id": "osetiya-iryston (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1416,14 +1392,6 @@
     "headers": {}
   },
   {
-    "name": "Rossiya 1 Vainah (576i)",
-    "tvg-id": "rossiya 1 vainah (576i)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
-    "headers": {}
-  },
-  {
     "name": "RT Balkan (1080p)",
     "tvg-id": "rt balkan (1080p)",
     "group": "auto",
@@ -1597,6 +1565,38 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/75/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Shopping Live (720p)",
+    "tvg-id": "shopping live (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://nonmirya7cc.a.trbcdn.net/livemaster/tzrz5_sazlypl5ot.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Skoraya pomoshch (1080p)",
+    "tvg-id": "skoraya pomoshch (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://cdn-dvr.ntv.ru/Skoraja_pomosh/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Smotrim 100% Detskoe (720p)",
+    "tvg-id": "smotrim 100% detskoe (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream.smotrim.ru/hls/fasttv05/playlist_3.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Smotrim 100% Fakty (720p)",
+    "tvg-id": "smotrim 100% fakty (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
     "headers": {}
   }
 ]
