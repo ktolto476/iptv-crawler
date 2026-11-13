@@ -248,6 +248,14 @@
     "headers": {}
   },
   {
+    "name": "BRIDGE Hits (576p)",
+    "tvg-id": "bridge hits (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://5.188.159.128:8070/Bridge_TV_Hits/index.m3u8",
+    "headers": {}
+  },
+  {
     "name": "BRIDGE Rock (576p)",
     "tvg-id": "bridge rock (576p)",
     "group": "auto",
@@ -317,14 +325,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://176.118.197.101/Che/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Cinema (Russia) (576p)",
-    "tvg-id": "cinema (russia) (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://flussonic.linkintel.ru/cinema/index.m3u8",
     "headers": {}
   },
   {
@@ -544,6 +544,14 @@
     "headers": {}
   },
   {
+    "name": "FON TV (1080p)",
+    "tvg-id": "fon tv (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
+    "headers": {}
+  },
+  {
     "name": "Food Network (Russia) (1080p)",
     "tvg-id": "food network (russia) (1080p)",
     "group": "auto",
@@ -752,14 +760,6 @@
     "headers": {}
   },
   {
-    "name": "Kinouzhas (576p)",
-    "tvg-id": "kinouzhas (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/278/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "KN Music TV",
     "tvg-id": "kn music tv",
     "group": "auto",
@@ -781,14 +781,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/74/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Kongress TV (1080p)",
-    "tvg-id": "kongress tv (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live-3.otcnet.ru/congresstv/index.m3u8",
     "headers": {}
   },
   {
@@ -869,14 +861,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Mama (576p)",
-    "tvg-id": "mama (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://flussonic.linkintel.ru/mama/index.m3u8",
     "headers": {}
   },
   {
@@ -973,14 +957,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://moymir.ru/hls/onair.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Moya stikhiya HD (1080p)",
-    "tvg-id": "moya stikhiya hd (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/141/index.m3u8",
     "headers": {}
   },
   {
@@ -1136,14 +1112,6 @@
     "headers": {}
   },
   {
-    "name": "NTV (Russia) HD (1080p)",
-    "tvg-id": "ntv (russia) hd (1080p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://flussonic.linkintel.ru/ntv/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "NTV Series (576p)",
     "tvg-id": "ntv series (576p)",
     "group": "auto",
@@ -1205,6 +1173,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://178.124.179.122:8080/Setanta1/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Osetiya-Iryston (1080p)",
+    "tvg-id": "osetiya-iryston (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1389,6 +1365,14 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/242/index.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Rossiya 1 Vainah (576i)",
+    "tvg-id": "rossiya 1 vainah (576i)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1581,22 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream.smotrim.ru/hls/fasttv06/playlist_3.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Smotrim 100% Klassika (720p)",
+    "tvg-id": "smotrim 100% klassika (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Smotrim 100% Lyubov (720p)",
+    "tvg-id": "smotrim 100% lyubov (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8",
     "headers": {}
   }
 ]
