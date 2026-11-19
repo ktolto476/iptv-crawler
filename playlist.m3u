@@ -13,8 +13,6 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/ind
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1,365 days TV (576p)
 http://stream.mcquack.net/70/index.m3u8
-#EXTINF:-1,.black (576p)
-http://stream.mcquack.net/263/index.m3u8
 #EXTINF:-1,.sci-fi (576p)
 http://stream.mcquack.net/180/index.m3u8
 #EXTINF:-1,AIST TV (1080p)
@@ -128,7 +126,7 @@ http://stream.mcquack.net/119/index.m3u8
 #EXTINF:-1,FashionTV (Russia) (1080p)
 http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 #EXTINF:-1,FON TV (1080p)
-https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8
+https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8
 #EXTINF:-1,Food Network (Russia) (1080p)
 http://stream.mcquack.net/298/index.m3u8
 #EXTINF:-1,Fox (Russia) (576p)
@@ -197,8 +195,6 @@ http://stream.mcquack.net/179/index.m3u8
 https://api.alpaca.t62a.com/hls/9110/stream0.m3u8
 #EXTINF:-1,Kuraj-TV (576p)
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:-1,KVN TV (576p)
-http://178.124.179.122:8080/KVN-TV/index.m3u8
 #EXTINF:-1,Leomax 24 (1080p)
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1,Live Music Channel HD (1080p)
@@ -287,8 +283,6 @@ https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
 http://stream.mcquack.net/194/index.m3u8
 #EXTINF:-1,Okhota i rybalka (576p)
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1,Okko Futbol (576p)
-http://178.124.179.122:8080/Setanta1/index.m3u8
 #EXTINF:-1,Osetiya-Iryston (1080p)
 https://osir.mediacdn.ru/cdn/osetia/playlist.m3u8
 #EXTINF:-1,OSN
@@ -299,11 +293,11 @@ http://stream.mcquack.net/214/index.m3u8
 https://v4.proofix.ru/0mir/index.m3u8
 #EXTINF:-1,OTR (576p)
 http://31.148.5.241/kanal_9/index.m3u8
-#EXTINF:-1,OTV-Prim
+#EXTINF:-1,OTV-Prim (720p)
 https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8
 #EXTINF:-1,Perviy otdel (1080p)
 https://cdn-dvr.ntv.ru/Perviy_otdel/index.m3u8
-#EXTINF:-1,Pervyy Respublikanskiy
+#EXTINF:-1,Pervyy Respublikanskiy (576p)
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1,Pes (1080p)
 https://cdn-dvr.ntv.ru/Pes/index.m3u8
@@ -337,8 +331,6 @@ http://31.148.5.241/kanal_11/index.m3u8
 http://176.118.197.101/Retro/index.m3u8
 #EXTINF:-1,Rodnoe Kino (576p)
 http://stream.mcquack.net/242/index.m3u8
-#EXTINF:-1,Rossiya 1 Vainah (576i)
-https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8
 #EXTINF:-1,RT Balkan (1080p)
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 #EXTINF:-1,RT Documentary Russian (1080p)
@@ -399,3 +391,11 @@ https://stream.smotrim.ru/hls/fasttv01/playlist_2.m3u8
 https://stream.smotrim.ru/hls/fasttv02/playlist_3.m3u8
 #EXTINF:-1,Smotrim 100% Prazdnik (720p)
 https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8
+#EXTINF:-1,Smotrim Chestnyy Detektiv (1080p)
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+#EXTINF:-1,Sochi24 (720p)
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:-1,SONGTV Russia
+https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8
+#EXTINF:-1,Soyuz (576p)
+https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8

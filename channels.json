@@ -56,14 +56,6 @@
     "headers": {}
   },
   {
-    "name": ".black (576p)",
-    "tvg-id": ".black (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://stream.mcquack.net/263/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": ".sci-fi (576p)",
     "tvg-id": ".sci-fi (576p)",
     "group": "auto",
@@ -516,7 +508,7 @@
     "tvg-id": "fon tv (1080p)",
     "group": "auto",
     "type": "direct",
-    "source": "https://fontvlive.mediacdn.ru/stream/fontv/playlist.m3u8",
+    "source": "https://fonstreams.mediacdn.ru/stream/fontvclear/playlist.m3u8",
     "headers": {}
   },
   {
@@ -789,14 +781,6 @@
     "group": "auto",
     "type": "direct",
     "source": "https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "KVN TV (576p)",
-    "tvg-id": "kvn tv (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://178.124.179.122:8080/KVN-TV/index.m3u8",
     "headers": {}
   },
   {
@@ -1152,14 +1136,6 @@
     "headers": {}
   },
   {
-    "name": "Okko Futbol (576p)",
-    "tvg-id": "okko futbol (576p)",
-    "group": "auto",
-    "type": "direct",
-    "source": "http://178.124.179.122:8080/Setanta1/index.m3u8",
-    "headers": {}
-  },
-  {
     "name": "Osetiya-Iryston (1080p)",
     "tvg-id": "osetiya-iryston (1080p)",
     "group": "auto",
@@ -1200,8 +1176,8 @@
     "headers": {}
   },
   {
-    "name": "OTV-Prim",
-    "tvg-id": "otv-prim",
+    "name": "OTV-Prim (720p)",
+    "tvg-id": "otv-prim (720p)",
     "group": "auto",
     "type": "direct",
     "source": "https://jz2lo90hnpy.a.trbcdn.net/livemaster/yo8gr_live-5gorrrfpouq.smil/playlist.m3u8",
@@ -1216,8 +1192,8 @@
     "headers": {}
   },
   {
-    "name": "Pervyy Respublikanskiy",
-    "tvg-id": "pervyy respublikanskiy",
+    "name": "Pervyy Respublikanskiy (576p)",
+    "tvg-id": "pervyy respublikanskiy (576p)",
     "group": "auto",
     "type": "direct",
     "source": "https://streaming.televizor-24-tochka.ru/live/27.m3u8",
@@ -1349,14 +1325,6 @@
     "group": "auto",
     "type": "direct",
     "source": "http://stream.mcquack.net/242/index.m3u8",
-    "headers": {}
-  },
-  {
-    "name": "Rossiya 1 Vainah (576i)",
-    "tvg-id": "rossiya 1 vainah (576i)",
-    "group": "auto",
-    "type": "direct",
-    "source": "https://live.chechensoft.ru/vainahtv/ngrp:vaynahtv_all/playlist.m3u8",
     "headers": {}
   },
   {
@@ -1597,6 +1565,38 @@
     "group": "auto",
     "type": "direct",
     "source": "https://stream.smotrim.ru/hls/fasttv04/playlist_3.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Smotrim Chestnyy Detektiv (1080p)",
+    "tvg-id": "smotrim chestnyy detektiv (1080p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Sochi24 (720p)",
+    "tvg-id": "sochi24 (720p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "SONGTV Russia",
+    "tvg-id": "songtv russia",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://songtv.hls.iptvdc.com/web-russia/playlist.m3u8",
+    "headers": {}
+  },
+  {
+    "name": "Soyuz (576p)",
+    "tvg-id": "soyuz (576p)",
+    "group": "auto",
+    "type": "direct",
+    "source": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8",
     "headers": {}
   }
 ]
